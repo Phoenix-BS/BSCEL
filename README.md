@@ -12,13 +12,13 @@ Before you explore this library it's important to know how things are made and w
 - Just because something isn't mentioned in this list doesn't make it automatically OK. Use common sense.
 
 Every environment you find will contain important info including an author and other limitatiions. These include the following:
--Environment Name
--Environment Author(s)
--Base Environment
--Coding Language / Tool used to make environment
--What map format versions are compatible?
--Brief description of the environment and other features of it (LightID's, Geometry, Shaders, etc.)
--Still image of the environment
--List to show what colored lights in the image coorespond to what types of lights in editor
+- Environment Name
+- Environment Author(s)
+- Base Environment
+- Coding Language / Tool used to make environment
+- What map format versions are compatible?
+- Brief description of the environment and other features of it (LightID's, Geometry, Shaders, etc.)
+- Still image of the environment
+- List to show what colored lights in the image coorespond to what types of lights in editor
 
 Currently this library is only suitable to host my own environments that i've made, support for others to put their environments on here will come later. If you know your way around GitHub and want to help organize this database, shoot me a discord dm! Phøenix#5713
