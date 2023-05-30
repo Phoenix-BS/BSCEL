@@ -1,4 +1,4 @@
-# V3CEL
+# BSCEL
 Welcome! V3CEL (V3-Chroma-Environment-Library) Is a Project that is being run to serve as a database for those who want Custom Chroma Environments for their Beat Saber Charts!
 
 This index of environments is a showcase of environments mainly made by me and others so you can not only use them with credit to spice up your chroma shows, but to also dissect how things are done and learn some interesting techniques to apply to your own environment creation!
