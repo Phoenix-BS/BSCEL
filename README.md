@@ -9,6 +9,4 @@ Before you explore this library it's important to know how things are made and w
 - If you find a map that does not give proper credit please respectfully either reach out to the publisher of the map notifying them or reach out to the person behind the environment. Do not escalate this further, harassment is not cool.
 - Just because something isn't mentioned in this list doesn't make it automatically OK. Use common sense.
 
-Notice that everything is optimized and limited only to my coding knowledge, so there's never a garuantee the environments are future proof and fully optimized. It's for this reason that it's recommended you have some experience with heck and other forms of coding before exploring this library.
-
-If you know your way around GitHub and want to help organize this database, shoot me a discord dm! Phøenix#5713
+Notice that everything is optimized and limited only to my coding knowledge, so there's never a garuantee the environments are future proof and fully optimized. It's for this reason that it's recommended you have some experience with JSON and other general forms of coding knowledge. To find original info, go to https://github.com/Aeroluna/Heck/wiki
