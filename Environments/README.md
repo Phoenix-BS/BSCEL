@@ -1,8 +1,20 @@
 # Important Info
 
-All screenshots contained in the folders have the lights set on with a value of [0, 1, 1, 1] w/ vanilla laser speed enabled. Some screenshots will have been modified with ring spins / zooms to showcase all the possible effects
+All screenshots contained in the folders have the lights set on with a value of **[0, 1, 1, 1]** w/ vanilla laser speed enabled. Some screenshots will have been modified with ring spins / zooms to showcase all the possible effects
 
-All Scripts for each environments will contain the following statement that you can modify to serve as input / output. All will by default have ExpertPlusLawless.dat as the input and ExpertPlusLightshow.dat as the output. To Run the scripts, follow the steps listed below:
+All Scripts for each environments will contain the following statement at the top that you can modify to serve as input / output:
+```const fs = require("fs");
+const { toNamespacedPath } = require("path");
+let map = JSON.parse(fs.readFileSync("ExpertPlusLawless.dat"));
+let fileOutput = "ExpertPlusLightshow.dat";
+```
+
+In this example code, `ExpertPlusLawless.dat` is the input diff and `ExpertPlusLightshow` is the output diff.
+The input diff is where you store your map and the script applies it's properties to the output diff with your map when you run it.
+
+All will by default have `ExpertPlusLawless.dat` as the input and `ExpertPlusLightshow.dat` as the output.
+
+### To Run the scripts, follow the steps listed below:
 
 1. Download the script and put it in the map folder that you want to modify
 2. Ensure that the map file is the correct version the script needs to run and that the input / output diffs are correctly assigned to what you need
@@ -12,6 +24,8 @@ All Scripts for each environments will contain the following statement that you 
 6. To check that there are no errors, click on Terminal in the top left and select New Terminal. Then select the Debug Console option where you should see the scripts output. If it worked as intended you should just see done.
 
 Certain environment scripts contain options & preset you can apply to further customize the environment to your needing. All screenshots in this library contain default values and do not showcase the customize options
+
+All Environments are made for **V3 maps** unless specified otherwise
 
 # Absence Environment (Billie)
 ![Absence Image](https://github.com/Phoenix-BS/BSCEL/blob/main/Environments/Billie%20Platform/Absence%20(Billie)/Absence.png)
