@@ -7,7 +7,7 @@ All Scripts for each environments will contain the following statement that you 
 
 # Absence Environment (Billie)
 ![Absence Image](https://github.com/Phoenix-BS/BSCEL/blob/main/Environments/Billie%20Platform/Absence%20(Billie)/Absence.png)
-![Absence Environment](https://github.com/Phoenix-BS/BSCEL/tree/main/Environments/Billie%20Platform/Absence%20(Billie))
+[Absence Environment](https://github.com/Phoenix-BS/BSCEL/tree/main/Environments/Billie%20Platform/Absence%20(Billie))
 # Abstraction Environment (BTS)
 ![Alt text](Abstraction.png)
 # Mainframe Environment (Dragons)
