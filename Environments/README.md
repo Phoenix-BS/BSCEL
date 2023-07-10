@@ -6,7 +6,8 @@ All screenshots contained in the folders have the lights set on with a value of 
 All Scripts for each environments will contain the following statement that you can modify to serve as input / output. All will by default have ExpertPlusLawless.dat as the input and ExpertPlusLightshow.dat as the output.
 
 # Absence Environment (Billie)
-![Absence Environment](Absence.png)
+![Absence Image](https://github.com/Phoenix-BS/BSCEL/blob/main/Environments/Billie%20Platform/Absence%20(Billie)/Absence.png)
+![Absence Environment](https://github.com/Phoenix-BS/BSCEL/tree/main/Environments/Billie%20Platform/Absence%20(Billie))
 # Abstraction Environment (BTS)
 ![Alt text](Abstraction.png)
 # Mainframe Environment (Dragons)
