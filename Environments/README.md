@@ -11,6 +11,8 @@ All Scripts for each environments will contain the following statement that you 
 5. If prompted on how you want to run the script, select node.js (If you do not have this installed be sure to do so)
 6. To check that there are no errors, click on Terminal in the top left and select New Terminal. Then select the Debug Console option where you should see the scripts output. If it worked as intended you should just see done.
 
+Certain environment scripts contain options & preset you can apply to further customize the environment to your needing. All screenshots in this library contain default values and do not showcase the customize options
+
 # Absence Environment (Billie)
 ![Absence Image](https://github.com/Phoenix-BS/BSCEL/blob/main/Environments/Billie%20Platform/Absence%20(Billie)/Absence.png)
 [Absence Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Environments/Billie%20Platform/Absence%20(Billie))
