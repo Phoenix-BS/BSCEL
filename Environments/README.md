@@ -12,7 +12,7 @@ let fileOutput = "ExpertPlusLightshow.dat";
 In this example code, `ExpertPlusLawless.dat` is the input diff and `ExpertPlusLightshow` is the output diff.
 The input diff is where you store your map and the script applies it's properties to the output diff with your map when you run it.
 
-All will by default have `ExpertPlusLawless.dat` as the input and `ExpertPlusLightshow.dat` as the output.
+All scripts in this database will by default have `ExpertPlusLawless.dat` as the input and `ExpertPlusLightshow.dat` as the output.
 
 ### To Run the scripts, follow the steps listed below:
 
