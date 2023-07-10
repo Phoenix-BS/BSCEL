@@ -1,5 +1,5 @@
 # Light Bridge Environment
-![Light Bridge Environment](Light Bridge.png)
+![Light Bridge Environment](<Light Bridge.png>)
 
 **Showcase Maps:**
 UNUSED

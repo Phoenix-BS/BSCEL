@@ -22,7 +22,7 @@ All Scripts for each environments will contain the following statement that you 
 [Mainframe Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Environments/Dragons%20Platform/Mainframe%20(Dragons))
 # Illuminous Environment (Kaleidoscope)
 ![Illuminous Image](https://github.com/Phoenix-BS/BSCEL/blob/main/Environments/Kaleidoscope%20Platform/Illuminous%20(Kaleidoscope)/Illuminous.png)
-[Illuminous Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Environments/Dragons%20Platform/Mainframe%20(Dragons))
+[Illuminous Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Environments/Kaleidoscope%20Platform/Illuminous%20(Kaleidoscope))
 # Light Bridge Environment (Origins)
 ![Light Bridge Image](https://github.com/Phoenix-BS/BSCEL/blob/main/Environments/Origins%20Platform/LightBridge%20(Origins)/Light%20Bridge.png)
 [Light Bridge Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Environments/Origins%20Platform/LightBridge%20(Origins))
