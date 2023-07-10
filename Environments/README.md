@@ -1,9 +1,8 @@
 # Important Info
-This page contains all the environment edits i've published! Clicking on the screenshots below will take you directly to the environments page.
 
 All screenshots contained in the folders have the lights set on with a value of [0, 1, 1, 1] w/ vanilla laser speed enabled. Some screenshots will have been modified with ring spins / zooms to showcase all the possible effects
 
-All Scripts for each environments will contain the following statement that you can modify to serve as input / output. All will by default have ExpertPlusLawless.dat as the input and ExpertPlusLightshow.dat as the output. To Run the scripts, follow these steps
+All Scripts for each environments will contain the following statement that you can modify to serve as input / output. All will by default have ExpertPlusLawless.dat as the input and ExpertPlusLightshow.dat as the output. To Run the scripts, follow the steps listed below:
 
 1. Download the script and put it in the map folder that you want to modify
 2. Ensure that the map file is the correct version the script needs to run and that the input / output diffs are correctly assigned to what you need
