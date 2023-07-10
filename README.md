@@ -10,3 +10,5 @@ Before you explore this library it's important to know how things are made and w
 Notice that everything is optimized and limited only to my coding knowledge, so there's never a garuantee the environments are future proof and fully optimized. It's for this reason that it's recommended you have some experience with JSON and other general forms of coding knowledge. To find original info, go to https://github.com/Aeroluna/Heck/wiki
 
 If you have any questions or concerns feel free to reach out to me on discord! **phoenix5_**
+
+[Environment List](https://github.com/Phoenix-BS/BSCEL/tree/main/Environments)
