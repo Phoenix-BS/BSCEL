@@ -13,7 +13,7 @@ UNUSED
 - Back Light will effect the bloom light that lines the center of the tunnel
 
 # Tunnel (Light Tunnel) Environment
-![Tunnel (Light Tunnel) Environment](Tunnel%20(Light20%Tunnel).png)
+![Tunnel (Light Tunnel) Environment](Tunnel%20(Light%20Tunnel).png)
 
 **Showcase Maps:**
 UNUSED
