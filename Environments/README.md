@@ -55,5 +55,5 @@ All Environments are made for **V3 maps** unless specified otherwise
 ![Mystic Image](https://github.com/Phoenix-BS/BSCEL/blob/main/Environments/Billie%20Platform/Mystic%20(Billie)/Mystic.png)
 [Mystic Environment Page](https://github.com/Phoenix-BS/BSCEL/blob/main/Environments/Billie%20Platform/Mystic%20(Billie))
 # Sight Environment (Billie)
-![Mystic Image](https://github.com/Phoenix-BS/BSCEL/blob/main/Environments/Billie%20Platform/Sight%20(Billie)/Sight.png)
-[Mystic Environment Page](https://github.com/Phoenix-BS/BSCEL/blob/main/Environments/Billie%20Platform/Sight%20(Billie))
+![Sight Image](https://github.com/Phoenix-BS/BSCEL/blob/main/Environments/Billie%20Platform/Sight%20(Billie)/Sight.png)
+[Sight Environment Page](https://github.com/Phoenix-BS/BSCEL/blob/main/Environments/Billie%20Platform/Sight%20(Billie))
