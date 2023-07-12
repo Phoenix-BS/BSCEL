@@ -2,8 +2,6 @@
 
 All screenshots contained in the folders have the lights set on with a value of **[0, 1, 1, 1]** w/ vanilla laser speed enabled. Some screenshots will have been modified with ring spins / zooms to showcase all the possible effects
 
-If you're just here for the already setup User Shared Environment versions you can click [here](https://github.com/Phoenix-BS/BSCEL/tree/main/Environments\User%20Environments) to see the full list
-
 All Scripts for each environments will contain the following statement at the top that you can modify to serve as input / output:
 ```const fs = require("fs");
 const { toNamespacedPath } = require("path");

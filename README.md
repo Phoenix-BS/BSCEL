@@ -13,6 +13,8 @@ In This library you can find the following:
 - Map Scripts (Marked as JavaScript Source Files)
 - User Shared Environments (Marked as .dat Files)
 
+If you're just here for the already setup User Shared Environment versions you can click [here](https://github.com/Phoenix-BS/BSCEL/tree/main/Environments/User%20Environments) to see the full list
+
 If you have any questions or concerns feel free to reach out to me on discord! **phoenix5_**
 
 [Environment List](https://github.com/Phoenix-BS/BSCEL/tree/main/Environments)
