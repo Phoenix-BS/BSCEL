@@ -18,7 +18,7 @@ All scripts in this database will by default have `ExpertPlusLawless.dat` as the
 
 1. Download the script and put it in the map folder that you want to modify
 2. Ensure that the map file is the correct version the script needs to run and that the input / output diffs are correctly assigned to what you need
-3. Open the map folder in VSC and select the script
+3. Open the map folder in VSC (Visual Studio Code) and select the script
 4. Select Run in the top left and scroll down to Run Without Debugging.
 5. If prompted on how you want to run the script, select [node.js](https://nodejs.org/en) (If you do not have this installed be sure to do so)
 6. To check that there are no errors, click on Terminal in the top left and select New Terminal. Then select the Debug Console option where you should see the scripts output. If it worked as intended you should just see done.
