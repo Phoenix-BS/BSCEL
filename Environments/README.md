@@ -2,6 +2,8 @@
 
 All screenshots contained in the folders have the lights set on with a value of **[0, 1, 1, 1]** w/ vanilla laser speed enabled. Some screenshots will have been modified with ring spins / zooms to showcase all the possible effects
 
+If you're just here for the already setup User Shared Environment versions you can click [here](https://github.com/Phoenix-BS/BSCEL/tree/main/Environments\User%20Environments) to see the full list
+
 All Scripts for each environments will contain the following statement at the top that you can modify to serve as input / output:
 ```const fs = require("fs");
 const { toNamespacedPath } = require("path");
@@ -24,8 +26,6 @@ All scripts in this database will by default have `ExpertPlusLawless.dat` as the
 6. To check that there are no errors, click on Terminal in the top left and select New Terminal. Then select the Debug Console option where you should see the scripts output. If it worked as intended you should just see done.
 
 Certain environment scripts contain options & preset you can apply to further customize the environment to your needing. All screenshots in this library contain default values and do not showcase the customize options
-
-If you want only environments that can be used with Chroma's User Environment feature then you can download the .dat files that are already setup for you
 
 All Environments are made for **V3 maps** unless specified otherwise
 
