@@ -17,4 +17,4 @@ UNUSED
 
 # How To Use
 
-- Works the same as above except the Left / Right Laser ID's [1 - 18] are now located around the tunnel and give off a nice aura like effect
+- Works the same as the original except the Left / Right Laser ID's [1 - 18] are now located around the tunnel and give off a nice aura like effect
