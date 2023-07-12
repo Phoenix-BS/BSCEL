@@ -54,6 +54,12 @@ map.customData.environment = [
     active: false
   },
   {
+    id: "Moon$",
+    lookupMethod: "Regex",
+    scale: [50, 50, 1],
+    position: [0, 100, 350],
+},
+  {
     id: "Clouds$",
     lookupMethod: "Regex",
     active: false
