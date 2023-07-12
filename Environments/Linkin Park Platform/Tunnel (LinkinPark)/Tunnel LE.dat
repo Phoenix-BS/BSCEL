@@ -1,10 +1,10 @@
 {
   "version": "1.0.0",
-  "name": "Light Tunnel",
+  "name": "Tunnel (LA)",
   "author": "Phøenix",
   "environmentVersion": "1.0.0",
   "environmentName": "LinkinParkEnvironment",
-  "description": "Light Tunnel Environment (Linkin Park)",
+  "description": "Tunnel (Light Aura Edit Environment) (Linkin Park)",
   "features": {
     "useChromaEvents": true
   },
