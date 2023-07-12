@@ -20,10 +20,12 @@ All scripts in this database will by default have `ExpertPlusLawless.dat` as the
 2. Ensure that the map file is the correct version the script needs to run and that the input / output diffs are correctly assigned to what you need
 3. Open the map folder in VSC and select the script
 4. Select Run in the top left and scroll down to Run Without Debugging.
-5. If prompted on how you want to run the script, select node.js (If you do not have this installed be sure to do so)
+5. If prompted on how you want to run the script, select [node.js](https://nodejs.org/en) (If you do not have this installed be sure to do so)
 6. To check that there are no errors, click on Terminal in the top left and select New Terminal. Then select the Debug Console option where you should see the scripts output. If it worked as intended you should just see done.
 
 Certain environment scripts contain options & preset you can apply to further customize the environment to your needing. All screenshots in this library contain default values and do not showcase the customize options
+
+If you want only environments that can be used with Chroma's User Environment feature then you can download the .dat files that are already setup for you
 
 All Environments are made for **V3 maps** unless specified otherwise
 
