@@ -20,4 +20,4 @@ UNUSED
 
 # How To Use
 
-- Works the same as the original except the glow stick that was lined through the center of the road in front of ths start line is now gone
+- Works the same as the original except the glow stick that was lined through the center of the road in front of ths start line is removed

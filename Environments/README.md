@@ -9,7 +9,7 @@ let map = JSON.parse(fs.readFileSync("ExpertPlusLawless.dat"));
 let fileOutput = "ExpertPlusLightshow.dat";
 ```
 
-In this example code, `ExpertPlusLawless.dat` is the input diff and `ExpertPlusLightshow` is the output diff.
+In this example code, `ExpertPlusLawless.dat` is the input diff and `ExpertPlusLightshow.dat` is the output diff.
 The input diff is where you store your map and the script applies it's properties to the output diff with your map when you run it.
 
 All scripts in this database will by default have `ExpertPlusLawless.dat` as the input and `ExpertPlusLightshow.dat` as the output.
@@ -25,7 +25,7 @@ All scripts in this database will by default have `ExpertPlusLawless.dat` as the
 
 Certain environment scripts contain options & preset you can apply to further customize the environment to your needing. All screenshots in this library contain default values and do not showcase the customize options
 
-All Environments are made for **V3 maps** unless specified otherwise
+All Environments are made for **V3 maps** unless specified otherwise. Currently the best way to modify and work with these scripts is with Chromapper Dev release. Official editor has not been tested but should work the same
 
 # Absence Environment (Billie)
 ![Absence Image](https://github.com/Phoenix-BS/BSCEL/blob/main/Environments/Billie%20Platform/Absence%20(Billie)/Absence.png)

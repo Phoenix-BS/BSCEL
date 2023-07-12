@@ -12,4 +12,4 @@ https://beatsaver.com/maps/3285e
 - Left / Right Sunbeams line the water bridge and with laser speed float around the bridge in a circle formation
 - Sun lights the stars in the background (Does not work with ID's)
 - The Aurora like object in the background will react to all other light in the environment and is sensitive so try fiddling around with it to see how it reacts
-- Boost Lights get rid of the stars in the back
+- Activating Boost Lights will get rid of the stars in the back

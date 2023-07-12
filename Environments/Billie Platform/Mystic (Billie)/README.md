@@ -2,7 +2,7 @@
 ![Mystic Environment](Mystic.png)
 
 **Showcase Maps:**
-UNUSED
+https://beatsaver.com/maps/33f20
 
 # How To Use
 
@@ -11,4 +11,4 @@ UNUSED
 - Left / Right Sunbeams control the waving lights in the sky and best work with random laser speed instead of locked chroma rotation
 - Sun effects the surface of the water and gives it a nice glow in the distance
 - The Aurora like object in the background will react to all other light in the environment and is sensitive so try fiddling around with it to see how it reacts
-- Boost Lights get rid of the waters glow
+- Activiating Boost Colors will get rid of the sun
