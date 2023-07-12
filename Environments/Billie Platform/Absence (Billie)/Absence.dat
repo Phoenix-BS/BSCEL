@@ -31,15 +31,9 @@
             "active": false
         },
         {
-            "id": "Moon\\.\\[\\d+\\]NeonTube$",
-            "lookupMethod": "Regex",
-            "active": false
-          },
-          {
             "id": "Moon$",
             "lookupMethod": "Regex",
-            "scale": [50, 50, 1],
-            "position": [0, 100, 350]
+            "active": false
         },
         {
             "id": "Clouds$",
