@@ -269,252 +269,252 @@ map.customData.environment = [
     rotation: [0, 90, -90]
   },
   {
-    id: "\\]TunnelRotatingLasersPair.\\[\\d\\]BaseL.\\[\\d\\]Laser$",
+    id: "\\]TunnelRotatingLasersPair.\\[0\\]BaseL.\\[0\\]Laser$",
     lookupMethod: "Regex",
     scale: [5000000, 5, 2.5],
     position: [0, 44, 620],
     rotation: [-87.66, 0, 0]
   },
   {
-    id: "\\]TunnelRotatingLasersPair.\\[\\d\\]BaseR.\\[\\d\\]Laser$",
+    id: "\\]TunnelRotatingLasersPair \\(1\\).\\[1\\]BaseR.\\[0\\]Laser$",
     lookupMethod: "Regex",
     scale: [5000000, 5, 2.5],
     position: [0, 44, 620],
     rotation: [-87.66, 0, 0]
   },
   {
-    id: "\\]TunnelRotatingLasersPair \\(1\\).\\[\\d\\]BaseL.\\[\\d\\]Laser$",
+    id: "\\]TunnelRotatingLasersPair \\(9\\).\\[0\\]BaseL.\\[0\\]Laser$",
     lookupMethod: "Regex",
     scale: [5000000, 5, 2.5],
     position: [0, 44, 620],
     rotation: [-87.66, 0, 0]
   },
   {
-    id: "\\]TunnelRotatingLasersPair \\(1\\).\\[\\d\\]BaseR.\\[\\d\\]Laser$",
+    id: "\\]TunnelRotatingLasersPair \\(7\\).\\[1\\]BaseR.\\[0\\]Laser$",
     lookupMethod: "Regex",
     scale: [5000000, 5, 2.5],
     position: [0, 44, 620],
     rotation: [-87.66, 0, 0]
   },
   {
-    id: "\\]TunnelRotatingLasersPair \\(2\\).\\[\\d\\]BaseL.\\[\\d\\]Laser$",
+    id: "\\]TunnelRotatingLasersPair \\(11\\).\\[0\\]BaseL.\\[0\\]Laser$",
     lookupMethod: "Regex",
     scale: [5000000, 5, 2.5],
     position: [0, 44, 620],
     rotation: [-87.66, 0, 0]
   },
   {
-    id: "\\]TunnelRotatingLasersPair \\(2\\).\\[\\d\\]BaseR.\\[\\d\\]Laser$",
+    id: "\\]TunnelRotatingLasersPair \\(17\\).\\[1\\]BaseR.\\[0\\]Laser$",
     lookupMethod: "Regex",
     scale: [5000000, 5, 2.5],
     position: [0, 44, 620],
     rotation: [-87.66, 0, 0]
   },
   {
-    id: "\\]TunnelRotatingLasersPair \\(3\\).\\[\\d\\]BaseL.\\[\\d\\]Laser$",
+    id: "\\]TunnelRotatingLasersPair \\(16\\).\\[0\\]BaseL.\\[0\\]Laser$",
     lookupMethod: "Regex",
     scale: [5000000, 5, 2.5],
     position: [0, 44, 620],
     rotation: [-87.66, 0, 0]
   },
   {
-    id: "\\]TunnelRotatingLasersPair \\(3\\).\\[\\d\\]BaseR.\\[\\d\\]Laser$",
+    id: "\\]TunnelRotatingLasersPair \\(5\\).\\[1\\]BaseR.\\[0\\]Laser$",
     lookupMethod: "Regex",
     scale: [5000000, 5, 2.5],
     position: [0, 44, 620],
     rotation: [-87.66, 0, 0]
   },
   {
-    id: "\\]TunnelRotatingLasersPair \\(4\\).\\[\\d\\]BaseL.\\[\\d\\]Laser$",
+    id: "\\]TunnelRotatingLasersPair \\(17\\).\\[0\\]BaseL.\\[0\\]Laser$",
     lookupMethod: "Regex",
     scale: [5000000, 5, 2.5],
     position: [0, 44, 620],
     rotation: [-87.66, 0, 0]
   },
   {
-    id: "\\]TunnelRotatingLasersPair \\(4\\).\\[\\d\\]BaseR.\\[\\d\\]Laser$",
+    id: "\\]TunnelRotatingLasersPair \\(2\\).\\[1\\]BaseR.\\[0\\]Laser$",
     lookupMethod: "Regex",
     scale: [5000000, 5, 2.5],
     position: [0, 44, 620],
     rotation: [-87.66, 0, 0]
   },
   {
-    id: "\\]TunnelRotatingLasersPair \\(5\\).\\[\\d\\]BaseL.\\[\\d\\]Laser$",
+    id: "\\]TunnelRotatingLasersPair \\(1\\).\\[0\\]BaseL.\\[0\\]Laser$",
     lookupMethod: "Regex",
     scale: [5000000, 5, 2.5],
     position: [0, 44, 620],
     rotation: [-87.66, 0, 0]
   },
   {
-    id: "\\]TunnelRotatingLasersPair \\(5\\).\\[\\d\\]BaseR.\\[\\d\\]Laser$",
+    id: "\\]TunnelRotatingLasersPair \\(11\\).\\[1\\]BaseR.\\[0\\]Laser$",
     lookupMethod: "Regex",
     scale: [5000000, 5, 2.5],
     position: [0, 44, 620],
     rotation: [-87.66, 0, 0]
   },
   {
-    id: "\\]TunnelRotatingLasersPair \\(6\\).\\[\\d\\]BaseL.\\[\\d\\]Laser$",
+    id: "\\]TunnelRotatingLasersPair \\(7\\).\\[0\\]BaseL.\\[0\\]Laser$",
     lookupMethod: "Regex",
     scale: [5000000, 5, 2.5],
     position: [0, 44, 620],
     rotation: [-87.66, 0, 0]
   },
   {
-    id: "\\]TunnelRotatingLasersPair \\(6\\).\\[\\d\\]BaseR.\\[\\d\\]Laser$",
+    id: "\\]TunnelRotatingLasersPair \\(16\\).\\[1\\]BaseR.\\[0\\]Laser$",
     lookupMethod: "Regex",
     scale: [5000000, 5, 2.5],
     position: [0, 44, 620],
     rotation: [-87.66, 0, 0]
   },
   {
-    id: "\\]TunnelRotatingLasersPair \\(7\\).\\[\\d\\]BaseL.\\[\\d\\]Laser$",
+    id: "\\]TunnelRotatingLasersPair \\(5\\).\\[0\\]BaseL.\\[0\\]Laser$",
     lookupMethod: "Regex",
     scale: [5000000, 5, 2.5],
     position: [0, 44, 620],
     rotation: [-87.66, 0, 0]
   },
   {
-    id: "\\]TunnelRotatingLasersPair \\(7\\).\\[\\d\\]BaseR.\\[\\d\\]Laser$",
+    id: "\\]TunnelRotatingLasersPair \\(9\\).\\[1\\]BaseR.\\[0\\]Laser$",
     lookupMethod: "Regex",
     scale: [5000000, 5, 2.5],
     position: [0, 44, 620],
     rotation: [-87.66, 0, 0]
   },
   {
-    id: "\\]TunnelRotatingLasersPair \\(8\\).\\[\\d\\]BaseL.\\[\\d\\]Laser$",
+    id: "\\]TunnelRotatingLasersPair \\(10\\).\\[0\\]BaseL.\\[0\\]Laser$",
     lookupMethod: "Regex",
     scale: [5000000, 5, 2.5],
     position: [0, 44, 620],
     rotation: [-87.66, 0, 0]
   },
   {
-    id: "\\]TunnelRotatingLasersPair \\(8\\).\\[\\d\\]BaseR.\\[\\d\\]Laser$",
+    id: "\\]TunnelRotatingLasersPair \\(12\\).\\[1\\]BaseR.\\[0\\]Laser$",
     lookupMethod: "Regex",
     scale: [5000000, 5, 2.5],
     position: [0, 44, 620],
     rotation: [-87.66, 0, 0]
   },
   {
-    id: "\\]TunnelRotatingLasersPair \\(9\\).\\[\\d\\]BaseL.\\[\\d\\]Laser$",
+    id: "\\]TunnelRotatingLasersPair \\(3\\).\\[0\\]BaseL.\\[0\\]Laser$",
     lookupMethod: "Regex",
     scale: [5000000, 5, 2.5],
     position: [0, 44, 620],
     rotation: [-87.66, 0, 0]
   },
   {
-    id: "\\]TunnelRotatingLasersPair \\(9\\).\\[\\d\\]BaseR.\\[\\d\\]Laser$",
+    id: "\\]TunnelRotatingLasersPair \\(8\\).\\[1\\]BaseR.\\[0\\]Laser$",
     lookupMethod: "Regex",
     scale: [5000000, 5, 2.5],
     position: [0, 44, 620],
     rotation: [-87.66, 0, 0]
   },
   {
-    id: "\\]TunnelRotatingLasersPair \\(10\\).\\[\\d\\]BaseL.\\[\\d\\]Laser$",
+    id: "\\]TunnelRotatingLasersPair \\(6\\).\\[0\\]BaseL.\\[0\\]Laser$",
     lookupMethod: "Regex",
     scale: [5000000, 5, 2.5],
     position: [0, 44, 620],
     rotation: [-87.66, 0, 0]
   },
   {
-    id: "\\]TunnelRotatingLasersPair \\(10\\).\\[\\d\\]BaseR.\\[\\d\\]Laser$",
+    id: "\\]TunnelRotatingLasersPair \\(15\\).\\[1\\]BaseR.\\[0\\]Laser$",
     lookupMethod: "Regex",
     scale: [5000000, 5, 2.5],
     position: [0, 44, 620],
     rotation: [-87.66, 0, 0]
   },
   {
-    id: "\\]TunnelRotatingLasersPair \\(11\\).\\[\\d\\]BaseL.\\[\\d\\]Laser$",
+    id: "\\]TunnelRotatingLasersPair \\(4\\).\\[0\\]BaseL.\\[0\\]Laser$",
     lookupMethod: "Regex",
     scale: [5000000, 5, 2.5],
     position: [0, 44, 620],
     rotation: [-87.66, 0, 0]
   },
   {
-    id: "\\]TunnelRotatingLasersPair \\(11\\).\\[\\d\\]BaseR.\\[\\d\\]Laser$",
+    id: "\\]TunnelRotatingLasersPair \\(4\\).\\[1\\]BaseR.\\[0\\]Laser$",
     lookupMethod: "Regex",
     scale: [5000000, 5, 2.5],
     position: [0, 44, 620],
     rotation: [-87.66, 0, 0]
   },
   {
-    id: "\\]TunnelRotatingLasersPair \\(12\\).\\[\\d\\]BaseL.\\[\\d\\]Laser$",
+    id: "\\]TunnelRotatingLasersPair \\(15\\).\\[0\\]BaseL.\\[0\\]Laser$",
     lookupMethod: "Regex",
     scale: [5000000, 5, 2.5],
     position: [0, 44, 620],
     rotation: [-87.66, 0, 0]
   },
   {
-    id: "\\]TunnelRotatingLasersPair \\(12\\).\\[\\d\\]BaseR.\\[\\d\\]Laser$",
+    id: "\\]TunnelRotatingLasersPair \\(6\\).\\[1\\]BaseR.\\[0\\]Laser$",
     lookupMethod: "Regex",
     scale: [5000000, 5, 2.5],
     position: [0, 44, 620],
     rotation: [-87.66, 0, 0]
   },
   {
-    id: "\\]TunnelRotatingLasersPair \\(13\\).\\[\\d\\]BaseL.\\[\\d\\]Laser$",
+    id: "\\]TunnelRotatingLasersPair \\(13\\).\\[0\\]BaseL.\\[0\\]Laser$",
     lookupMethod: "Regex",
     scale: [5000000, 5, 2.5],
     position: [0, 44, 620],
     rotation: [-87.66, 0, 0]
   },
   {
-    id: "\\]TunnelRotatingLasersPair \\(13\\).\\[\\d\\]BaseR.\\[\\d\\]Laser$",
+    id: "\\]TunnelRotatingLasersPair \\(14\\).\\[1\\]BaseR.\\[0\\]Laser$",
     lookupMethod: "Regex",
     scale: [5000000, 5, 2.5],
     position: [0, 44, 620],
     rotation: [-87.66, 0, 0]
   },
   {
-    id: "\\]TunnelRotatingLasersPair \\(14\\).\\[\\d\\]BaseL.\\[\\d\\]Laser$",
+    id: "\\]TunnelRotatingLasersPair \\(14\\).\\[0\\]BaseL.\\[0\\]Laser$",
     lookupMethod: "Regex",
     scale: [5000000, 5, 2.5],
     position: [0, 44, 620],
     rotation: [-87.66, 0, 0]
   },
   {
-    id: "\\]TunnelRotatingLasersPair \\(14\\).\\[\\d\\]BaseR.\\[\\d\\]Laser$",
+    id: "\\]TunnelRotatingLasersPair \\(13\\).\\[1\\]BaseR.\\[0\\]Laser$",
     lookupMethod: "Regex",
     scale: [5000000, 5, 2.5],
     position: [0, 44, 620],
     rotation: [-87.66, 0, 0]
   },
   {
-    id: "\\]TunnelRotatingLasersPair \\(15\\).\\[\\d\\]BaseL.\\[\\d\\]Laser$",
+    id: "\\]TunnelRotatingLasersPair \\(8\\).\\[0\\]BaseL.\\[0\\]Laser$",
     lookupMethod: "Regex",
     scale: [5000000, 5, 2.5],
     position: [0, 44, 620],
     rotation: [-87.66, 0, 0]
   },
   {
-    id: "\\]TunnelRotatingLasersPair \\(15\\).\\[\\d\\]BaseR.\\[\\d\\]Laser$",
+    id: "\\]TunnelRotatingLasersPair \\(3\\).\\[1\\]BaseR.\\[0\\]Laser$",
     lookupMethod: "Regex",
     scale: [5000000, 5, 2.5],
     position: [0, 44, 620],
     rotation: [-87.66, 0, 0]
   },
   {
-    id: "\\]TunnelRotatingLasersPair \\(16\\).\\[\\d\\]BaseL.\\[\\d\\]Laser$",
+    id: "\\]TunnelRotatingLasersPair \\(12\\).\\[0\\]BaseL.\\[0\\]Laser$",
     lookupMethod: "Regex",
     scale: [5000000, 5, 2.5],
     position: [0, 44, 620],
     rotation: [-87.66, 0, 0]
   },
   {
-    id: "\\]TunnelRotatingLasersPair \\(16\\).\\[\\d\\]BaseR.\\[\\d\\]Laser$",
+    id: "\\]TunnelRotatingLasersPair \\(10\\).\\[1\\]BaseR.\\[0\\]Laser$",
     lookupMethod: "Regex",
     scale: [5000000, 5, 2.5],
     position: [0, 44, 620],
     rotation: [-87.66, 0, 0]
   },
   {
-    id: "\\]TunnelRotatingLasersPair \\(17\\).\\[\\d\\]BaseL.\\[\\d\\]Laser$",
+    id: "\\]TunnelRotatingLasersPair \\(2\\).\\[0\\]BaseL.\\[0\\]Laser$",
     lookupMethod: "Regex",
     scale: [5000000, 5, 2.5],
     position: [0, 44, 620],
     rotation: [-87.66, 0, 0]
   },
   {
-    id: "\\]TunnelRotatingLasersPair \\(17\\).\\[\\d\\]BaseR.\\[\\d\\]Laser$",
+    id: "\\]TunnelRotatingLasersPair.\\[1\\]BaseR.\\[0\\]Laser$",
     lookupMethod: "Regex",
     scale: [5000000, 5, 2.5],
     position: [0, 44, 620],

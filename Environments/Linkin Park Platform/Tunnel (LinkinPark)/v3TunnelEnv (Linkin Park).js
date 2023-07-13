@@ -276,175 +276,175 @@ map.customData.environment = [
     rotation: [-30, -30, 0]
   },
   {
-    id: "\\]TunnelRotatingLasersPair.\\[1\\]BaseR.\\[0\\]Laser$",
+    id: "\\]TunnelRotatingLasersPair \\(1\\).\\[1\\]BaseR.\\[0\\]Laser$",
     lookupMethod: "Regex",
     scale: [1, 0.005, 10000],
     position: [7, 0, 1 * laserOffset],
     rotation: [-30, 30, 0]
   },
   {
-    id: "\\]TunnelRotatingLasersPair \\(1\\).\\[0\\]BaseL.\\[0\\]Laser$",
+    id: "\\]TunnelRotatingLasersPair \\(9\\).\\[0\\]BaseL.\\[0\\]Laser$",
     lookupMethod: "Regex",
     scale: [1, 0.005, 10000],
     position: [-7, 0, 2 * laserOffset],
     rotation: [-30, -30, 0]
   },
   {
-    id: "\\]TunnelRotatingLasersPair \\(1\\).\\[1\\]BaseR.\\[0\\]Laser$",
+    id: "\\]TunnelRotatingLasersPair \\(7\\).\\[1\\]BaseR.\\[0\\]Laser$",
     lookupMethod: "Regex",
     scale: [1, 0.005, 10000],
     position: [7, 0, 2 * laserOffset],
     rotation: [-30, 30, 0]
   },
   {
-    id: "\\]TunnelRotatingLasersPair \\(2\\).\\[0\\]BaseL.\\[0\\]Laser$",
+    id: "\\]TunnelRotatingLasersPair \\(11\\).\\[0\\]BaseL.\\[0\\]Laser$",
     lookupMethod: "Regex",
     scale: [1, 0.005, 10000],
     position: [-7, 0, 3 * laserOffset],
     rotation: [-30, -30, 0]
   },
   {
-    id: "\\]TunnelRotatingLasersPair \\(2\\).\\[1\\]BaseR.\\[0\\]Laser$",
+    id: "\\]TunnelRotatingLasersPair \\(17\\).\\[1\\]BaseR.\\[0\\]Laser$",
     lookupMethod: "Regex",
     scale: [1, 0.005, 10000],
     position: [7, 0, 3 * laserOffset],
     rotation: [-30, 30, 0]
   },
   {
-    id: "\\]TunnelRotatingLasersPair \\(3\\).\\[0\\]BaseL.\\[0\\]Laser$",
+    id: "\\]TunnelRotatingLasersPair \\(16\\).\\[0\\]BaseL.\\[0\\]Laser$",
     lookupMethod: "Regex",
     scale: [1, 0.005, 10000],
     position: [-7, 0, 4 * laserOffset],
     rotation: [-30, -30, 0]
   },
   {
-    id: "\\]TunnelRotatingLasersPair \\(3\\).\\[1\\]BaseR.\\[0\\]Laser$",
+    id: "\\]TunnelRotatingLasersPair \\(5\\).\\[1\\]BaseR.\\[0\\]Laser$",
     lookupMethod: "Regex",
     scale: [1, 0.005, 10000],
     position: [7, 0, 4 * laserOffset],
     rotation: [-30, 30, 0]
   },
   {
-    id: "\\]TunnelRotatingLasersPair \\(4\\).\\[0\\]BaseL.\\[0\\]Laser$",
+    id: "\\]TunnelRotatingLasersPair \\(17\\).\\[0\\]BaseL.\\[0\\]Laser$",
     lookupMethod: "Regex",
     scale: [1, 0.005, 10000],
     position: [-7, 0, 5 * laserOffset],
     rotation: [-30, -30, 0]
   },
   {
-    id: "\\]TunnelRotatingLasersPair \\(4\\).\\[1\\]BaseR.\\[0\\]Laser$",
+    id: "\\]TunnelRotatingLasersPair \\(2\\).\\[1\\]BaseR.\\[0\\]Laser$",
     lookupMethod: "Regex",
     scale: [1, 0.005, 10000],
     position: [7, 0, 5 * laserOffset],
     rotation: [-30, 30, 0]
   },
   {
-    id: "\\]TunnelRotatingLasersPair \\(5\\).\\[0\\]BaseL.\\[0\\]Laser$",
+    id: "\\]TunnelRotatingLasersPair \\(1\\).\\[0\\]BaseL.\\[0\\]Laser$",
     lookupMethod: "Regex",
     scale: [1, 0.005, 10000],
     position: [-7, 0, 6 * laserOffset],
     rotation: [-30, -30, 0]
   },
   {
-    id: "\\]TunnelRotatingLasersPair \\(5\\).\\[1\\]BaseR.\\[0\\]Laser$",
+    id: "\\]TunnelRotatingLasersPair \\(11\\).\\[1\\]BaseR.\\[0\\]Laser$",
     lookupMethod: "Regex",
     scale: [1, 0.005, 10000],
     position: [7, 0, 6 * laserOffset],
     rotation: [-30, 30, 0]
   },
   {
-    id: "\\]TunnelRotatingLasersPair \\(6\\).\\[0\\]BaseL.\\[0\\]Laser$",
+    id: "\\]TunnelRotatingLasersPair \\(7\\).\\[0\\]BaseL.\\[0\\]Laser$",
     lookupMethod: "Regex",
     scale: [1, 0.005, 10000],
     position: [-7, 0, 7 * laserOffset],
     rotation: [-30, -30, 0]
   },
   {
-    id: "\\]TunnelRotatingLasersPair \\(6\\).\\[1\\]BaseR.\\[0\\]Laser$",
+    id: "\\]TunnelRotatingLasersPair \\(16\\).\\[1\\]BaseR.\\[0\\]Laser$",
     lookupMethod: "Regex",
     scale: [1, 0.005, 10000],
     position: [7, 0, 7 * laserOffset],
     rotation: [-30, 30, 0]
   },
   {
-    id: "\\]TunnelRotatingLasersPair \\(7\\).\\[0\\]BaseL.\\[0\\]Laser$",
+    id: "\\]TunnelRotatingLasersPair \\(5\\).\\[0\\]BaseL.\\[0\\]Laser$",
     lookupMethod: "Regex",
     scale: [1, 0.005, 10000],
     position: [-7, 0, 8 * laserOffset],
     rotation: [-30, -30, 0]
   },
   {
-    id: "\\]TunnelRotatingLasersPair \\(7\\).\\[1\\]BaseR.\\[0\\]Laser$",
+    id: "\\]TunnelRotatingLasersPair \\(9\\).\\[1\\]BaseR.\\[0\\]Laser$",
     lookupMethod: "Regex",
     scale: [1, 0.005, 10000],
     position: [7, 0, 8 * laserOffset],
     rotation: [-30, 30, 0]
   },
   {
-    id: "\\]TunnelRotatingLasersPair \\(8\\).\\[0\\]BaseL.\\[0\\]Laser$",
+    id: "\\]TunnelRotatingLasersPair \\(10\\).\\[0\\]BaseL.\\[0\\]Laser$",
     lookupMethod: "Regex",
     scale: [1, 0.005, 10000],
     position: [-7, 0, 9 * laserOffset],
     rotation: [-30, -30, 0]
   },
   {
-    id: "\\]TunnelRotatingLasersPair \\(8\\).\\[1\\]BaseR.\\[0\\]Laser$",
+    id: "\\]TunnelRotatingLasersPair \\(12\\).\\[1\\]BaseR.\\[0\\]Laser$",
     lookupMethod: "Regex",
     scale: [1, 0.005, 10000],
     position: [7, 0, 9 * laserOffset],
     rotation: [-30, 30, 0]
   },
   {
-    id: "\\]TunnelRotatingLasersPair \\(9\\).\\[0\\]BaseL.\\[0\\]Laser$",
+    id: "\\]TunnelRotatingLasersPair \\(3\\).\\[0\\]BaseL.\\[0\\]Laser$",
     lookupMethod: "Regex",
     scale: [1, 0.005, 10000],
     position: [-7, 0, 10 * laserOffset],
     rotation: [-30, -30, 0]
   },
   {
-    id: "\\]TunnelRotatingLasersPair \\(9\\).\\[1\\]BaseR.\\[0\\]Laser$",
+    id: "\\]TunnelRotatingLasersPair \\(8\\).\\[1\\]BaseR.\\[0\\]Laser$",
     lookupMethod: "Regex",
     scale: [1, 0.005, 10000],
     position: [7, 0, 10 * laserOffset],
     rotation: [-30, 30, 0]
   },
   {
-    id: "\\]TunnelRotatingLasersPair \\(10\\).\\[0\\]BaseL.\\[0\\]Laser$",
+    id: "\\]TunnelRotatingLasersPair \\(6\\).\\[0\\]BaseL.\\[0\\]Laser$",
     lookupMethod: "Regex",
     scale: [1, 0.005, 10000],
     position: [-7, 0, 11 * laserOffset],
     rotation: [-30, -30, 0]
   },
   {
-    id: "\\]TunnelRotatingLasersPair \\(10\\).\\[1\\]BaseR.\\[0\\]Laser$",
+    id: "\\]TunnelRotatingLasersPair \\(15\\).\\[1\\]BaseR.\\[0\\]Laser$",
     lookupMethod: "Regex",
     scale: [1, 0.005, 10000],
     position: [7, 0, 11 * laserOffset],
     rotation: [-30, 30, 0]
   },
   {
-    id: "\\]TunnelRotatingLasersPair \\(11\\).\\[0\\]BaseL.\\[0\\]Laser$",
+    id: "\\]TunnelRotatingLasersPair \\(4\\).\\[0\\]BaseL.\\[0\\]Laser$",
     lookupMethod: "Regex",
     scale: [1, 0.005, 10000],
     position: [-7, 0, 12 * laserOffset],
     rotation: [-30, -30, 0]
   },
   {
-    id: "\\]TunnelRotatingLasersPair \\(11\\).\\[1\\]BaseR.\\[0\\]Laser$",
+    id: "\\]TunnelRotatingLasersPair \\(4\\).\\[1\\]BaseR.\\[0\\]Laser$",
     lookupMethod: "Regex",
     scale: [1, 0.005, 10000],
     position: [7, 0, 12 * laserOffset],
     rotation: [-30, 30, 0]
   },
   {
-    id: "\\]TunnelRotatingLasersPair \\(12\\).\\[0\\]BaseL.\\[0\\]Laser$",
+    id: "\\]TunnelRotatingLasersPair \\(15\\).\\[0\\]BaseL.\\[0\\]Laser$",
     lookupMethod: "Regex",
     scale: [1, 0.005, 10000],
     position: [-7, 0, 13 * laserOffset],
     rotation: [-30, -30, 0]
   },
   {
-    id: "\\]TunnelRotatingLasersPair \\(12\\).\\[1\\]BaseR.\\[0\\]Laser$",
+    id: "\\]TunnelRotatingLasersPair \\(6\\).\\[1\\]BaseR.\\[0\\]Laser$",
     lookupMethod: "Regex",
     scale: [1, 0.005, 10000],
     position: [7, 0, 13 * laserOffset],
@@ -458,7 +458,7 @@ map.customData.environment = [
     rotation: [-30, -30, 0]
   },
   {
-    id: "\\]TunnelRotatingLasersPair \\(13\\).\\[1\\]BaseR.\\[0\\]Laser$",
+    id: "\\]TunnelRotatingLasersPair \\(14\\).\\[1\\]BaseR.\\[0\\]Laser$",
     lookupMethod: "Regex",
     scale: [1, 0.005, 10000],
     position: [7, 0, 14 * laserOffset],
@@ -472,49 +472,49 @@ map.customData.environment = [
     rotation: [-30, -30, 0]
   },
   {
-    id: "\\]TunnelRotatingLasersPair \\(14\\).\\[1\\]BaseR.\\[0\\]Laser$",
+    id: "\\]TunnelRotatingLasersPair \\(13\\).\\[1\\]BaseR.\\[0\\]Laser$",
     lookupMethod: "Regex",
     scale: [1, 0.005, 10000],
     position: [7, 0, 15 * laserOffset],
     rotation: [-30, 30, 0]
   },
   {
-    id: "\\]TunnelRotatingLasersPair \\(15\\).\\[0\\]BaseL.\\[0\\]Laser$",
+    id: "\\]TunnelRotatingLasersPair \\(8\\).\\[0\\]BaseL.\\[0\\]Laser$",
     lookupMethod: "Regex",
     scale: [1, 0.005, 10000],
     position: [-7, 0, 16 * laserOffset],
     rotation: [-30, -30, 0]
   },
   {
-    id: "\\]TunnelRotatingLasersPair \\(15\\).\\[1\\]BaseR.\\[0\\]Laser$",
+    id: "\\]TunnelRotatingLasersPair \\(3\\).\\[1\\]BaseR.\\[0\\]Laser$",
     lookupMethod: "Regex",
     scale: [1, 0.005, 10000],
     position: [7, 0, 16 * laserOffset],
     rotation: [-30, 30, 0]
   },
   {
-    id: "\\]TunnelRotatingLasersPair \\(16\\).\\[0\\]BaseL.\\[0\\]Laser$",
+    id: "\\]TunnelRotatingLasersPair \\(12\\).\\[0\\]BaseL.\\[0\\]Laser$",
     lookupMethod: "Regex",
     scale: [1, 0.005, 10000],
     position: [-7, 0, 17 * laserOffset],
     rotation: [-30, -30, 0]
   },
   {
-    id: "\\]TunnelRotatingLasersPair \\(16\\).\\[1\\]BaseR.\\[0\\]Laser$",
+    id: "\\]TunnelRotatingLasersPair \\(10\\).\\[1\\]BaseR.\\[0\\]Laser$",
     lookupMethod: "Regex",
     scale: [1, 0.005, 10000],
     position: [7, 0, 17 * laserOffset],
     rotation: [-30, 30, 0]
   },
   {
-    id: "\\]TunnelRotatingLasersPair \\(17\\).\\[0\\]BaseL.\\[0\\]Laser$",
+    id: "\\]TunnelRotatingLasersPair \\(2\\).\\[0\\]BaseL.\\[0\\]Laser$",
     lookupMethod: "Regex",
     scale: [1, 0.005, 10000],
     position: [-7, 0, 18 * laserOffset],
     rotation: [-30, -30, 0]
   },
   {
-    id: "\\]TunnelRotatingLasersPair \\(17\\).\\[1\\]BaseR.\\[0\\]Laser$",
+    id: "\\]TunnelRotatingLasersPair.\\[1\\]BaseR.\\[0\\]Laser$",
     lookupMethod: "Regex",
     scale: [1, 0.005, 10000],
     position: [7, 0, 18 * laserOffset],
