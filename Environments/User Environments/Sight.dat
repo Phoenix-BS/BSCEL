@@ -32,11 +32,6 @@
             "active": false
         },
         {
-            "id": "NarrowGameHUD",
-            "lookupMethod": "Contains",
-            "active": false
-        },
-        {
             "id": "Clouds$",
             "lookupMethod": "Regex",
             "active": false

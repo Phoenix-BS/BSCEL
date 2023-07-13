@@ -23,6 +23,8 @@ function Random(min, max) {
   return Math.floor(Math.random() * (max - min + 1) + min);
 }
 
+let laserOffset = 15;
+
 map.customData.environment = [
   {
     id: "LinkinParkEnvironment.[0]Environment",
@@ -62,6 +64,11 @@ map.customData.environment = [
     active: false
   },
   {
+    id: "LinkinParkSoldier$",
+    lookupMethod: "Regex",
+    active: false
+  },
+  {
     id: "Tunnel ",
     lookupMethod: "Contains",
     active: false
@@ -69,7 +76,7 @@ map.customData.environment = [
   {
     id: "BigSmokePS$",
     lookupMethod: "Regex",
-    duplicate: 15,
+    duplicate: 8,
     position: [0, 0.05, 0],
     scale: [30, 0.001, 30],
     rotation: [0, 0, 0]
@@ -77,7 +84,7 @@ map.customData.environment = [
   {
     id: "BigSmokePS$",
     lookupMethod: "Regex",
-    duplicate: 15,
+    duplicate: 8,
     position: [0, 67.5, 0],
     scale: [30, 0.001, 30],
     rotation: [0, 0, 0]
@@ -138,63 +145,16 @@ map.customData.environment = [
   {
     id: "LogoLight$",
     lookupMethod: "Regex",
-    duplicate: 3,
-    position: [0, 0, 180],
-    scale: [999999, 100, 1],
+    duplicate: 1,
+    position: [0, 0.75, 25],
+    scale: [8, 8, 8],
     rotation: [0, 0, 90]
-  },
-  {
-    id: "LinkinParkSoldier$",
-    lookupMethod: "Regex",
-    position: [15, -20, 125],
-    scale: [250, 160, 160],
-    rotation: [0, 0, 0]
-  },
-  {
-    id: "LinkinParkSoldier$",
-    lookupMethod: "Regex",
-    duplicate: 1,
-    position: [-15, -20, 125],
-    scale: [250, 160, 160],
-    rotation: [0, 180, 0]
-  },
-  {
-    id: "LinkinParkSoldier$",
-    lookupMethod: "Regex",
-    duplicate: 1,
-    position: [10, -22, 175],
-    scale: [300, 160, 160],
-    rotation: [0, 0, 0]
-  },
-  {
-    id: "LinkinParkSoldier$",
-    lookupMethod: "Regex",
-    duplicate: 1,
-    position: [-10, -22, 175],
-    scale: [300, 160, 160],
-    rotation: [0, 180, 0]
-  },
-  {
-    id: "LinkinParkSoldier$",
-    lookupMethod: "Regex",
-    duplicate: 1,
-    position: [5, -24, 225],
-    scale: [350, 160, 160],
-    rotation: [0, 0, 0]
-  },
-  {
-    id: "LinkinParkSoldier$",
-    lookupMethod: "Regex",
-    duplicate: 1,
-    position: [-5, -24, 225],
-    scale: [350, 160, 160],
-    rotation: [0, 180, 0]
   },
   {
     id: "TrackMirror$",
     lookupMethod: "Regex",
-    position: [0.8725, 0, -75],
-    scale: [2.9, 1, 8],
+    position: [0.8725, 0, -15],
+    scale: [2.9, 1, 1.25],
     rotation: [0, 0, 0]
   },
   {
@@ -217,28 +177,28 @@ map.customData.environment = [
     active: false
   },
   {
-    id: "LaserTop \\(3\\)$",
+    id: "LaserTop$",
     lookupMethod: "Regex",
     position: [-47.5, 7.5, 120],
     scale: [40, 10, 2.5],
     rotation: [0, 0, 0]
   },
   {
-    id: "LaserTop$",
+    id: "LaserTop \\(1\\)$",
     lookupMethod: "Regex",
     position: [-44, 27.5, 120],
     scale: [35, 10, 2.5],
     rotation: [0, 0, -22.5]
   },
   {
-    id: "LaserTop \\(1\\)$",
+    id: "LaserTop \\(2\\)$",
     lookupMethod: "Regex",
     position: [-33, 45.5, 120],
     scale: [30, 10, 2.5],
     rotation: [0, 0, -45]
   },
   {
-    id: "LaserTop \\(2\\)$",
+    id: "LaserTop \\(3\\)$",
     lookupMethod: "Regex",
     position: [-14.5, 57.5, 120],
     scale: [25, 10, 2.5],
@@ -566,6 +526,7 @@ map.customData.environment = [
     position: [0, 44, 620],
     rotation: [-87.66, 0, 0]
   },
+
 ];
 
 

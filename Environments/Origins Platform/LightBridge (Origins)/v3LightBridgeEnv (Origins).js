@@ -26,7 +26,7 @@ function Random(min, max) {
 let RingScaleX = 0.25
 let RingScaleY = 0.5
 
-let RingOffsetZ = 125
+let RingOffsetZ = 250
 
 let RingShapeScaleZ = 5
 
@@ -217,7 +217,7 @@ map.customData.environment = [
     id: "FrontLights$",
     lookupMethod: "Regex",
     duplicate: 1,
-    position: [0, -240, -75],
+    position: [0, -240, 125],
     rotation: [0, 0, 0],
     scale: [80, 120, 10]
   },
@@ -225,7 +225,7 @@ map.customData.environment = [
     id: "FrontLights$",
     lookupMethod: "Regex",
     duplicate: 1,
-    position: [0, 302, -75],
+    position: [0, 302, 125],
     rotation: [0, 0, 180],
     scale: [80, 120, 10]
   },

@@ -3,7 +3,7 @@
 const fs = require("fs");
 const { toNamespacedPath } = require("path");
 let map = JSON.parse(fs.readFileSync("ExpertPlusLawless.dat"));
-let fileOutput = "ExpertPlusLightshow.dat";
+let fileOutput = "ExpertPlusStandard.dat";
 
 ///// ^^^^^ input ^^^^^ /////
 ///// vvv workspace vvv /////
@@ -175,9 +175,9 @@ map.customData.environment = [
   {  
     id: "WaterRainRipples\\.\\[0\\]SplashMesh$",
     lookupMethod: "Regex",
-    position: [0, 12500, 0],
-    scale: [160000, -90000, 5000],
-    rotation: [30, -6.9, -20]
+    position: [450, 12500, 300],
+    scale: [49000, 15000, 3000],
+    rotation: [7.5, 17.5, -20]
   },
   {  
     id: "FrontMountains$",
@@ -390,154 +390,154 @@ map.customData.environment = [
     id: "\\]TunnelRotatingLasersPair \\(4\\).\\[\\d\\]BaseL.\\[\\d\\]Laser$",
     lookupMethod: "Regex",
     scale: [10, 12.5, 15000],
-    position: [-500, 0, 3750],
+    position: [-560, 0, 3750],
     rotation: [-87.66, 0, 0]
   },
   {
     id: "\\]TunnelRotatingLasersPair \\(4\\).\\[\\d\\]BaseR.\\[\\d\\]Laser$",
     lookupMethod: "Regex",
     scale: [10, 12.5, 15000],
-    position: [500, 0, 3750],
+    position: [560, 0, 3750],
     rotation: [-87.66, 0, 0]
   },
   {
     id: "\\]TunnelRotatingLasersPair \\(5\\).\\[\\d\\]BaseL.\\[\\d\\]Laser$",
     lookupMethod: "Regex",
     scale: [10, 12.5, 15000],
-    position: [-500, 0, 3750],
+    position: [-560, 0, 3750],
     rotation: [-87.66, 0, 0]
   },
   {
     id: "\\]TunnelRotatingLasersPair \\(5\\).\\[\\d\\]BaseR.\\[\\d\\]Laser$",
     lookupMethod: "Regex",
     scale: [10, 12.5, 15000],
-    position: [500, 0, 3750],
+    position: [560, 0, 3750],
     rotation: [-87.66, 0, 0]
   },
   {
     id: "\\]TunnelRotatingLasersPair \\(6\\).\\[\\d\\]BaseL.\\[\\d\\]Laser$",
     lookupMethod: "Regex",
     scale: [10, 12.5, 15000],
-    position: [-500, 0, 3750],
+    position: [-560, 0, 3750],
     rotation: [-87.66, 0, 0]
   },
   {
     id: "\\]TunnelRotatingLasersPair \\(6\\).\\[\\d\\]BaseR.\\[\\d\\]Laser$",
     lookupMethod: "Regex",
     scale: [10, 12.5, 15000],
-    position: [500, 0, 3750],
+    position: [560, 0, 3750],
     rotation: [-87.66, 0, 0]
   },
   {
     id: "\\]TunnelRotatingLasersPair \\(7\\).\\[\\d\\]BaseL.\\[\\d\\]Laser$",
     lookupMethod: "Regex",
     scale: [10, 12.5, 15000],
-    position: [-500, 0, 3750],
+    position: [-560, 0, 3750],
     rotation: [-87.66, 0, 0]
   },
   {
     id: "\\]TunnelRotatingLasersPair \\(7\\).\\[\\d\\]BaseR.\\[\\d\\]Laser$",
     lookupMethod: "Regex",
     scale: [10, 12.5, 15000],
-    position: [500, 0, 3750],
+    position: [560, 0, 3750],
     rotation: [-87.66, 0, 0]
   },
   {
     id: "\\]TunnelRotatingLasersPair \\(8\\).\\[\\d\\]BaseL.\\[\\d\\]Laser$",
     lookupMethod: "Regex",
     scale: [10, 12.5, 15000],
-    position: [-500, 0, 3750],
+    position: [-560, 0, 3750],
     rotation: [-87.66, 0, 0]
   },
   {
     id: "\\]TunnelRotatingLasersPair \\(8\\).\\[\\d\\]BaseR.\\[\\d\\]Laser$",
     lookupMethod: "Regex",
     scale: [10, 12.5, 15000],
-    position: [500, 0, 3750],
+    position: [560, 0, 3750],
     rotation: [-87.66, 0, 0]
   },
   {
     id: "\\]TunnelRotatingLasersPair \\(9\\).\\[\\d\\]BaseL.\\[\\d\\]Laser$",
     lookupMethod: "Regex",
     scale: [10, 12.5, 15000],
-    position: [-500, 0, 3750],
+    position: [-560, 0, 3750],
     rotation: [-87.66, 0, 0]
   },
   {
     id: "\\]TunnelRotatingLasersPair \\(9\\).\\[\\d\\]BaseR.\\[\\d\\]Laser$",
     lookupMethod: "Regex",
     scale: [10, 12.5, 15000],
-    position: [500, 0, 3750],
+    position: [560, 0, 3750],
     rotation: [-87.66, 0, 0]
   },
   {
     id: "\\]TunnelRotatingLasersPair \\(10\\).\\[\\d\\]BaseL.\\[\\d\\]Laser$",
     lookupMethod: "Regex",
     scale: [10, 12.5, 15000],
-    position: [-500, 0, 3750],
+    position: [-560, 0, 3750],
     rotation: [-87.66, 0, 0]
   },
   {
     id: "\\]TunnelRotatingLasersPair \\(10\\).\\[\\d\\]BaseR.\\[\\d\\]Laser$",
     lookupMethod: "Regex",
     scale: [10, 12.5, 15000],
-    position: [500, 0, 3750],
+    position: [560, 0, 3750],
     rotation: [-87.66, 0, 0]
   },
   {
     id: "\\]TunnelRotatingLasersPair \\(11\\).\\[\\d\\]BaseL.\\[\\d\\]Laser$",
     lookupMethod: "Regex",
     scale: [10, 12.5, 15000],
-    position: [-500, 0, 3750],
+    position: [-560, 0, 3750],
     rotation: [-87.66, 0, 0]
   },
   {
     id: "\\]TunnelRotatingLasersPair \\(11\\).\\[\\d\\]BaseR.\\[\\d\\]Laser$",
     lookupMethod: "Regex",
     scale: [10, 12.5, 15000],
-    position: [500, 0, 3750],
+    position: [560, 0, 3750],
     rotation: [-87.66, 0, 0]
   },
   {
     id: "\\]TunnelRotatingLasersPair \\(12\\).\\[\\d\\]BaseL.\\[\\d\\]Laser$",
     lookupMethod: "Regex",
     scale: [10, 12.5, 15000],
-    position: [-500, 0, 3750],
+    position: [-560, 0, 3750],
     rotation: [-87.66, 0, 0]
   },
   {
     id: "\\]TunnelRotatingLasersPair \\(12\\).\\[\\d\\]BaseR.\\[\\d\\]Laser$",
     lookupMethod: "Regex",
     scale: [10, 12.5, 15000],
-    position: [500, 0, 3750],
+    position: [560, 0, 3750],
     rotation: [-87.66, 0, 0]
   },
   {
     id: "\\]TunnelRotatingLasersPair \\(13\\).\\[\\d\\]BaseL.\\[\\d\\]Laser$",
     lookupMethod: "Regex",
     scale: [10, 12.5, 15000],
-    position: [-500, 0, 3750],
+    position: [-560, 0, 3750],
     rotation: [-87.66, 0, 0]
   },
   {
     id: "\\]TunnelRotatingLasersPair \\(13\\).\\[\\d\\]BaseR.\\[\\d\\]Laser$",
     lookupMethod: "Regex",
     scale: [10, 12.5, 15000],
-    position: [500, 0, 3750],
+    position: [560, 0, 3750],
     rotation: [-87.66, 0, 0]
   },
   {
     id: "\\]TunnelRotatingLasersPair \\(14\\).\\[\\d\\]BaseL.\\[\\d\\]Laser$",
     lookupMethod: "Regex",
     scale: [10, 12.5, 15000],
-    position: [-500, 0, 3750],
+    position: [-560, 0, 3750],
     rotation: [-87.66, 0, 0]
   },
   {
     id: "\\]TunnelRotatingLasersPair \\(14\\).\\[\\d\\]BaseR.\\[\\d\\]Laser$",
     lookupMethod: "Regex",
     scale: [10, 12.5, 15000],
-    position: [500, 0, 3750],
+    position: [560, 0, 3750],
     rotation: [-87.66, 0, 0]
   },
   {
@@ -675,21 +675,21 @@ map.customData.environment = [
     id: "Sun\\.\\[\\d+\\]NeonTube \\(1\\)$",
     lookupMethod: "Regex",
     scale: [9, 55, 0.0001],
-    position: [-50, -5.99, 180],
+    position: [-40, -6.05, 170],
     rotation: [-90, 15, 90]
   },
   {
     id: "Sun\\.\\[\\d+\\]NeonTube \\(2\\)$",
     lookupMethod: "Regex",
     scale: [9, 55, 0.0001],
-    position: [0, -5.99, 180],
+    position: [30, -6.05, 210],
     rotation: [-90, 0, 90]
   },
   {
     id: "Sun\\.\\[\\d+\\]NeonTube \\(3\\)$",
     lookupMethod: "Regex",
     scale: [9, 55, 0.0001],
-    position: [50, -5.99, 180],
+    position: [-10, -6.05, 240],
     rotation: [-90, -15, 90]
   },
   {

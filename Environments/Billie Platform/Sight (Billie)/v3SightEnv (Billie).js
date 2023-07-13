@@ -31,8 +31,7 @@ map.customData.environment = [
       BloomFogEnvironment: {
         attenuation: 0.00005,
         startY: -20,
-        height: 1,
-        track: "fog",
+        height: 1
       },
     }
   },
@@ -43,11 +42,6 @@ map.customData.environment = [
   },
   {
     id: "PlayersPlace",
-    lookupMethod: "Contains",
-    active: false
-  },
-  {
-    id: "NarrowGameHUD",
     lookupMethod: "Contains",
     active: false
   },
@@ -125,7 +119,6 @@ map.customData.environment = [
   {
     id: "WaterRainRipples$",
     lookupMethod: "Regex",
-    track: "AuroraContainer",
     position: [0, -750, 1450],
     scale: [0, 1000, 0],
     rotation: [0, 200, 45]
@@ -133,7 +126,6 @@ map.customData.environment = [
   {
     id: "WaterRainRipples\\.\\[\\d\\]SplashMesh$",
     lookupMethod: "Regex",
-    track: "Aurora",
     position: [0, -2500, -22500],
     scale: [60000, 125000, 1000],
     rotation: [0, 0, 0]
@@ -750,8 +742,7 @@ map.customData.environment = [
     active: true,
     scale: [160, 160, 160],
     position: [0, 440, 850],
-    rotation: [0, 0, 0],
-    track: "SunOutline"
+    rotation: [0, 0, 0]
   },
   {
     geometry: {
@@ -764,8 +755,7 @@ map.customData.environment = [
     },
     position: [0, 375, 800],
     scale: [475, 475, 475],
-    rotation: [0, 0, 0],
-    track: "SunSphere"
+    rotation: [0, 0, 0]
   },
   {
     geometry: {
@@ -777,8 +767,7 @@ map.customData.environment = [
     },
     position: [-15, 9.5, 60],
     scale: [3.5, 3.5, 3.5],
-    rotation: [45, 45, 45],
-    track: "laserCube1"
+    rotation: [45, 45, 45]
   },
   {
     geometry: {
@@ -790,8 +779,7 @@ map.customData.environment = [
     },
     position: [-15, 9.5, 60],
     scale: [3.5, 3.5, 3.5],
-    rotation: [-45, -45, -45],
-    track: "laserCube2"
+    rotation: [-45, -45, -45]
   },
   {
     geometry: {
@@ -832,7 +820,6 @@ map.customData.environment = [
     position: [15, 9.5, 60],
     scale: [3.5, 3.5, 3.5],
     rotation: [45, 45, 45],
-    track: "laserCube1"
   },
   {
     geometry: {
@@ -845,7 +832,6 @@ map.customData.environment = [
     position: [15, 9.5, 60],
     scale: [3.5, 3.5, 3.5],
     rotation: [-45, -45, -45],
-    track: "laserCube2"
   },
   {
     geometry: {
@@ -886,8 +872,7 @@ map.customData.environment = [
     },
     position: [0, 55, 120],
     scale: [17.5, 17.5, 17.5],
-    rotation: [45, 90, 45],
-    track: "laserCube1"
+    rotation: [45, 90, 45]
   },
   {
     geometry: {
@@ -900,8 +885,7 @@ map.customData.environment = [
     },
     position: [0, 55, 120],
     scale: [17.5, 17.5, 17.5],
-    rotation: [-45, 0, -45],
-    track: "laserCube2"
+    rotation: [-45, 0, -45]
   },
   {
     geometry: {
