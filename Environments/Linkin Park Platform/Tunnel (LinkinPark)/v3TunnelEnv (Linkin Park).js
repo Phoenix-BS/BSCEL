@@ -140,12 +140,6 @@ map.customData.environment = [
   {
     id: "LogoLight$",
     lookupMethod: "Regex",
-    position: [0, -9999, 0]
-  },
-  {
-    id: "LogoLight$",
-    lookupMethod: "Regex",
-    duplicate: 1,
     position: [0, 0.75, 25],
     scale: [8, 8, 8],
     rotation: [0, 0, 90]
