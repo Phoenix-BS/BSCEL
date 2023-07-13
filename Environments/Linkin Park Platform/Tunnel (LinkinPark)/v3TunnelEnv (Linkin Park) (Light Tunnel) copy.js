@@ -171,28 +171,28 @@ map.customData.environment = [
     active: false
   },
   {
-    id: "LaserTop$",
+    id: "LaserTop \\(3\\)$",
     lookupMethod: "Regex",
     position: [-47.5, 7.5, 120],
     scale: [40, 10, 2.5],
     rotation: [0, 0, 0]
   },
   {
-    id: "LaserTop \\(1\\)$",
+    id: "LaserTop$",
     lookupMethod: "Regex",
     position: [-44, 27.5, 120],
     scale: [35, 10, 2.5],
     rotation: [0, 0, -22.5]
   },
   {
-    id: "LaserTop \\(2\\)$",
+    id: "LaserTop \\(1\\)$",
     lookupMethod: "Regex",
     position: [-33, 45.5, 120],
     scale: [30, 10, 2.5],
     rotation: [0, 0, -45]
   },
   {
-    id: "LaserTop \\(3\\)$",
+    id: "LaserTop \\(2\\)$",
     lookupMethod: "Regex",
     position: [-14.5, 57.5, 120],
     scale: [25, 10, 2.5],

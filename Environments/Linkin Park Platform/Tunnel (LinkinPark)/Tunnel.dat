@@ -302,7 +302,7 @@
             "active": false
         },
         {
-            "id": "LaserTop$",
+            "id": "LaserTop \\(3\\)$",
             "lookupMethod": "Regex",
             "position": [
                 -47.5,
@@ -321,7 +321,7 @@
             ]
         },
         {
-            "id": "LaserTop \\(1\\)$",
+            "id": "LaserTop$",
             "lookupMethod": "Regex",
             "position": [
                 -44,
@@ -340,7 +340,7 @@
             ]
         },
         {
-            "id": "LaserTop \\(2\\)$",
+            "id": "LaserTop \\(1\\)$",
             "lookupMethod": "Regex",
             "position": [
                 -33,
@@ -359,7 +359,7 @@
             ]
         },
         {
-            "id": "LaserTop \\(3\\)$",
+            "id": "LaserTop \\(2\\)$",
             "lookupMethod": "Regex",
             "position": [
                 -14.5,
