@@ -27,22 +27,22 @@ If you have any questions or concerns feel free to reach out to me on discord! *
 
 People who helped / inspired / motivated me in any way (In no particular order)
 
-Zyxi
-LoopyTMB
-nasafrasa
-Swifter
-Pixelguy
-Jamman
-Endy
-Pleast
-nitronik.exe
-Bullet.
-AllPoland
-AkaBaka
-shonshyn
-Reddek
-GojiCrafter
-Fatalution
-Lonely
-Undeciever
+Zyxi,
+LoopyTMB,
+nasafrasa,
+Swifter,
+Pixelguy,
+Jamman,
+Endy,
+Pleast,
+nitronik.exe,
+Bullet,
+AllPoland,
+AkaBaka,
+shonshyn,
+Reddek,
+GojiCrafter,
+Fatalution,
+Lonely,
+Undeciever,
 SmokeyBacon
