@@ -2675,7 +2675,7 @@
             "lookupMethod": "Regex",
             "position": [
                 4,
-                -69.965,
+                300,
                 407
             ],
             "scale": [
@@ -2694,7 +2694,7 @@
             "lookupMethod": "Regex",
             "position": [
                 -34,
-                34.965,
+                300,
                 633
             ],
             "scale": [
@@ -2713,7 +2713,7 @@
             "lookupMethod": "Regex",
             "position": [
                 66,
-                69.965,
+                300,
                 560
             ],
             "scale": [
