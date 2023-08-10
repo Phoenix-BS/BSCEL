@@ -10,7 +10,7 @@ If you use anything from this library make sure you do the following:
 - Do not take any form of false credit or claim that anything from this library is your own when it isn't.
 - If you find a map that does not give proper credit please respectfully either reach out to the publisher of the map notifying them or reach out to the person behind the environment.
 
-Notice that everything is optimized and limited only to my coding knowledge, so there's never a guarantee the environments are future proof and fully optimized. It's for this reason that it's recommended you have some experience with JSON and other general forms of coding knowledge when browsing this library. Here are some helpful resources that you can reference if necessary:
+It's highly recommended you have some experience with JSON and other general forms of coding knowledge when browsing this library. Here are some helpful resources that you can reference if necessary:
 - https://github.com/Aeroluna/Heck/wiki
 - https://bsmg.wiki/mapping/
 - https://chromapper.atlassian.net/wiki/spaces/UG/overview
@@ -35,6 +35,7 @@ Pixelguy,
 Jamman,
 Endy,
 Pleast,
+Moriik,
 nitronik.exe,
 Bullet,
 AllPoland,
