@@ -24,7 +24,7 @@ All scripts in this database will by default have `ExpertPlusLawless.dat` as the
 5. Select Run in the top left and scroll down to Run Without Debugging
 6. If prompted on how you want to run the script, select [node.js](https://nodejs.org/en) (If you do not have this installed be sure to do so)
 7. To check that there are no errors, click on Terminal in the top left and select New Terminal. Then select the Debug Console option where you should see the scripts output. If it worked as intended you should get an output that say's "done"
-8. Go to the map info screen and click the blue save button. This will add chroma as a suggestion to your output diff (if you already have chroma set on the output diff you don't need to worry about this)
+8. Go to the map info screen in ChroMapper and click the blue save button. This will add chroma as a suggestion to your output diff (if you already have chroma set on the output diff you don't need to worry about this)
 
 Certain environment scripts contain options & presets you can apply to further customize the environment to your needing. All screenshots in this library contain default values and do not showcase the customize options. If customizeable options are available they can be applied by modifier statements at the top of the script.
 Here's an example of what they look like:
