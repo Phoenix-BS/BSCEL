@@ -3,7 +3,8 @@
 All screenshots contained in the folders have the lights set on with a value of **[0, 1, 1, 1]** w/ vanilla laser speed enabled. Some screenshots will have been modified with ring spins / zooms to showcase all the possible effects
 
 All Scripts for each environments will contain the following statement at the top that you can modify to serve as input / output:
-```const fs = require("fs");
+```
+const fs = require("fs");
 const { toNamespacedPath } = require("path");
 let map = JSON.parse(fs.readFileSync("ExpertPlusLawless.dat"));
 let fileOutput = "ExpertPlusLightshow.dat";
@@ -26,16 +27,17 @@ All scripts in this database will by default have `ExpertPlusLawless.dat` as the
 Certain environment scripts contain options & preset you can apply to further customize the environment to your needing. All screenshots in this library contain default values and do not showcase the customize options. If customizeable options are available they can be applied by modifier statements at the top of the script.
 Here's an example of what they look like:
 
-```let BingusX = 69;
-let BingusY = 420;
-let BingusZ = 69420;
-
-// Bingus Original
+```
 let BingusX = 69;
 let BingusY = 420;
 let BingusZ = 69420;
 
-// Bingus Extreme
+// Bingus Original //
+let BingusX = 69;
+let BingusY = 420;
+let BingusZ = 69420;
+
+// Bingus Extreme //
 let BingusX = 300;
 let BingusY = 1200;
 let BingusZ = 5000;
