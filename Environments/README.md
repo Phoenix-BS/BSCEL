@@ -23,7 +23,22 @@ All scripts in this database will by default have `ExpertPlusLawless.dat` as the
 5. If prompted on how you want to run the script, select [node.js](https://nodejs.org/en) (If you do not have this installed be sure to do so)
 6. To check that there are no errors, click on Terminal in the top left and select New Terminal. Then select the Debug Console option where you should see the scripts output. If it worked as intended you should just see done
 
-Certain environment scripts contain options & preset you can apply to further customize the environment to your needing. All screenshots in this library contain default values and do not showcase the customize options
+Certain environment scripts contain options & preset you can apply to further customize the environment to your needing. All screenshots in this library contain default values and do not showcase the customize options. If customizeable options are available they can be applied by modifier statements at the top of the script.
+Here's an example of what they look like:
+
+let BingusX = 69;
+let BingusY = 420;
+let BingusZ = 69420;
+
+// Bingus Original
+let BingusX = 69;
+let BingusY = 420;
+let BingusZ = 69420;
+
+// Bingus Extreme
+let BingusX = 300;
+let BingusY = 1200;
+let BingusZ = 5000;
 
 All Environments are made for **V3 maps** unless specified otherwise. Currently the recommended way to modify and work with these scripts is with Chromapper Dev release. Official editor lights are compatible but the process to apply is different and should generally be avoided by those without prior chroma knowledge
 
