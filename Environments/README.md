@@ -26,7 +26,7 @@ All scripts in this database will by default have `ExpertPlusLawless.dat` as the
 Certain environment scripts contain options & preset you can apply to further customize the environment to your needing. All screenshots in this library contain default values and do not showcase the customize options. If customizeable options are available they can be applied by modifier statements at the top of the script.
 Here's an example of what they look like:
 
-let BingusX = 69;
+```let BingusX = 69;
 let BingusY = 420;
 let BingusZ = 69420;
 
@@ -39,6 +39,7 @@ let BingusZ = 69420;
 let BingusX = 300;
 let BingusY = 1200;
 let BingusZ = 5000;
+```
 
 All Environments are made for **V3 maps** unless specified otherwise. Currently the recommended way to modify and work with these scripts is with Chromapper Dev release. Official editor lights are compatible but the process to apply is different and should generally be avoided by those without prior chroma knowledge
 
