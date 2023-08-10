@@ -2,7 +2,7 @@
 ![Accelerate Environment](Accelerate.png)
 
 **Showcase Maps:**
-https://beatsaver.com/maps/340c2
+- https://beatsaver.com/maps/340c2
 
 Last Modified: 7/9/23
 

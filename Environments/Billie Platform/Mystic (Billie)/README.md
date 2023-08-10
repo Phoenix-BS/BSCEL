@@ -2,7 +2,7 @@
 ![Mystic Environment](Mystic.png)
 
 **Showcase Maps:**
-https://beatsaver.com/maps/33f20
+- https://beatsaver.com/maps/33f20
 
 Last Modified: 7/12/23
 
