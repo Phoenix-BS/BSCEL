@@ -85,3 +85,6 @@ All Environments are made for **V3 maps** unless specified otherwise. Currently 
 # Infrastructure Environment (Big Mirror)
 ![Infrastructure Image](https://github.com/Phoenix-BS/BSCEL/blob/main/Environments/Big%20Mirror%20Platform/Infrastructure%20(Big%20Mirror)/Infrastructure.png)
 [Infrastructure Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Environments/Big%20Mirror%20Platform/Infrastructure%20(Big%20Mirror))
+# Arches Environment (KDA)
+![Arches Image](https://github.com/Phoenix-BS/BSCEL/blob/main/Environments/KDA%20Platform/Arches%20(KDA)/Arches.png)
+[Arches Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Environments/KDA%20Platform/Arches%20(KDA))
