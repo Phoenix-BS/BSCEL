@@ -88,3 +88,6 @@ All Environments are made for **V3 maps** unless specified otherwise. Currently 
 # Arches Environment (KDA)
 ![Arches Image](https://github.com/Phoenix-BS/BSCEL/blob/main/Environments/KDA%20Platform/Arches%20(KDA)/Arches.png)
 [Arches Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Environments/KDA%20Platform/Arches%20(KDA))
+# Morality Environment (Spooky)
+![Morality Image](https://github.com/Phoenix-BS/BSCEL/blob/main/Environments/Spooky%20Platform/Morality%20(Spooky)/Morality.png)
+[Morality Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Environments/Spooky%20Platform/Morality%20(Spooky))
