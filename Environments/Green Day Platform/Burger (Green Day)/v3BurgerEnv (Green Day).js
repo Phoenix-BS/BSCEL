@@ -19,6 +19,10 @@ const environment = customData.environment;
 
 // If you want to modify the Burger with tracks use these keywords: BottomBun, Lettuce1, Lettuce2, Lettuce3, Lettuce4, Patty, Cheese, Tomato, TopBun1, TopBun2
 
+const BurgerHeightOffset = 0
+
+// ^^^^^ Use this to move the Burgers positions up or down (Useful to avoid spawn animation clipping between the notes and the Burger)
+
 map.customData.environment = [
   {
     id: "GreenDayEnvironment.[0]Environment",
@@ -112,7 +116,7 @@ map.customData.environment = [
         shader: "BTSPillar",
       },
     },
-    position: [0, -9999, 0],
+    position: [0, -0.6 + BurgerHeightOffset, 30],
     scale: [7.5, 0.5, 7.5],
     rotation: [0, 0, 0],
     track: "BottomBun"
@@ -125,7 +129,7 @@ map.customData.environment = [
         shader: "BTSPillar",
       },
     },
-    position: [0, -9999, 0],
+    position: [0, -0.45 + BurgerHeightOffset, 30],
     scale: [3.5, 0.1, 9.1],
     rotation: [0, 15, 0],
     track: "Lettuce1"
@@ -138,7 +142,7 @@ map.customData.environment = [
         shader: "BTSPillar",
       },
     },
-    position: [0, -9999, 0],
+    position: [0, -0.45 + BurgerHeightOffset, 30],
     scale: [3.5, 0.1, 9.1],
     rotation: [0, 48, 0],
     track: "Lettuce2"
@@ -151,7 +155,7 @@ map.customData.environment = [
         shader: "BTSPillar",
       },
     },
-    position: [0, -9999, 0],
+    position: [0, -0.45 + BurgerHeightOffset, 30],
     scale: [3.5, 0.1, 9.1],
     rotation: [0, 84, 0],
     track: "Lettuce3"
@@ -164,7 +168,7 @@ map.customData.environment = [
         shader: "BTSPillar",
       },
     },
-    position: [0, -9999, 0],
+    position: [0, -0.45 + BurgerHeightOffset, 30],
     scale: [3.5, 0.1, 9.1],
     rotation: [0, 139, 0],
     track: "Lettuce4"
@@ -177,7 +181,7 @@ map.customData.environment = [
         shader: "InterscopeConcrete",
       },
     },
-    position: [0, -9999, 0],
+    position: [0, -0.125 + BurgerHeightOffset, 30],
     scale: [8.5, 0.35, 8.5],
     rotation: [0, 0, 0],
     track: "Patty"
@@ -190,7 +194,7 @@ map.customData.environment = [
         shader: "BTSPillar",
       },
     },
-    position: [0, -9999, 0],
+    position: [0, 0.3 + BurgerHeightOffset, 30],
     scale: [7.5, 0.175, 7.5],
     rotation: [0, -45, 0],
     track: "Cheese"
@@ -203,7 +207,7 @@ map.customData.environment = [
         shader: "BTSPillar",
       },
     },
-    position: [0, -9999, 0],
+    position: [0, 0.65 + BurgerHeightOffset],
     scale: [8, 0.2, 8],
     rotation: [0, 0, 0],
     track: "Tomato"
@@ -216,7 +220,7 @@ map.customData.environment = [
         shader: "BTSPillar",
       },
     },
-    position: [0, -9999, 0],
+    position: [0, 1 + BurgerHeightOffset, 30],
     scale: [7.5, 0.25, 7.5],
     rotation: [0, 0, 0],
     track: "TopBun1"
@@ -229,7 +233,7 @@ map.customData.environment = [
         shader: "BTSPillar",
       },
     },
-    position: [0, -9999, 0],
+    position: [0, 1.3 + BurgerHeightOffset, 30],
     scale: [7.5, 3, 7.5],
     rotation: [0, 0, 0],
     track: "TopBun2"
