@@ -1,1 +1,835 @@
-{"version":"1.0.0","name":"Serotonin","author":"Phøenix","environmentVersion":"1.0.0","environmentName":"BillieEnvironment","description":"Serotonin Environment (Billie)","features":{"useChromaEvents":true,"basicBeatmapEvents":[{"b":0,"et":7,"i":5,"f":1,"customData":{"color":[1,1,1,10]}},{"b":0,"et":6,"i":5,"f":1,"customData":{"color":[1,1,1,10]}},{"b":0,"et":2,"i":5,"f":1,"customData":{"color":[0,0.459,0,8]}},{"b":0,"et":10,"i":5,"f":1,"customData":{"color":[1,1,1,10]}},{"b":0,"et":4,"i":5,"f":1,"customData":{"color":[1,1,1,10]}},{"b":0,"et":3,"i":5,"f":1,"customData":{"color":[1,1,1,10]}},{"b":0,"et":11,"i":5,"f":1,"customData":{"color":[1,1,1,10]}},{"b":0,"et":1,"i":5,"f":1,"customData":{"color":[1,0.673,0,1]}},{"b":0,"et":0,"i":5,"f":1,"customData":{"color":[1,0.673,0,1]}}],"forceEffectsFilter":"NoEffects"},"environment":[{"id":"BillieEnvironment.[0]Environment","lookupMethod":"Exact","components":{"BloomFogEnvironment":{"attenuation":0.25,"startY":-9999,"height":1}}},{"id":"Mirror","lookupMethod":"Contains","active":false},{"id":"PlayersPlace","lookupMethod":"Contains","active":false},{"id":"LeftRail$","lookupMethod":"Regex","active":false},{"id":"RightRail$","lookupMethod":"Regex","active":false},{"id":"LeftFarRail1$","lookupMethod":"Regex","active":false},{"id":"LeftFarRail2$","lookupMethod":"Regex","active":false},{"id":"RightFarRail1$","lookupMethod":"Regex","active":false},{"id":"RightFarRail2$","lookupMethod":"Regex","active":false},{"id":"RailingCurveF$","lookupMethod":"Regex","active":false},{"id":"Waterfall","lookupMethod":"Contains","active":false},{"id":"Clouds","lookupMethod":"Contains","active":false},{"id":"TunnelRotatingLasersPair","lookupMethod":"Contains","active":false},{"id":"BottomPairLasers","lookupMethod":"Contains","active":false},{"id":"BackgroundGradient","lookupMethod":"Contains","active":false},{"id":"BigSmoke","lookupMethod":"Contains","active":false},{"id":"Rain$","lookupMethod":"Regex","scale":[12,0.5,12],"position":[0,0,50],"rotation":[90,-5,0],"components":{"ILightWithId":{"type":0},"TubeBloomPrePassLight":{"colorAlphaMultiplier":10,"bloomFogIntensityMultiplier":10}}},{"id":"Rain$","lookupMethod":"Regex","duplicate":4,"scale":[12,0.5,12],"position":[0,0,50],"rotation":[90,-5,0],"components":{"ILightWithId":{"type":0},"TubeBloomPrePassLight":{"colorAlphaMultiplier":10,"bloomFogIntensityMultiplier":10}}},{"id":"Rain$","lookupMethod":"Regex","duplicate":5,"scale":[12,1.5,12],"position":[0,0,50],"rotation":[90,-2.5,0],"components":{"ILightWithId":{"type":0},"TubeBloomPrePassLight":{"colorAlphaMultiplier":10,"bloomFogIntensityMultiplier":10}}},{"id":"Rain$","lookupMethod":"Regex","duplicate":5,"scale":[12,2.5,12],"position":[0,0,50],"rotation":[90,0,0],"components":{"ILightWithId":{"type":0},"TubeBloomPrePassLight":{"colorAlphaMultiplier":10,"bloomFogIntensityMultiplier":10}}},{"id":"Rain$","lookupMethod":"Regex","duplicate":5,"scale":[12,3.5,12],"position":[0,0,50],"rotation":[90,2.5,0],"components":{"ILightWithId":{"type":0},"TubeBloomPrePassLight":{"colorAlphaMultiplier":10,"bloomFogIntensityMultiplier":10}}},{"id":"Rain$","lookupMethod":"Regex","duplicate":5,"scale":[12,4.5,12],"position":[0,0,50],"rotation":[90,5,0],"components":{"ILightWithId":{"type":0},"TubeBloomPrePassLight":{"colorAlphaMultiplier":10,"bloomFogIntensityMultiplier":10}}},{"id":"RailingFullBack$","lookupMethod":"Regex","scale":[5,20,10],"position":[0,-120,-15],"rotation":[0,0,0]},{"id":"RailingFullFront$","lookupMethod":"Regex","scale":[5,20,10],"position":[0,-130,-10],"rotation":[0,0,0]},{"id":"LastRailingCurve$","lookupMethod":"Regex","scale":[5,20,10],"position":[0,-140,-5],"rotation":[0,0,0]},{"id":"Mountains$","lookupMethod":"Regex","scale":[1.5,9,0.5],"position":[0,-150,0]},{"id":"Mountains$","lookupMethod":"Regex","duplicate":1,"scale":[0.5,11,0.4],"position":[0,-350,0]},{"geometry":{"type":"Plane","material":{"color":[0.005,0.005,0.005,5],"shader":"Standard"}},"scale":[10000,0,10000],"position":[0,-350,0],"rotation":[0,0,0]},{"id":"WaterRainRipples$","lookupMethod":"Regex","scale":[0,1,0],"position":[0,-30,50],"rotation":[0,0,0],"components":{"ILightWithId":{"type":1}}},{"id":"WaterRainRipples\\.\\[0\\]SplashMesh$","lookupMethod":"Regex","scale":[250,150,50],"position":[0,0,0],"rotation":[-30,0,0],"components":{"ILightWithId":{"type":1}}},{"id":"NeonTubeDirectionalL \\(1\\)$","lookupMethod":"Regex","scale":[30,250,15],"position":[0,0,125],"rotation":[0,0,0],"components":{"ILightWithId":{"type":2},"TubeBloomPrePassLight":{"colorAlphaMultiplier":10,"bloomFogIntensityMultiplier":50}}},{"id":"NeonTubeDirectionalR \\(1\\)$","lookupMethod":"Regex","scale":[30,250,15],"position":[0,0,125],"rotation":[0,0,0],"components":{"ILightWithId":{"type":2},"TubeBloomPrePassLight":{"colorAlphaMultiplier":10,"bloomFogIntensityMultiplier":50}}},{"id":"NeonTubeDirectionalL$","lookupMethod":"Regex","active":false},{"id":"NeonTubeDirectionalR$","lookupMethod":"Regex","active":false},{"id":"LightRailingSegment \\(1\\)$","lookupMethod":"Regex","active":false},{"id":"LightRailingSegment \\(2\\)$","lookupMethod":"Regex","active":false},{"id":"LightRailingSegment \\(3\\)$","lookupMethod":"Regex","active":false},{"id":"NeonTubeDirectionalL$","lookupMethod":"Regex","active":false},{"id":"NeonTubeDirectionalL$","lookupMethod":"Regex","active":false},{"id":"Sun$","lookupMethod":"Regex","position":[0,-69420,0]},{"id":"Sun\\.\\[\\d\\]NeonTube$","lookupMethod":"Regex","active":false},{"id":"Sun\\.\\[\\d\\]NeonTube \\(1\\)$","lookupMethod":"Regex","active":false},{"id":"Sun\\.\\[\\d\\]NeonTube \\(2\\)$","lookupMethod":"Regex","active":false},{"id":"Sun\\.\\[\\d\\]NeonTube \\(3\\)$","lookupMethod":"Regex","active":true,"scale":[0.05,4,0.05],"position":[-149.97260947684137,-70.05478104631727,260],"rotation":[30.093332325836737,0.11898778533871471,29.881012214661283],"components":{"ILightWithId":{"type":3}}},{"id":"Sun\\.\\[\\d\\]NeonTube \\(3\\)$","lookupMethod":"Regex","duplicate":1,"active":true,"scale":[0.05,4,0.05],"position":[-139.94521895368274,150.0821715694759,350],"rotation":[-29.941116078738926,-0.05182082004263918,-50.051820820042636],"components":{"ILightWithId":{"type":4}}},{"id":"Sun\\.\\[\\d\\]NeonTube \\(3\\)$","lookupMethod":"Regex","duplicate":1,"active":true,"scale":[0.05,4,0.05],"position":[-129.9178284305241,-30.0821715694759,519.8904379073655],"rotation":[14.949093892260533,0.08623577705646036,155.0351648220744],"components":{"ILightWithId":{"type":6}}},{"id":"Sun\\.\\[\\d\\]NeonTube \\(3\\)$","lookupMethod":"Regex","duplicate":1,"active":true,"scale":[0.05,4,0.05],"position":[49.4247990136687,120.05478104631727,429.94521895368274],"rotation":[-20.045563587103526,-0.11079659975679809,69.93739166189746],"components":{"ILightWithId":{"type":7}}},{"id":"Sun\\.\\[\\d\\]NeonTube \\(3\\)$","lookupMethod":"Regex","duplicate":1,"active":true,"scale":[0.05,4,0.05],"position":[70.05478104631727,-110.02739052315863,229.89043790736545],"rotation":[49.94576686641523,0.01477714912294206,-59.87940183657886],"components":{"ILightWithId":{"type":10}}},{"id":"Sun\\.\\[\\d\\]NeonTube \\(3\\)$","lookupMethod":"Regex","duplicate":1,"active":true,"scale":[0.05,4,0.05],"position":[159.94521895368274,50.02739052315864,309.94521895368274],"rotation":[20.113006811921466,39.95952965289121,149.9595296528912],"components":{"ILightWithId":{"type":11}}}],"materials":{}}
+{
+    "version": "1.0.0",
+    "name": "Serotonin",
+    "author": "Phøenix",
+    "environmentVersion": "1.0.0",
+    "environmentName": "BillieEnvironment",
+    "description": "Serotonin Environment (Billie)",
+    "features": {
+        "useChromaEvents": true,
+        "basicBeatmapEvents": [
+            {
+                "b": 0,
+                "et": 7,
+                "i": 5,
+                "f": 1,
+                "customData": {
+                    "color": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            },
+            {
+                "b": 0,
+                "et": 6,
+                "i": 5,
+                "f": 1,
+                "customData": {
+                    "color": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            },
+            {
+                "b": 0,
+                "et": 2,
+                "i": 5,
+                "f": 1,
+                "customData": {
+                    "color": [
+                        0,
+                        0.459,
+                        0,
+                        1
+                    ]
+                }
+            },
+            {
+                "b": 0,
+                "et": 10,
+                "i": 5,
+                "f": 1,
+                "customData": {
+                    "color": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            },
+            {
+                "b": 0,
+                "et": 4,
+                "i": 5,
+                "f": 1,
+                "customData": {
+                    "color": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            },
+            {
+                "b": 0,
+                "et": 3,
+                "i": 5,
+                "f": 1,
+                "customData": {
+                    "color": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            },
+            {
+                "b": 0,
+                "et": 11,
+                "i": 5,
+                "f": 1,
+                "customData": {
+                    "color": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ]
+                }
+            },
+            {
+                "b": 0,
+                "et": 1,
+                "i": 5,
+                "f": 1,
+                "customData": {
+                    "color": [
+                        1,
+                        0.673,
+                        0,
+                        1
+                    ]
+                }
+            },
+            {
+                "b": 0,
+                "et": 0,
+                "i": 5,
+                "f": 1,
+                "customData": {
+                    "color": [
+                        1,
+                        0.673,
+                        0,
+                        1
+                    ]
+                }
+            }
+        ],
+        "forceEffectsFilter": "NoEffects"
+    },
+    "environment": [
+        {
+            "id": "BillieEnvironment.[0]Environment",
+            "lookupMethod": "Exact",
+            "components": {
+                "BloomFogEnvironment": {
+                    "attenuation": 0.005,
+                    "startY": -9999,
+                    "height": 1
+                }
+            }
+        },
+        {
+            "id": "Mirror",
+            "lookupMethod": "Contains",
+            "active": false
+        },
+        {
+            "id": "PlayersPlace",
+            "lookupMethod": "Contains",
+            "active": false
+        },
+        {
+            "id": "LeftRail$",
+            "lookupMethod": "Regex",
+            "active": false
+        },
+        {
+            "id": "RightRail$",
+            "lookupMethod": "Regex",
+            "active": false
+        },
+        {
+            "id": "LeftFarRail1$",
+            "lookupMethod": "Regex",
+            "active": false
+        },
+        {
+            "id": "LeftFarRail2$",
+            "lookupMethod": "Regex",
+            "active": false
+        },
+        {
+            "id": "RightFarRail1$",
+            "lookupMethod": "Regex",
+            "active": false
+        },
+        {
+            "id": "RightFarRail2$",
+            "lookupMethod": "Regex",
+            "active": false
+        },
+        {
+            "id": "RailingCurveF$",
+            "lookupMethod": "Regex",
+            "active": false
+        },
+        {
+            "id": "Waterfall",
+            "lookupMethod": "Contains",
+            "active": false
+        },
+        {
+            "id": "Clouds",
+            "lookupMethod": "Contains",
+            "active": false
+        },
+        {
+            "id": "TunnelRotatingLasersPair",
+            "lookupMethod": "Contains",
+            "active": false
+        },
+        {
+            "id": "BottomPairLasers",
+            "lookupMethod": "Contains",
+            "active": false
+        },
+        {
+            "id": "BackgroundGradient",
+            "lookupMethod": "Contains",
+            "active": false
+        },
+        {
+            "id": "BigSmoke",
+            "lookupMethod": "Contains",
+            "active": false
+        },
+        {
+            "id": "Rain$",
+            "lookupMethod": "Regex",
+            "scale": [
+                12,
+                0.5,
+                12
+            ],
+            "position": [
+                0,
+                0,
+                50
+            ],
+            "rotation": [
+                90,
+                -5,
+                0
+            ],
+            "components": {
+                "ILightWithId": {
+                    "type": 0
+                },
+                "TubeBloomPrePassLight": {
+                    "colorAlphaMultiplier": 10,
+                    "bloomFogIntensityMultiplier": 10
+                }
+            }
+        },
+        {
+            "id": "Rain$",
+            "lookupMethod": "Regex",
+            "duplicate": 4,
+            "scale": [
+                12,
+                0.5,
+                12
+            ],
+            "position": [
+                0,
+                0,
+                50
+            ],
+            "rotation": [
+                90,
+                -5,
+                0
+            ],
+            "components": {
+                "ILightWithId": {
+                    "type": 0
+                },
+                "TubeBloomPrePassLight": {
+                    "colorAlphaMultiplier": 10,
+                    "bloomFogIntensityMultiplier": 10
+                }
+            }
+        },
+        {
+            "id": "Rain$",
+            "lookupMethod": "Regex",
+            "duplicate": 5,
+            "scale": [
+                12,
+                1.5,
+                12
+            ],
+            "position": [
+                0,
+                0,
+                50
+            ],
+            "rotation": [
+                90,
+                -2.5,
+                0
+            ],
+            "components": {
+                "ILightWithId": {
+                    "type": 0
+                },
+                "TubeBloomPrePassLight": {
+                    "colorAlphaMultiplier": 10,
+                    "bloomFogIntensityMultiplier": 10
+                }
+            }
+        },
+        {
+            "id": "Rain$",
+            "lookupMethod": "Regex",
+            "duplicate": 5,
+            "scale": [
+                12,
+                2.5,
+                12
+            ],
+            "position": [
+                0,
+                0,
+                50
+            ],
+            "rotation": [
+                90,
+                0,
+                0
+            ],
+            "components": {
+                "ILightWithId": {
+                    "type": 0
+                },
+                "TubeBloomPrePassLight": {
+                    "colorAlphaMultiplier": 10,
+                    "bloomFogIntensityMultiplier": 10
+                }
+            }
+        },
+        {
+            "id": "Rain$",
+            "lookupMethod": "Regex",
+            "duplicate": 5,
+            "scale": [
+                12,
+                3.5,
+                12
+            ],
+            "position": [
+                0,
+                0,
+                50
+            ],
+            "rotation": [
+                90,
+                2.5,
+                0
+            ],
+            "components": {
+                "ILightWithId": {
+                    "type": 0
+                },
+                "TubeBloomPrePassLight": {
+                    "colorAlphaMultiplier": 10,
+                    "bloomFogIntensityMultiplier": 10
+                }
+            }
+        },
+        {
+            "id": "Rain$",
+            "lookupMethod": "Regex",
+            "duplicate": 5,
+            "scale": [
+                12,
+                4.5,
+                12
+            ],
+            "position": [
+                0,
+                0,
+                50
+            ],
+            "rotation": [
+                90,
+                5,
+                0
+            ],
+            "components": {
+                "ILightWithId": {
+                    "type": 0
+                },
+                "TubeBloomPrePassLight": {
+                    "colorAlphaMultiplier": 10,
+                    "bloomFogIntensityMultiplier": 10
+                }
+            }
+        },
+        {
+            "id": "RailingFullBack$",
+            "lookupMethod": "Regex",
+            "scale": [
+                5,
+                20,
+                10
+            ],
+            "position": [
+                0,
+                -120,
+                -15
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "RailingFullFront$",
+            "lookupMethod": "Regex",
+            "scale": [
+                5,
+                20,
+                10
+            ],
+            "position": [
+                0,
+                -130,
+                -10
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "LastRailingCurve$",
+            "lookupMethod": "Regex",
+            "scale": [
+                5,
+                20,
+                10
+            ],
+            "position": [
+                0,
+                -140,
+                -5
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "Mountains$",
+            "lookupMethod": "Regex",
+            "scale": [
+                1.5,
+                9,
+                0.5
+            ],
+            "position": [
+                0,
+                -150,
+                0
+            ]
+        },
+        {
+            "id": "Mountains$",
+            "lookupMethod": "Regex",
+            "duplicate": 1,
+            "scale": [
+                0.5,
+                11,
+                0.4
+            ],
+            "position": [
+                0,
+                -350,
+                0
+            ]
+        },
+        {
+            "geometry": {
+                "type": "Plane",
+                "material": {
+                    "color": [
+                        0.005,
+                        0.005,
+                        0.005,
+                        5
+                    ],
+                    "shader": "Standard"
+                }
+            },
+            "scale": [
+                10000,
+                0,
+                10000
+            ],
+            "position": [
+                0,
+                -350,
+                0
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "WaterRainRipples$",
+            "lookupMethod": "Regex",
+            "scale": [
+                0,
+                1,
+                0
+            ],
+            "position": [
+                0,
+                -30,
+                50
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "components": {
+                "ILightWithId": {
+                    "type": 1
+                }
+            }
+        },
+        {
+            "id": "WaterRainRipples\\.\\[0\\]SplashMesh$",
+            "lookupMethod": "Regex",
+            "scale": [
+                250,
+                150,
+                50
+            ],
+            "position": [
+                0,
+                0,
+                0
+            ],
+            "rotation": [
+                -30,
+                0,
+                0
+            ],
+            "components": {
+                "ILightWithId": {
+                    "type": 1
+                }
+            }
+        },
+        {
+            "id": "NeonTubeDirectionalL \\(1\\)$",
+            "lookupMethod": "Regex",
+            "scale": [
+                30,
+                250,
+                15
+            ],
+            "position": [
+                0,
+                0,
+                125
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "components": {
+                "ILightWithId": {
+                    "type": 2
+                },
+                "TubeBloomPrePassLight": {
+                    "colorAlphaMultiplier": 10,
+                    "bloomFogIntensityMultiplier": 50
+                }
+            }
+        },
+        {
+            "id": "NeonTubeDirectionalR \\(1\\)$",
+            "lookupMethod": "Regex",
+            "scale": [
+                30,
+                250,
+                15
+            ],
+            "position": [
+                0,
+                0,
+                125
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "components": {
+                "ILightWithId": {
+                    "type": 2
+                },
+                "TubeBloomPrePassLight": {
+                    "colorAlphaMultiplier": 10,
+                    "bloomFogIntensityMultiplier": 50
+                }
+            }
+        },
+        {
+            "id": "NeonTubeDirectionalL$",
+            "lookupMethod": "Regex",
+            "active": false
+        },
+        {
+            "id": "NeonTubeDirectionalR$",
+            "lookupMethod": "Regex",
+            "active": false
+        },
+        {
+            "id": "LightRailingSegment \\(1\\)$",
+            "lookupMethod": "Regex",
+            "active": false
+        },
+        {
+            "id": "LightRailingSegment \\(2\\)$",
+            "lookupMethod": "Regex",
+            "active": false
+        },
+        {
+            "id": "LightRailingSegment \\(3\\)$",
+            "lookupMethod": "Regex",
+            "active": false
+        },
+        {
+            "id": "NeonTubeDirectionalL$",
+            "lookupMethod": "Regex",
+            "active": false
+        },
+        {
+            "id": "NeonTubeDirectionalL$",
+            "lookupMethod": "Regex",
+            "active": false
+        },
+        {
+            "id": "Sun$",
+            "lookupMethod": "Regex",
+            "position": [
+                0,
+                -69420,
+                0
+            ]
+        },
+        {
+            "id": "Sun\\.\\[\\d\\]NeonTube$",
+            "lookupMethod": "Regex",
+            "active": false
+        },
+        {
+            "id": "Sun\\.\\[\\d\\]NeonTube \\(1\\)$",
+            "lookupMethod": "Regex",
+            "active": false
+        },
+        {
+            "id": "Sun\\.\\[\\d\\]NeonTube \\(2\\)$",
+            "lookupMethod": "Regex",
+            "active": false
+        },
+        {
+            "id": "Sun\\.\\[\\d\\]NeonTube \\(3\\)$",
+            "lookupMethod": "Regex",
+            "active": true,
+            "scale": [
+                0.05,
+                4,
+                0.05
+            ],
+            "position": [
+                -149.97260947684137,
+                -70.05478104631727,
+                260
+            ],
+            "rotation": [
+                30.093332325836737,
+                0.11898778533871471,
+                29.881012214661283
+            ],
+            "components": {
+                "ILightWithId": {
+                    "type": 3
+                }
+            }
+        },
+        {
+            "id": "Sun\\.\\[\\d\\]NeonTube \\(3\\)$",
+            "lookupMethod": "Regex",
+            "duplicate": 1,
+            "active": true,
+            "scale": [
+                0.05,
+                4,
+                0.05
+            ],
+            "position": [
+                -139.94521895368274,
+                150.0821715694759,
+                350
+            ],
+            "rotation": [
+                -29.941116078738926,
+                -0.05182082004263918,
+                -50.051820820042636
+            ],
+            "components": {
+                "ILightWithId": {
+                    "type": 4
+                }
+            }
+        },
+        {
+            "id": "Sun\\.\\[\\d\\]NeonTube \\(3\\)$",
+            "lookupMethod": "Regex",
+            "duplicate": 1,
+            "active": true,
+            "scale": [
+                0.05,
+                4,
+                0.05
+            ],
+            "position": [
+                -129.9178284305241,
+                -30.0821715694759,
+                519.8904379073655
+            ],
+            "rotation": [
+                14.949093892260533,
+                0.08623577705646036,
+                155.0351648220744
+            ],
+            "components": {
+                "ILightWithId": {
+                    "type": 6
+                }
+            }
+        },
+        {
+            "id": "Sun\\.\\[\\d\\]NeonTube \\(3\\)$",
+            "lookupMethod": "Regex",
+            "duplicate": 1,
+            "active": true,
+            "scale": [
+                0.05,
+                4,
+                0.05
+            ],
+            "position": [
+                49.4247990136687,
+                120.05478104631727,
+                429.94521895368274
+            ],
+            "rotation": [
+                -20.045563587103526,
+                -0.11079659975679809,
+                69.93739166189746
+            ],
+            "components": {
+                "ILightWithId": {
+                    "type": 7
+                }
+            }
+        },
+        {
+            "id": "Sun\\.\\[\\d\\]NeonTube \\(3\\)$",
+            "lookupMethod": "Regex",
+            "duplicate": 1,
+            "active": true,
+            "scale": [
+                0.05,
+                4,
+                0.05
+            ],
+            "position": [
+                70.05478104631727,
+                -110.02739052315863,
+                229.89043790736545
+            ],
+            "rotation": [
+                49.94576686641523,
+                0.01477714912294206,
+                -59.87940183657886
+            ],
+            "components": {
+                "ILightWithId": {
+                    "type": 10
+                }
+            }
+        },
+        {
+            "id": "Sun\\.\\[\\d\\]NeonTube \\(3\\)$",
+            "lookupMethod": "Regex",
+            "duplicate": 1,
+            "active": true,
+            "scale": [
+                0.05,
+                4,
+                0.05
+            ],
+            "position": [
+                159.94521895368274,
+                50.02739052315864,
+                309.94521895368274
+            ],
+            "rotation": [
+                20.113006811921466,
+                39.95952965289121,
+                149.9595296528912
+            ],
+            "components": {
+                "ILightWithId": {
+                    "type": 11
+                }
+            }
+        }
+    ],
+    "materials": {}
+}
