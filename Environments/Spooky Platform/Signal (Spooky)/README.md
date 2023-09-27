@@ -5,6 +5,8 @@
 - https://beatsaver.com/maps/34382
 - https://beatsaver.com/maps/343f8
 - https://beatsaver.com/maps/34441
+- https://beatsaver.com/maps/354e2
+- https://beatsaver.com/maps/35859
 
 Last Modified: 8/9/23
 

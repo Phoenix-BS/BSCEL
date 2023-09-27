@@ -2,7 +2,7 @@
 ![Illuminous Environment](Illuminous.png)
 
 **Showcase Maps:**
-UNUSED
+- UNUSED
 
 Last Modified: 7/9/23
 

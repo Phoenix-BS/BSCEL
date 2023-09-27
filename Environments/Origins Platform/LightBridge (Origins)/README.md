@@ -2,7 +2,7 @@
 ![Light Bridge Environment](<Light Bridge.png>)
 
 **Showcase Maps:**
-UNUSED
+- UNUSED
 
 Last Modified: 7/12/23
 

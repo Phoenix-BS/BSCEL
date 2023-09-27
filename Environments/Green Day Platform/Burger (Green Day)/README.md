@@ -2,7 +2,7 @@
 ![Burger Environment](Burger.png)
 
 **Showcase Maps:**
-COMING SOON
+- UNUSED
 
 Last Modified: 9/14/23
 
