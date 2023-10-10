@@ -1190,7 +1190,7 @@ map.basicBeatmapEvents.forEach((x) => {
             x.customData.lightID = [122, 123, 124, 125, 126, 127, 128];
         }
     }
-    if (x.et == 0 && x.customData) {
+    if (!x.et && x.customData) {
         if (x.customData.lightID == 1) {
             x.customData.lightID = 101;
         }

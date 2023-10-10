@@ -1636,7 +1636,7 @@ map.customData.environment.push(
 
 // Assigning Lamp LightID's
 map.basicBeatmapEvents.forEach((x) => {
-    if (x.et == 0 && x.customData) {
+    if (!x.et && x.customData) {
         if (x.customData.lightID == 1) {
             x.customData.lightID = 101;
         }
