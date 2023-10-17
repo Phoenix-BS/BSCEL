@@ -48,6 +48,8 @@ These preset statements are the easiest way to effect multiple of the same objec
 
 All Environments are made for **V3 maps** unless specified otherwise. Currently the recommended way to modify and work with these scripts is with Chromapper. Official editor lights are compatible but the process to apply is different and should generally be avoided by those without prior chroma knowledge.
 
+NOTICE: With the release of Version 3.3 of Beat Saber, the formatting has changed to recognize null as 0 which can mess with the way these scripts run. To avoid this, head to the Chromapper Options menu and disable "Save Without Default Values".
+
 # Absence Environment (Billie)
 ![Absence Image](https://github.com/Phoenix-BS/BSCEL/blob/main/Environments/Billie%20Platform/Absence%20(Billie)/Absence.png)
 [Absence Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Environments/Billie%20Platform/Absence%20(Billie))

@@ -4,8 +4,6 @@
 **Showcase Maps:**
 - https://beatsaver.com/maps/33f20
 - https://beatsaver.com/maps/3543a
-- https://beatsaver.com/maps/357d1
-- https://beatsaver.com/maps/35794
 
 Last Modified: 7/12/23
 
