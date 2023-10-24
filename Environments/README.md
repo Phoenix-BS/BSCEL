@@ -2,6 +2,8 @@
 
 All screenshots contained in the folders have the lights set on with a value of **[0, 1, 1, 1]** w/ vanilla laser speed enabled. Some screenshots will have been modified with ring spins / zooms to showcase all the possible effects
 
+All Environments are made for **V3 maps** unless specified otherwise. Currently the recommended way to modify and work with these scripts is with Chromapper. Official editor lights are compatible but the process to apply is different and should generally be avoided by those without prior chroma knowledge.
+
 All Scripts for each environments will contain the following statement at the top that you can modify to serve as input / output:
 ```
 const fs = require("fs");
@@ -47,8 +49,6 @@ let BingusZ = 5000;
 ```
 
 These preset statements are the easiest way to effect multiple of the same objects in the environment at once without manually editing the code, so feel free to experiment!
-
-All Environments are made for **V3 maps** unless specified otherwise. Currently the recommended way to modify and work with these scripts is with Chromapper. Official editor lights are compatible but the process to apply is different and should generally be avoided by those without prior chroma knowledge.
 
 # Settings
 - Be sure to turn "Save With Default Values" off. This can be found in General Settings and ensures that null values aren't saved with the V3.3 map version.
