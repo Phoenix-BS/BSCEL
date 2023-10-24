@@ -25,6 +25,8 @@ All scripts in this database will by default have `ExpertPlusLawless.dat` as the
 6. To check that there are no errors, click on Terminal in the top left and select New Terminal. Then select the Debug Console option where you should see the scripts output. If it worked as intended you should get an output that say's "done"
 7. Go to the map info screen in ChroMapper and click the blue save button. This will add chroma as a suggestion to your output diff (if you already have chroma set on the output diff you don't need to worry about this)
 
+# Presets
+
 Certain environment scripts contain options & presets you can apply to further customize the environment to your needing. All screenshots in this library contain default values and do not showcase the customize options. If customizeable options are available they can be applied by modifier statements at the top of the script.
 Here's an example of what they look like:
 
@@ -48,7 +50,9 @@ These preset statements are the easiest way to effect multiple of the same objec
 
 All Environments are made for **V3 maps** unless specified otherwise. Currently the recommended way to modify and work with these scripts is with Chromapper. Official editor lights are compatible but the process to apply is different and should generally be avoided by those without prior chroma knowledge.
 
-NOTICE: With the release of Version 3.3 of Beat Saber, the formatting has changed to recognize null as 0 which can mess with the way these scripts run. To avoid this, head to the Chromapper Options menu and disable "Save Without Default Values".
+# Settings
+- Be sure to turn "Save With Default Values" off. This can be found in General Settings and ensures that null values aren't saved with the V3.3 map version.
+- Be sure to set "Time Value Decimal Prescision" to 6. This can be found in the Experimental Settings and will make sure that Chromapper saves your map without rounding down numbers in the scripts. This is most commonly noticable with rounding down `attenuation` to a value of 0. If you want to avoid this entirely, just re-run the script on anything you copy over or modify.
 
 # Absence Environment (Billie)
 ![Absence Image](https://github.com/Phoenix-BS/BSCEL/blob/main/Environments/Billie%20Platform/Absence%20(Billie)/Absence.png)

@@ -33,7 +33,7 @@ map.customData.environment = [
       BloomFogEnvironment: {
         attenuation: 0.00001,
         startY: -9999,
-        height: 1, // (You didn't set this) //
+        height: 1,
         track: "fog",
       },
     }
@@ -49,7 +49,7 @@ map.customData.environment = [
     active: false
   },
   {
-    id: "Moon$",
+    id: "Moon\\.\\[\\d+\\]NeonTube$",
     lookupMethod: "Regex",
     active: false
   },
