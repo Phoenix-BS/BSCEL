@@ -17,6 +17,8 @@
 
 // SCRIPT //
 
+// Only allows the script to run in strict mode which only allows itself to run if no variables are unused
+
 "use strict";
 
 // Setup Info, Set your input & output diffs here //
@@ -194,7 +196,6 @@ map.customData.customEvents.push(
 // This line of code helps to compile everything together when running and also lets you know if it worked or not
 
 // To run your script, Press f5 and click on node.js if prompted. This should automatically open a terminal and show "done" in the "DEBUG CONSOLE" tab
-// if you have further issues read the Important Info section here: https://github.com/Phoenix-BS/BSCEL/tree/main/Environments
 
 fs.writeFileSync(fileOutput, JSON.stringify(map, null, 0));
 console.log("done");

@@ -27,6 +27,33 @@ All scripts in this database will by default have `ExpertPlusLawless.dat` as the
 6. To check that there are no errors, click on Terminal in the top left and select New Terminal. Then select the Debug Console option where you should see the scripts output. If it worked as intended you should get an output that say's "done"
 7. Go to the map info screen in ChroMapper and click the blue save button. This will add chroma as a suggestion to your output diff (if you already have chroma set on the output diff you don't need to worry about this)
 
+# Presets
+
+Certain environment scripts contain options & presets you can apply to further customize the environment to your needing. All screenshots in this library contain default values and do not showcase the customize options. If customizeable options are available they can be applied by modifier statements at the top of the script.
+Here's an example of what they look like:
+
+```
+let BingusX = 69;
+let BingusY = 420;
+let BingusZ = 69420;
+
+// Bingus Original //
+let BingusX = 69;
+let BingusY = 420;
+let BingusZ = 69420;
+
+// Bingus Extreme //
+let BingusX = 300;
+let BingusY = 1200;
+let BingusZ = 5000;
+```
+
+These preset statements are the easiest way to effect multiple of the same objects in the environment at once without manually editing the code, so feel free to experiment!
+
+# Settings
+- Be sure to turn "Save With Default Values" off. This can be found in General Settings and ensures that null values aren't saved with the V3.3 map version.
+- Be sure to set "Time Value Decimal Prescision" to 6. This can be found in the Experimental Settings and will make sure that Chromapper saves your map without rounding down numbers in the scripts. This is most commonly noticable with rounding down `attenuation` to a value of 0. If you want to avoid this entirely, just re-run the script on anything you copy over or modify.
+
 ### Environment List
 
 # Absence Environment (Billie)
@@ -83,33 +110,6 @@ All scripts in this database will by default have `ExpertPlusLawless.dat` as the
 # Tunnel Environment (Linkin Park)
 ![Tunnel Image](https://github.com/Phoenix-BS/BSCEL/blob/main/Environments/Linkin%20Park%20Platform/Tunnel%20(LinkinPark)/Tunnel.png)
 [Tunnel Environment Page](https://github.com/Phoenix-BS/BSCEL/blob/main/Environments/Linkin%20Park%20Platform/Tunnel%20(LinkinPark))
-
-# Presets
-
-Certain environment scripts contain options & presets you can apply to further customize the environment to your needing. All screenshots in this library contain default values and do not showcase the customize options. If customizeable options are available they can be applied by modifier statements at the top of the script.
-Here's an example of what they look like:
-
-```
-let BingusX = 69;
-let BingusY = 420;
-let BingusZ = 69420;
-
-// Bingus Original //
-let BingusX = 69;
-let BingusY = 420;
-let BingusZ = 69420;
-
-// Bingus Extreme //
-let BingusX = 300;
-let BingusY = 1200;
-let BingusZ = 5000;
-```
-
-These preset statements are the easiest way to effect multiple of the same objects in the environment at once without manually editing the code, so feel free to experiment!
-
-# Settings
-- Be sure to turn "Save With Default Values" off. This can be found in General Settings and ensures that null values aren't saved with the V3.3 map version.
-- Be sure to set "Time Value Decimal Prescision" to 6. This can be found in the Experimental Settings and will make sure that Chromapper saves your map without rounding down numbers in the scripts. This is most commonly noticable with rounding down `attenuation` to a value of 0. If you want to avoid this entirely, just re-run the script on anything you copy over or modify.
 
 # Workshop
 
