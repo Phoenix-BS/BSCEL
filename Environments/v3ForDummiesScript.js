@@ -3,6 +3,7 @@
 // - This script is designed to help you get a basic understanding of using it, making complicated things comes from experimenting with the tools available
 // - Not every single capability of Chroma is explained here, only the bare basics you need to make learning other things easier
 // - The code in this script is placeholder and meant to teach you, not be directly copy and used
+// - This script assumes you have a basic understanding of mapping and lighting practices. Get a basic understanding before jumping straight into Beat Saber related code
 // - Lines with "//" in front are ignored by the script, if you want to add or remove these you can click on the line(s) you want to edit and press ctrl + /
 // - This script makes use of JavaScript. You don't need to know in depth JS to use this script, but having JS knowledge can help you to create more complicated and optimized things
 
@@ -49,9 +50,9 @@ function Random(min, max) {
 // To Make editing code easier you can assign statements to apply to multiple places at once //
 //  If you ever type the name that's represented in a let / const statement below, it will act as whatever it equals //
 
-// let BingusX = 69;
-// let BingusY = 420;
-// let BingusZ = 69420;
+// const BingusX = 69;
+// const BingusY = 420;
+// const BingusZ = 69420;
 
 // This will set whatever it's modyfing to whatever numbers are set above //
 // position: [BingusX, BingusY, BingusZ]
@@ -197,3 +198,6 @@ map.customData.customEvents.push(
 
 fs.writeFileSync(fileOutput, JSON.stringify(map, null, 0));
 console.log("done");
+
+// If you have any further questions or want to improve on this example script then you can reach me on discord
+// phoenix5_
