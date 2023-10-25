@@ -51,7 +51,7 @@ function Random(min, max) {
 
 // To Make editing code easier you can assign statements to apply to multiple places at once //
 // If you ever type the name that's represented in a statement below, it will act as whatever it equals //
-// you can use either "const" or "let" to define your statements. "let" values will be changable later in the script, "const" values will stay the same no matter what
+// you can use either "const" or "let" to define your statements. "let" values are changable within the script, "const" values will stay the same
 
 // const BingusX = 69;
 // const BingusY = 420;
