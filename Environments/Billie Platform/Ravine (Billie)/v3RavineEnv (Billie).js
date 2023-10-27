@@ -23,14 +23,14 @@ function Random(min, max) {
   return Math.floor(Math.random() * (max - min + 1) + min);
 }
 
-const LaserAnchorX = 42
+const LaserAnchorX = 40
 const LaserOffsetX = 2
 
-const LaserAnchorZ = 30
-const LaserOffsetZ = 20
+const LaserAnchorZ = 50
+const LaserOffsetZ = 15
 
-const BloomAnchor = 4
-const BloomOffset = 8
+const BloomAnchor = 8
+const BloomOffset = 12
 
 map.customData.materials = {
   "StoneMaterial": {
@@ -103,6 +103,16 @@ map.customData.environment = [
     lookupMethod: "Regex",
     active: false
   },
+  {
+    id: "NeonTubeDirectionalL \\(\\d\\)$",
+    lookupMethod: "Regex",
+    active: false
+  },
+  {
+    id: "NeonTubeDirectionalR \\(\\d\\)$",
+    lookupMethod: "Regex",
+    active: false
+  },
 
   // Miscellanious
 
@@ -116,27 +126,41 @@ map.customData.environment = [
     id: "Waterfall$",
     lookupMethod: "Regex",
     position: [0, -40, 150],
-    scale: [25, 5, 25],
+    scale: [25, 5, 50],
   },
   {
     id: "BigSmokePS$",
     lookupMethod: "Regex",
     position: [0, -15, 50],
-    scale: [10, 0.05, 20],
+    scale: [10, 0.05, 50],
   },
   {
     id: "BigSmokePS$",
     lookupMethod: "Regex",
     duplicate: 1,
     position: [0, -20, 50],
-    scale: [10, 0.05, 20],
+    scale: [10, 0.05, 50],
   },
   {
     id: "BigSmokePS$",
     lookupMethod: "Regex",
     duplicate: 1,
     position: [0, -25, 50],
-    scale: [10, 0.05, 20],
+    scale: [10, 0.05, 50],
+  },
+  {
+    id: "BigSmokePS$",
+    lookupMethod: "Regex",
+    duplicate: 1,
+    position: [0, -30, 50],
+    scale: [10, 0.05, 50],
+  },
+  {
+    id: "BigSmokePS$",
+    lookupMethod: "Regex",
+    duplicate: 1,
+    position: [0, -35, 50],
+    scale: [10, 0.05, 50],
   },
   {
     id: "DayAndNight",
@@ -147,7 +171,7 @@ map.customData.environment = [
   {
     id: "TunnelRotatingLasersPair \\(\\d+\\)\\.\\[\\d+\\]BaseR$",
     lookupMethod: "Regex",
-    position: [20, 75, 220],
+    position: [25, 60, 110],
     scale: [16, 0.05, 8],
     components: {
       TubeBloomPrePassLight: {
@@ -159,7 +183,7 @@ map.customData.environment = [
   {
     id: "TunnelRotatingLasersPair \\(\\d+\\)\\.\\[\\d+\\]BaseL$",
     lookupMethod: "Regex",
-    position: [-20, 75, 220],
+    position: [-25, 60, 110],
     scale: [16, 0.05, 8],
     components: {
       TubeBloomPrePassLight: {
@@ -410,153 +434,140 @@ map.customData.environment = [
     },
   },
 
+  // Mountain Dupes
+  
+  {
+    id: "t\\.\\[\\d+\\]Mountains$",
+    lookupMethod: "Regex",
+    active: false,
+    duplicate: 1
+  },
+  {
+    id: "t\\.\\[\\d+\\]Mountains\\(Clone\\)$",
+    lookupMethod: "Regex",
+    active: false,
+    duplicate: 1
+  },
+  {
+    id: "t\\.\\[\\d+\\]Mountains\\(Clone\\)\\(Clone\\)$",
+    lookupMethod: "Regex",
+    active: false,
+    duplicate: 1
+  },
+  {
+    id: "t\\.\\[\\d+\\]Mountains\\(Clone\\)\\(Clone\\)\\(Clone\\)$",
+    lookupMethod: "Regex",
+    active: false,
+    duplicate: 1
+  },
+  {
+    id: "t\\.\\[\\d+\\]Mountains\\(Clone\\)\\(Clone\\)\\(Clone\\)\\(Clone\\)$",
+    lookupMethod: "Regex",
+    active: false,
+    duplicate: 1
+  },
+  {
+    id: "t\\.\\[\\d+\\]Mountains\\(Clone\\)\\(Clone\\)\\(Clone\\)\\(Clone\\)\\(Clone\\)$",
+    lookupMethod: "Regex",
+    active: false,
+    duplicate: 1
+  },
+  {
+    id: "t\\.\\[\\d+\\]Mountains\\(Clone\\)\\(Clone\\)\\(Clone\\)\\(Clone\\)\\(Clone\\)\\(Clone\\)$",
+    lookupMethod: "Regex",
+    active: false,
+    duplicate: 1
+  },
+  {
+    id: "t\\.\\[\\d+\\]Mountains\\(Clone\\)\\(Clone\\)\\(Clone\\)\\(Clone\\)\\(Clone\\)\\(Clone\\)\\(Clone\\)$",
+    lookupMethod: "Regex",
+    active: false,
+    duplicate: 1
+  },
+  {
+    id: "t\\.\\[\\d+\\]Mountains\\(Clone\\)\\(Clone\\)\\(Clone\\)\\(Clone\\)\\(Clone\\)\\(Clone\\)\\(Clone\\)\\(Clone\\)$",
+    lookupMethod: "Regex",
+    active: false,
+    duplicate: 1
+  },
+
   // Mountain Range
 
   {
-    id: "Mountains$",
+    id: "t\\.\\[\\d+\\]Mountains$",
     lookupMethod: "Regex",
-    position: [0, -40, 5],
-    scale: [0.75, 1.25, 2],
-    rotation: [-90, 0, 0]
+    active: true,
+    position: [-5, -40, 25],
+    scale: [0.4, 5, 0.75],
+    rotation: [0, 0, 0]
   },
   {
-    id: "Mountains$",
+    id: "t\\.\\[\\d+\\]Mountains\\(Clone\\)$",
     lookupMethod: "Regex",
-    duplicate: 1,
-    position: [0, -60, 15],
-    scale: [0.8, 1.4, 4],
-    rotation: [-90, 0, 0]
+    active: true,
+    position: [0, -40, -20],
+    scale: [0.325, 2.5, 1],
+    rotation: [0, 0, 0]
   },
   {
-    id: "Mountains$",
+    id: "t\\.\\[\\d+\\]Mountains\\(Clone\\)\\(Clone\\)$",
     lookupMethod: "Regex",
-    duplicate: 1,
-    position: [0, -45, 5],
-    scale: [0.6, 0.9, 3],
-    rotation: [-90, 0, 0]
-  },
-  {
-    id: "Mountains$",
-    lookupMethod: "Regex",
-    duplicate: 1,
-    position: [0, -90, 25],
-    scale: [0.55, 0.8, 5],
-    rotation: [-90, 180, 0]
-  },
-  {
-    id: "Mountains$",
-    lookupMethod: "Regex",
-    duplicate: 1,
-    position: [0, -90, 25],
-    scale: [0.55, 0.8, 5],
-    rotation: [-90, 180, 0]
-  },
-  {
-    id: "Mountains$",
-    lookupMethod: "Regex",
-    duplicate: 1,
-    position: [0, -30, 25],
-    scale: [0.5, 0.5, 2],
-    rotation: [-90, 180, 0]
-  },
-  {
-    id: "Mountains$",
-    lookupMethod: "Regex",
-    duplicate: 1,
-    position: [0, -40, 15],
-    scale: [0.45, 0.45, 1],
-    rotation: [-90, 0, 0]
-  },
-  {
-    id: "Mountains$",
-    lookupMethod: "Regex",
-    duplicate: 1,
-    position: [0, -30, 10],
-    scale: [0.425, 0.425, 0.5],
-    rotation: [-90, 180, 0]
-  },
-  {
-    id: "Mountains$",
-    lookupMethod: "Regex",
-    duplicate: 1,
-    position: [0, -40, 10],
-    scale: [15, 15, 0.01],
-    rotation: [-90, 180, 0]
-  },
-  {
-    id: "Mountains$",
-    lookupMethod: "Regex",
-    duplicate: 1,
-    position: [0, -50, -500],
-    scale: [0.55, 0.8, 1.25],
-    rotation: [-90, 70, 0]
-  },
-  {
-    id: "FrontMountains$",
-    lookupMethod: "Regex",
-    duplicate: 1,
-    position: [0, -50, 500],
-    scale: [0.55, 0.8, 0.3],
-    rotation: [-90, 0, 0]
-  },
-
-  // Mountain Floor
-
-  {
-    id: "Mountains$",
-    lookupMethod: "Regex",
-    duplicate: 1,
+    active: true,
     position: [-5, -40, -15],
-    scale: [0.4, 0.4, 0.075],
-    rotation: [-90, 255, 0]
+    scale: [0.3, 1, 2],
+    rotation: [0, 180, 0]
+  },
+
+  // // Mountain Floor
+
+
+  {
+    id: "t\\.\\[\\d+\\]Mountains\\(Clone\\)\\(Clone\\)\\(Clone\\)$",
+    lookupMethod: "Regex",
+    active: true,
+    position: [-5, -60, 25],
+    scale: [0.25, 3, 0.25],
+    rotation: [0, 0, 0]
   },
   {
-    id: "Mountains$",
+    id: "t\\.\\[\\d+\\]Mountains\\(Clone\\)\\(Clone\\)\\(Clone\\)\\(Clone\\)$",
     lookupMethod: "Regex",
-    duplicate: 1,
-    position: [10, -40, 25],
+    active: true,
+    position: [-10, -90, 50],
+    scale: [0.25, 1.25, 0.75],
+    rotation: [0, -60, 0]
+  },
+  {
+    id: "t\\.\\[\\d+\\]Mountains\\(Clone\\)\\(Clone\\)\\(Clone\\)\\(Clone\\)\\(Clone\\)$",
+    lookupMethod: "Regex",
+    active: true,
+    position: [0, -160, 126],
+    scale: [0.2, 4, 0.5],
+    rotation: [0, 180, 0]
+  },
+  {
+    id: "t\\.\\[\\d+\\]Mountains\\(Clone\\)\\(Clone\\)\\(Clone\\)\\(Clone\\)\\(Clone\\)\\(Clone\\)$",
+    lookupMethod: "Regex",
+    active: true,
+    position: [0, -50, -10],
+    scale: [0.1, 0.5, 0.35],
+    rotation: [0, 0, 0]
+  },
+  {
+    id: "t\\.\\[\\d+\\]Mountains\\(Clone\\)\\(Clone\\)\\(Clone\\)\\(Clone\\)\\(Clone\\)\\(Clone\\)\\(Clone\\)$",
+    lookupMethod: "Regex",
+    active: true,
+    position: [-5, -40, 64],
     scale: [0.35, 0.35, 0.075],
-    rotation: [-90, 55, 0]
+    rotation: [0, 0, 0]
   },
   {
-    id: "Mountains$",
+    id: "t\\.\\[\\d+\\]Mountains\\(Clone\\)\\(Clone\\)\\(Clone\\)\\(Clone\\)\\(Clone\\)\\(Clone\\)\\(Clone\\)\\(Clone\\)$",
     lookupMethod: "Regex",
-    duplicate: 1,
-    position: [-10, -43, 5],
-    scale: [0.2, 0.2, 0.05],
-    rotation: [-90, 135, 0]
-  },
-  {
-    id: "Mountains$",
-    lookupMethod: "Regex",
-    duplicate: 1,
-    position: [10, -44, 55],
-    scale: [0.15, 0.25, 0.1],
-    rotation: [-90, 35, 0]
-  },
-  {
-    id: "Mountains$",
-    lookupMethod: "Regex",
-    duplicate: 1,
-    position: [10, -45, 125],
-    scale: [0.15, 0.25, 0.1],
-    rotation: [-90, 35, 0]
-  },
-  {
-    id: "Mountains$",
-    lookupMethod: "Regex",
-    duplicate: 1,
-    position: [5, -68, 265],
-    scale: [0.4, 0.6, 0.2],
-    rotation: [-90, 90, 0]
-  },
-  {
-    id: "Mountains$",
-    lookupMethod: "Regex",
-    duplicate: 1,
-    position: [5, -62, 465],
-    scale: [0.6, 0.45, 0.15],
-    rotation: [-90, -90, 0]
+    active: true,
+    position: [-5, -40, 0],
+    scale: [0.5, 0.3, 0.85],
+    rotation: [0, 0, 0]
   },
 
   // Arch Geometry
@@ -639,6 +650,18 @@ map.customData.environment = [
     rotation: [0, 0, 0],
     scale: [18, 70, 10]
   },
+  {
+    geometry: { type: "Cube", material: "StoneMaterial" },
+    position: [-35, -20, 250],
+    rotation: [0, 0, 0],
+    scale: [18, 70, 10]
+  },
+  {
+    geometry: { type: "Cube", material: "StoneMaterial" },
+    position: [35, -20, 250],
+    rotation: [0, 0, 0],
+    scale: [18, 70, 10]
+  },
 ];
 
 // Bloom Bottom Lights (ty swifter for the code <3)
@@ -673,7 +696,7 @@ for (let laser = 0; laser <= 3; laser++) {
       id: id,
       lookupMethod: "Regex",
       position: [x, -20, -50],
-      scale: [10, 100, 10],
+      scale: [10, 100, 25],
       components: {
         TubeBloomPrePassLight: {
           colorAlphaMultiplier: 100,
