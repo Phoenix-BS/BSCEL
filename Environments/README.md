@@ -113,4 +113,4 @@ These preset statements are the easiest way to effect multiple of the same objec
 
 # Workshop
 
-If you want to get a barebones understanding for how these scripts work you can check out the [For Dummies](https://github.com/Phoenix-BS/BSCEL/blob/main/Environments\v3ForDummiesScript.js) script that helps to explain!
+If you want to get a barebones understanding for how these scripts work you can check out the [For Dummies](https://github.com/Phoenix-BS/BSCEL/blob/main/Environments/v3ForDummiesScript.js) script that helps to explain!
