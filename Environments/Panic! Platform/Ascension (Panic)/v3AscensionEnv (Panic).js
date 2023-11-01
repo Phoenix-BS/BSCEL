@@ -23,37 +23,37 @@ function Random(min, max) {
   return Math.floor(Math.random() * (max - min + 1) + min);
 }
 
-let OffsetXL = -150
-let OffsetXR = 150
-let OffsetYB = -150
-let OffsetYT = 150
-let OffsetZ = 75
+const OffsetXL = -150
+const OffsetXR = 150
+const OffsetYB = -150
+const OffsetYT = 150
+const OffsetZ = 75
 
-let ScaleX = 15
-let ScaleY = 1.5
-let ScaleZ = 5
+const ScaleX = 15
+const ScaleY = 1.5
+const ScaleZ = 5
 
-let RotationXBL = 45
-let RotationXBR = -45
-let RotationXTL = 135
-let RotationXTR = -135
+const RotationXBL = 45
+const RotationXBR = -45
+const RotationXTL = 135
+const RotationXTR = -135
 
 // Default / Preset Values:
 
-// let OffsetXL = -150
-// let OffsetXR = 150
-// let OffsetYB = -150
-// let OffsetYT = 150
-// let OffsetZ = 75
+// const OffsetXL = -150
+// const OffsetXR = 150
+// const OffsetYB = -150
+// const OffsetYT = 150
+// const OffsetZ = 75
 
-// let ScaleX = 15
-// let ScaleY = 1.5
-// let ScaleZ = 5
+// const ScaleX = 15
+// const ScaleY = 1.5
+// const ScaleZ = 5
 
-// let RotationXBL = 45
-// let RotationXBR = -45
-// let RotationXTL = 135
-// let RotationXTR = -135
+// const RotationXBL = 45
+// const RotationXBR = -45
+// const RotationXTL = 135
+// const RotationXTR = -135
 
 map.customData.environment = [
 
@@ -680,7 +680,7 @@ map.customData.environment = [
     lookupMethod: "Regex",
     scale: [0.05, 2000, 0.05]
   },
-   {
+  {
     id: ".*Environment\\.\\[\\d*\\]RotatingLasersPair$",
     lookupMethod: "Regex",
     position: [0, 50, 100],
@@ -694,35 +694,35 @@ map.customData.environment = [
     rotation: [-15, 0, 0],
     scale: [12.5, 12.5, 12.5]
   },
-   {
+  {
     id: ".*Environment\\.\\[\\d*\\]RotatingLasersPair \\(2\\)$",
     lookupMethod: "Regex",
     position: [0, 50, 300],
     rotation: [0, 0, 0],
     scale: [12.5, 12.5, 12.5]
   },
-   {
+  {
     id: ".*Environment\\.\\[\\d*\\]RotatingLasersPair \\(3\\)$",
     lookupMethod: "Regex",
     position: [0, 50, 400],
     rotation: [15, 0, 0],
     scale: [12.5, 12.5, 12.5]
   },
-   {
+  {
     id: ".*Environment\\.\\[\\d*\\]RotatingLasersPair \\(4\\)$",
     lookupMethod: "Regex",
     position: [0, 50, 500],
     rotation: [30, 0, 0],
     scale: [12.5, 12.5, 12.5]
   },
-   {
+  {
     id: ".*Environment\\.\\[\\d*\\]RotatingLasersPair \\(5\\)$",
     lookupMethod: "Regex",
     position: [0, 50, 600],
     rotation: [45, 0, 0],
     scale: [12.5, 12.5, 12.5]
   },
-   {
+  {
     id: ".*Environment\\.\\[\\d*\\]RotatingLasersPair \\(6\\)$",
     lookupMethod: "Regex",
     position: [0, 50, 700],

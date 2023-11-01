@@ -23,8 +23,8 @@ function Random(min, max) {
   return Math.floor(Math.random() * (max - min + 1) + min);
 }
 
-let LaserOffset = 10;
-let LaserScaleOffset = 5;
+const LaserOffset = 10;
+const LaserScaleOffset = 5;
 
 map.customData.environment = [
   {

@@ -8,7 +8,6 @@ In This library you can find the following:
 If you use anything from this library make sure you do the following:
 - If you use any of these listed environments in your chroma maps make sure that you credit the original makers of the environment even if you modified it yourself.
 - Do not take any form of false credit or claim that anything from this library is your own when it isn't.
-- If you find a map that does not give proper credit please respectfully either reach out to the publisher of the map notifying them or reach out to the person behind the environment.
 
 It's highly recommended you have some experience with JSON and other general forms of coding knowledge when browsing this library. Here are some helpful resources that you can reference if necessary:
 - https://github.com/Aeroluna/Heck/wiki

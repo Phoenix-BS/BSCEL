@@ -23,6 +23,27 @@ function Random(min, max) {
   return Math.floor(Math.random() * (max - min + 1) + min);
 }
 
+const LogoScaleX = 1.75
+const LogoScaleY = 7.5
+
+const LogoPositionX = 0
+const LogoPositionY = 50
+const LogoPositionZ = 500
+
+const PillarScaleX = 4
+const PillarScaleY = 12
+const PillarScaleZ = 1.5
+
+const RotationBaseScaleX = 8
+const RotationBaseScaleY = 8
+const RotationBaseScaleZ = 8
+
+const PillarRotationArch = 10
+
+const SmallPillarScaleX = 3.75
+const SmallPillarScaleY = 0.1
+const SmallPillarScaleZ = 3
+
 map.customData.environment = [
   {
     id: "BTSEnvironment.[0]Environment",
@@ -75,6 +96,9 @@ map.customData.environment = [
     lookupMethod: "Regex",
     active: false
   },
+
+  // Cloud Wall
+
   {
     id: "LowCloudsGenerator$",
     lookupMethod: "Regex",
@@ -154,6 +178,9 @@ map.customData.environment = [
     rotation: [-90, 0, 0],
     position: [0, 50, 1300]
   },
+
+  // Cloud Rings
+
   {
     id: "HighCloudsGenerator$",
     lookupMethod: "Regex",
@@ -185,126 +212,129 @@ map.customData.environment = [
     rotation: [270, 90, 90],
     position: [0, 25, 180]
   },
+
+  // Logo
+
   {
     id: "MagicDoorSprite$",
     lookupMethod: "Regex",
-    scale: [1.75, 7.5, 3],
+    scale: [LogoScaleX, LogoScaleY, 3],
     rotation: [0, 0, 0],
-    position: [0, 50, 500]
+    position: [LogoPositionX, LogoPositionY, LogoPositionZ]
   },
   {
     id: "MagicDoorSprite$",
     lookupMethod: "Regex",
     duplicate: 1,
-    scale: [1.75, 7.5, 3],
+    scale: [LogoScaleX, LogoScaleY, 3],
     rotation: [0, 0, 30],
-    position: [0, 50, 500]
+    position: [LogoPositionX, LogoPositionY, LogoPositionZ]
   },
   {
     id: "MagicDoorSprite$",
     lookupMethod: "Regex",
     duplicate: 1,
-    scale: [1.75, 7.5, 3],
+    scale: [LogoScaleX, LogoScaleY, 3],
     rotation: [0, 0, 60],
-    position: [0, 50, 500]
+    position: [LogoPositionX, LogoPositionY, LogoPositionZ]
   },
   {
     id: "MagicDoorSprite$",
     lookupMethod: "Regex",
     duplicate: 1,
-    scale: [1.75, 7.5, 3],
+    scale: [LogoScaleX, LogoScaleY, 3],
     rotation: [0, 0, 90],
-    position: [0, 50, 500]
+    position: [LogoPositionX, LogoPositionY, LogoPositionZ]
   },
   {
     id: "MagicDoorSprite$",
     lookupMethod: "Regex",
     duplicate: 1,
-    scale: [1.75, 7.5, 3],
+    scale: [LogoScaleX, LogoScaleY, 3],
     rotation: [0, 0, 120],
-    position: [0, 50, 500]
+    position: [LogoPositionX, LogoPositionY, LogoPositionZ]
   },
   {
     id: "MagicDoorSprite$",
     lookupMethod: "Regex",
     duplicate: 1,
-    scale: [1.75, 7.5, 3],
+    scale: [LogoScaleX, LogoScaleY, 3],
     rotation: [0, 0, 150],
-    position: [0, 50, 500]
+    position: [LogoPositionX, LogoPositionY, LogoPositionZ]
   },
   {
     id: "MagicDoorSprite$",
     lookupMethod: "Regex",
     duplicate: 1,
-    scale: [1.75, 7.5, 3],
+    scale: [LogoScaleX, LogoScaleY, 3],
     rotation: [0, 0, 180],
-    position: [0, 50, 500]
+    position: [LogoPositionX, LogoPositionY, LogoPositionZ]
   },
   {
     id: "MagicDoorSprite$",
     lookupMethod: "Regex",
     duplicate: 1,
-    scale: [1.75, 7.5, 3],
+    scale: [LogoScaleX, LogoScaleY, 3],
     rotation: [0, 0, 210],
-    position: [0, 50, 500]
+    position: [LogoPositionX, LogoPositionY, LogoPositionZ]
   },
   {
     id: "MagicDoorSprite$",
     lookupMethod: "Regex",
     duplicate: 1,
-    scale: [1.75, 7.5, 3],
+    scale: [LogoScaleX, LogoScaleY, 3],
     rotation: [0, 0, 240],
-    position: [0, 50, 500]
+    position: [LogoPositionX, LogoPositionY, LogoPositionZ]
   },
   {
     id: "MagicDoorSprite$",
     lookupMethod: "Regex",
     duplicate: 1,
-    scale: [1.75, 7.5, 3],
+    scale: [LogoScaleX, LogoScaleY, 3],
     rotation: [0, 0, 270],
-    position: [0, 50, 500]
+    position: [LogoPositionX, LogoPositionY, LogoPositionZ]
   },
   {
     id: "MagicDoorSprite$",
     lookupMethod: "Regex",
     duplicate: 1,
-    scale: [1.75, 7.5, 3],
+    scale: [LogoScaleX, LogoScaleY, 3],
     rotation: [0, 0, 300],
-    position: [0, 50, 500]
+    position: [LogoPositionX, LogoPositionY, LogoPositionZ]
   },
   {
     id: "MagicDoorSprite$",
     lookupMethod: "Regex",
     duplicate: 1,
-    scale: [1.75, 7.5, 3],
+    scale: [LogoScaleX, LogoScaleY, 3],
     rotation: [0, 0, 330],
-    position: [0, 50, 500]
+    position: [LogoPositionX, LogoPositionY, LogoPositionZ]
   },
   {
     id: "\\[\\d+\\]SmallPillarPair\\.\\[\\d\\]PillarL\\.\\[\\d\\]Pillar$",
     lookupMethod: "Regex",
-    scale: [3.75, 0.1, 3],
+    scale: [SmallPillarScaleX, SmallPillarScaleY, SmallPillarScaleZ],
     rotation: [0, 0, -30],
     position: [-22.5, 60, 140]
   },
   {
     id: "\\[\\d+\\]SmallPillarPair\\.\\[\\d\\]PillarR\\.\\[\\d\\]Pillar$",
     lookupMethod: "Regex",
-    scale: [3.75, 0.1, 3],
+    scale: [SmallPillarScaleX, SmallPillarScaleY, SmallPillarScaleZ],
     rotation: [0, 0, 30],
     position: [-22.5, 60, 140]
   },
   {
     id: "\\[\\d+\\]SmallPillarPair\\.\\[\\d\\]PillarL\\.\\[\\d\\]RotationBaseL$",
     lookupMethod: "Regex",
-    scale: [8, 8, 8],
+    scale: [RotationBaseScaleX, RotationBaseScaleY, RotationBaseScaleZ],
     rotation: [0, 0, 0],
     position: [-22.5, 57.5, 140]
   },
   {
     id: "\\[\\d+\\]SmallPillarPair \\(1\\)\\.\\[\\d\\]PillarR\\.\\[\\d\\]RotationBaseR$",
     lookupMethod: "Regex",
-    scale: [8, 8, 8],
+    scale: [RotationBaseScaleX, RotationBaseScaleY, RotationBaseScaleZ],
     rotation: [0, 0, 0],
     position: [-22.5, 57.5, 140]
   },
@@ -325,28 +355,28 @@ map.customData.environment = [
   {
     id: "\\[\\d+\\]SmallPillarPair \\(1\\)\\.\\[\\d\\]PillarL\\.\\[\\d\\]Pillar$",
     lookupMethod: "Regex",
-    scale: [3.75, 0.1, 3],
+    scale: [SmallPillarScaleX, SmallPillarScaleY, SmallPillarScaleZ],
     rotation: [0, 0, -30],
     position: [22.5, 60, 140]
   },
   {
     id: "\\[\\d+\\]SmallPillarPair \\(1\\)\\.\\[\\d\\]PillarR\\.\\[\\d\\]Pillar$",
     lookupMethod: "Regex",
-    scale: [3.75, 0.1, 3],
+    scale: [SmallPillarScaleX, SmallPillarScaleY, SmallPillarScaleZ],
     rotation: [0, 0, 30],
     position: [22.5, 60, 140]
   },
   {
     id: "\\[\\d+\\]SmallPillarPair \\(1\\)\\.\\[\\d\\]PillarL\\.\\[\\d\\]RotationBaseL$",
     lookupMethod: "Regex",
-    scale: [8, 8, 8],
+    scale: [RotationBaseScaleX, RotationBaseScaleY, RotationBaseScaleZ],
     rotation: [0, 0, 0],
     position: [22.5, 57.5, 140]
   },
   {
     id: "\\[\\d+\\]SmallPillarPair\\.\\[\\d\\]PillarR\\.\\[\\d\\]RotationBaseR$",
     lookupMethod: "Regex",
-    scale: [8, 8, 8],
+    scale: [RotationBaseScaleX, RotationBaseScaleY, RotationBaseScaleZ],
     rotation: [0, 0, 0],
     position: [22.5, 57.5, 140]
   },
@@ -367,28 +397,28 @@ map.customData.environment = [
   {
     id: "\\[\\d+\\]SmallPillarPair \\(2\\)\\.\\[\\d\\]PillarL\\.\\[\\d\\]Pillar$",
     lookupMethod: "Regex",
-    scale: [3.75, 0.1, 3],
+    scale: [SmallPillarScaleX, SmallPillarScaleY, SmallPillarScaleZ],
     rotation: [0, 0, -30],
     position: [-50, 50, 170]
   },
   {
     id: "\\[\\d+\\]SmallPillarPair \\(2\\)\\.\\[\\d\\]PillarR\\.\\[\\d\\]Pillar$",
     lookupMethod: "Regex",
-    scale: [3.75, 0.1, 3],
+    scale: [SmallPillarScaleX, SmallPillarScaleY, SmallPillarScaleZ],
     rotation: [0, 0, 30],
     position: [-50, 50, 170]
   },
   {
     id: "\\[\\d+\\]SmallPillarPair \\(2\\)\\.\\[\\d\\]PillarL\\.\\[\\d\\]RotationBaseL$",
     lookupMethod: "Regex",
-    scale: [8, 8, 8],
+    scale: [RotationBaseScaleX, RotationBaseScaleY, RotationBaseScaleZ],
     rotation: [0, 0, 0],
     position: [-50, 47.5, 170]
   },
   {
     id: "\\[\\d+\\]SmallPillarPair \\(3\\)\\.\\[\\d\\]PillarR\\.\\[\\d\\]RotationBaseR$",
     lookupMethod: "Regex",
-    scale: [8, 8, 8],
+    scale: [RotationBaseScaleX, RotationBaseScaleY, RotationBaseScaleZ],
     rotation: [0, 0, 0],
     position: [-50, 47.5, 170]
   },
@@ -409,28 +439,28 @@ map.customData.environment = [
   {
     id: "\\[\\d+\\]SmallPillarPair \\(3\\)\\.\\[\\d\\]PillarL\\.\\[\\d\\]Pillar$",
     lookupMethod: "Regex",
-    scale: [3.75, 0.1, 3],
+    scale: [SmallPillarScaleX, SmallPillarScaleY, SmallPillarScaleZ],
     rotation: [0, 0, -30],
     position: [50, 50, 170]
   },
   {
     id: "\\[\\d+\\]SmallPillarPair \\(3\\)\\.\\[\\d\\]PillarR\\.\\[\\d\\]Pillar$",
     lookupMethod: "Regex",
-    scale: [3.75, 0.1, 3],
+    scale: [SmallPillarScaleX, SmallPillarScaleY, SmallPillarScaleZ],
     rotation: [0, 0, 30],
     position: [50, 50, 170]
   },
   {
     id: "\\[\\d+\\]SmallPillarPair \\(3\\)\\.\\[\\d\\]PillarL\\.\\[\\d\\]RotationBaseL$",
     lookupMethod: "Regex",
-    scale: [8, 8, 8],
+    scale: [RotationBaseScaleX, RotationBaseScaleY, RotationBaseScaleZ],
     rotation: [0, 0, 0],
     position: [50, 47.5, 170]
   },
   {
     id: "\\[\\d+\\]SmallPillarPair \\(2\\)\\.\\[\\d\\]PillarR\\.\\[\\d\\]RotationBaseR$",
     lookupMethod: "Regex",
-    scale: [8, 8, 8],
+    scale: [RotationBaseScaleX, RotationBaseScaleY, RotationBaseScaleZ],
     rotation: [0, 0, 0],
     position: [50, 47.5, 170]
   },
@@ -448,74 +478,77 @@ map.customData.environment = [
     rotation: [0, 0, 120],
     position: [50, 47.5, 170]
   },
+
+  // Pillar Lasers
+
   {
     id: "\\[\\d+\\]PillarPair\\.\\[\\d\\]PillarL$",
     lookupMethod: "Regex",
-    scale: [4, 12, 1.5],
-    rotation: [0, 0, -10],
+    scale: [PillarScaleX, PillarScaleY, PillarScaleZ],
+    rotation: [0, 0, -PillarRotationArch],
     position: [-10, -45, 110]
   },
   {
     id: "\\[\\d+\\]PillarPair\\.\\[\\d\\]PillarR$",
     lookupMethod: "Regex",
-    scale: [4, 12, 1.5],
-    rotation: [0, 0, 10],
+    scale: [PillarScaleX, PillarScaleY, PillarScaleZ],
+    rotation: [0, 0, PillarRotationArch],
     position: [10, -45, 110]
   },
   {
     id: "\\[\\d+\\]PillarPair \\(1\\)\\.\\[\\d\\]PillarL$",
     lookupMethod: "Regex",
-    scale: [4, 12, 1.5],
-    rotation: [0, 0, -20],
+    scale: [PillarScaleX, PillarScaleY, PillarScaleZ],
+    rotation: [0, 0, -PillarRotationArch * 2],
     position: [-25, -30, 120]
   },
   {
     id: "\\[\\d+\\]PillarPair \\(1\\)\\.\\[\\d\\]PillarR$",
     lookupMethod: "Regex",
-    scale: [4, 12, 1.5],
-    rotation: [0, 0, 20],
+    scale: [PillarScaleX, PillarScaleY, PillarScaleZ],
+    rotation: [0, 0, PillarRotationArch * 2],
     position: [25, -30, 120]
   },
   {
     id: "\\[\\d+\\]PillarPair \\(2\\)\\.\\[\\d\\]PillarL$",
     lookupMethod: "Regex",
-    scale: [4, 12, 1.5],
-    rotation: [0, 0, -30],
+    scale: [PillarScaleX, PillarScaleY, PillarScaleZ],
+    rotation: [0, 0, -PillarRotationArch * 3],
     position: [-40, -15, 130]
   },
   {
     id: "\\[\\d+\\]PillarPair \\(2\\)\\.\\[\\d\\]PillarR$",
     lookupMethod: "Regex",
-    scale: [4, 12, 1.5],
-    rotation: [0, 0, 30],
+    scale: [PillarScaleX, PillarScaleY, PillarScaleZ],
+    rotation: [0, 0, PillarRotationArch * 3],
     position: [40, -15, 130]
   },
   {
     id: "\\[\\d+\\]PillarPair \\(3\\)\\.\\[\\d\\]PillarL$",
     lookupMethod: "Regex",
-    scale: [4, 12, 1.5],
-    rotation: [0, 0, -40],
+    scale: [PillarScaleX, PillarScaleY, PillarScaleZ],
+    rotation: [0, 0, -PillarRotationArch * 4],
     position: [-55, 5, 140]
   },
   {
     id: "\\[\\d+\\]PillarPair \\(3\\)\\.\\[\\d\\]PillarR$",
     lookupMethod: "Regex",
-    scale: [4, 12, 1.5],
-    rotation: [0, 0, 40],
+    scale: [PillarScaleX, PillarScaleY, PillarScaleZ],
+    rotation: [0, 0, PillarRotationArch * 4],
     position: [55, 5, 140]
   },
   {
     id: "\\[\\d+\\]PillarPair \\(4\\)\\.\\[\\d\\]PillarL$",
     lookupMethod: "Regex",
-    scale: [4, 12, 1.5],
-    rotation: [0, 0, -50],
+    scale: [PillarScaleX, PillarScaleY, PillarScaleZ],
+    rotation: [0, 0, -PillarRotationArch * 5],
     position: [-70, 25, 150]
   },
   {
     id: "\\[\\d+\\]PillarPair \\(4\\)\\.\\[\\d\\]PillarR$",
     lookupMethod: "Regex",
-    scale: [4, 12, 1.5],
-    rotation: [0, 0, 50],
+    scale: [PillarScaleX, PillarScaleY, PillarScaleZ],
+    rotation: [0, 0, PillarRotationArch * 5],
     position: [70, 25, 150]
   },
     {

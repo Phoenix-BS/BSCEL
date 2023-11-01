@@ -3,7 +3,7 @@
 const fs = require("fs");
 const { toNamespacedPath } = require("path");
 let map = JSON.parse(fs.readFileSync("ExpertPlusLawless.dat"));
-let fileOutput = "ExpertPlusLightshow.dat";
+let fileOutput = "ExpertPlusStandard.dat";
 
 ///// ^^^^^ input ^^^^^ /////
 ///// vvv workspace vvv /////
@@ -39,10 +39,38 @@ map.customData.environment = [
     }
   },
   {
-    id: "BigSmokePS$",
+    id: "Tunnel \\(\\d\\)\\.\\[\\d\\]Top$",
     lookupMethod: "Regex",
-    position: [0, -9999, 0]
+    active: false
   },
+  {
+    id: "LinkinParkSoldier$",
+    lookupMethod: "Regex",
+    active: false
+  },
+  {
+    id: "Tunnel ",
+    lookupMethod: "Contains",
+    active: false
+  },
+  {
+    id: "Logo$",
+    lookupMethod: "Regex",
+    active: false
+  },
+  {
+    id: "LinkinParkTextLogo",
+    lookupMethod: "Contains",
+    active: false
+  },
+  {
+    id: "LaserFloor \\(4\\)$",
+    lookupMethod: "Regex",
+    active: false
+  },
+
+  // HUD
+
   {
     id: "LeftPanel$",
     lookupMethod: "Regex",
@@ -58,20 +86,13 @@ map.customData.environment = [
     lookupMethod: "Regex",
     position: [0, 4, 7.5]
   },
+
+  // Smoke
+
   {
-    id: "Tunnel \\(\\d\\)\\.\\[\\d\\]Top$",
+    id: "BigSmokePS$",
     lookupMethod: "Regex",
-    active: false
-  },
-  {
-    id: "LinkinParkSoldier$",
-    lookupMethod: "Regex",
-    active: false
-  },
-  {
-    id: "Tunnel ",
-    lookupMethod: "Contains",
-    active: false
+    position: [0, -9999, 0]
   },
   {
     id: "BigSmokePS$",
@@ -96,6 +117,9 @@ map.customData.environment = [
     scale: [10, 200, 200],
     rotation: [0, 90, 90]
   },
+
+  // Infrastructure
+
   {
     id: "Tunnel\\.\\[\\d\\]Top$",
     lookupMethod: "Regex",
@@ -127,16 +151,9 @@ map.customData.environment = [
     scale: [11.95, 1000, 12.5],
     rotation: [-90, 0, 0]
   },
-  {
-    id: "Logo$",
-    lookupMethod: "Regex",
-    active: false
-  },
-  {
-    id: "LinkinParkTextLogo",
-    lookupMethod: "Contains",
-    active: false
-  },
+
+  // Bridge + Center Light
+  
   {
     id: "LogoLight$",
     lookupMethod: "Regex",
@@ -164,11 +181,6 @@ map.customData.environment = [
     position: [-1.75, 0, -75],
     scale: [4, 2, 2],
     rotation: [90, 0, 0]
-  },
-  {
-    id: "LaserFloor \\(4\\)$",
-    lookupMethod: "Regex",
-    active: false
   },
   {
     id: "LaserTop \\(3\\)$",
