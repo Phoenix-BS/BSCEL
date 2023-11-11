@@ -33,9 +33,9 @@ Certain environment scripts contain options & presets you can apply to further c
 Here's an example of what they look like:
 
 ```
-const BingusX = 69;
-const BingusY = 420;
-const BingusZ = 69420;
+const BingusX = 69
+const BingusY = 420
+const BingusZ = 69420
 ```
 
 These preset statements are the easiest way to effect multiple of the same objects in the environment at once without manually editing the code, so feel free to experiment!

@@ -8,7 +8,7 @@ Last Modified: 11/10/23
 
 # How To Use
 
-- Note that this environment has a lot of pieces randomly generated and is super customizable. It is envouraged that you play around with the const values to figure out what looks best for you
+- Note that this environment has a lot of pieces randomly generated and is super customizable. It is encouraged that you play around with the const values to figure out what looks best for you
 - Left / Right Lasers pop out of the sides of the mountain
 - Water 4 Will effect the light sticks that shoot up from underneath, LightID 1 for the big center one, LightID 2 - 4 for the little sticks around ir going left to right
 - Water 1 does the same as Water 1 but on the right side
