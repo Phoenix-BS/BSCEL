@@ -16,3 +16,4 @@ Last Modified: 11/10/23
 - Water 3 Will effect the rain based properties of the environment. LightID 1 will effect the aurora light sitting behind the floating island, LightID 2 will effect the rain particles floating upwards. LightID 3 and 4 are unfunctional
 - Left / Right Sunbeams control the waving lights that float around the edges of the environment
 - Sun is positioned behind the floating island and works with both sun and moon
+- The pillars floating around the mountain range are clouds and react to all lights through directional light
