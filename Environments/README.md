@@ -33,19 +33,9 @@ Certain environment scripts contain options & presets you can apply to further c
 Here's an example of what they look like:
 
 ```
-let BingusX = 69;
-let BingusY = 420;
-let BingusZ = 69420;
-
-// Bingus Original //
-let BingusX = 69;
-let BingusY = 420;
-let BingusZ = 69420;
-
-// Bingus Extreme //
-let BingusX = 300;
-let BingusY = 1200;
-let BingusZ = 5000;
+const BingusX = 69;
+const BingusY = 420;
+const BingusZ = 69420;
 ```
 
 These preset statements are the easiest way to effect multiple of the same objects in the environment at once without manually editing the code, so feel free to experiment!
@@ -71,6 +61,9 @@ These preset statements are the easiest way to effect multiple of the same objec
 # Ascension Environment (Panic!)
 ![Ascension Image](https://github.com/Phoenix-BS/BSCEL/blob/main/Environments/Panic!%20Platform/Ascension%20(Panic)/Ascension.png)
 [Ascension Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Environments/Panic!%20Platform/Ascension%20(Panic))
+# Binary Environment (Triangle)
+![Binary Image](https://github.com/Phoenix-BS/BSCEL/blob/main/Environments/Triangle%20Platform/Binary%20(Triangle)/Binary.png)
+[Binary Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Environments/Triangle%20Platform/Binary%20(Triangle))
 # Burger Environment (Green Day)
 ![Burger Image](https://github.com/Phoenix-BS/BSCEL/blob/main/Environments/Green%20Day%20Platform/Burger%20(Green%20Day)/Burger.png)
 [Burger Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Environments/Green%20Day%20Platform/Burger%20(Green%20Day))
@@ -104,6 +97,12 @@ These preset statements are the easiest way to effect multiple of the same objec
 # Sight Environment (Billie)
 ![Sight Image](https://github.com/Phoenix-BS/BSCEL/blob/main/Environments/Billie%20Platform/Sight%20(Billie)/Sight.png)
 [Sight Environment Page](https://github.com/Phoenix-BS/BSCEL/blob/main/Environments/Billie%20Platform/Sight%20(Billie))
+# Smokescreen Environment (BTS)
+![Smokescreen Image](https://github.com/Phoenix-BS/BSCEL/blob/main/Environments/BTS%20Platform/Smokescreen%20(BTS)/Smokescreen.png)
+[Smokescreen Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Environments/BTS%20Platform/Smokescreen%20(BTS))
+# Spellbound Environment (Billie)
+![Spellbound Image](https://github.com/Phoenix-BS/BSCEL/blob/main/Environments/Billie%20Platform/Spellbound%20(Billie)/Spellbound.png)
+[Spellbound Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Environments/Billie%20Platform/Spellbound%20(Billie))
 # Superliminal Environment (Rocket)
 ![Superliminal Image](https://github.com/Phoenix-BS/BSCEL/blob/main/Environments/Rocket%20Platform/Superliminal%20(Rocket)/Superliminal.png)
 [Superliminal Environment Page](https://github.com/Phoenix-BS/BSCEL/blob/main/Environments/Rocket%20Platform/Superliminal%20(Rocket))
