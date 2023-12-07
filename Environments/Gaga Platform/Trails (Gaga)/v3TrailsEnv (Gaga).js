@@ -44,7 +44,7 @@ function HEXtoRGB(color) {
 // Mark the final beat of your map to ensure the idle environment animations work
 const MapBeatEnd = 399
 
-// Intensity of the idle animation for left / right lasers. The intensity will lower as the lasers are further away w/ the formula (Intensity + (LightID + Gradient))
+// Intensity of the idle animation for left / right lasers. The intensity will lower as the lasers are further away w/ the formula (Intensity +/- (LightID * Gradient))
 const LaserRotationIntensity = 20
 const LaserRotationGradient = 2.5
 
