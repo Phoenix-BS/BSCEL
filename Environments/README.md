@@ -20,12 +20,11 @@ All scripts in this database will by default have `ExpertPlusLawless.dat` as the
 ### To Run the scripts, follow the steps listed below:
 
 1. Download the script and put it in the map folder that you want to modify
-2. Ensure that the map file is the correct version the script needs to run and that the input / output diffs are correctly assigned to what you need
-3. Place a chroma event in the input diff (This will ensure that the output diff has chroma as a suggestion which is necessary for the environment to work)
-4. Open the map folder in VSC (Visual Studio Code) and select the script
-5. Run the script by either pressing F5 or click Run in the top left and scroll down to Run Without Debugging. If prompted on how you want to run the script, select [node.js](https://nodejs.org/en) (If you do not have this installed be sure to do so)
-6. To check that there are no errors, click on Terminal in the top left and select New Terminal. Then select the Debug Console option where you should see the scripts output. If it worked as intended you should get an output that say's "done"
-7. Go to the map info screen in ChroMapper and click the blue save button. This will add chroma as a suggestion to your output diff (if you already have chroma set on the output diff you don't need to worry about this)
+2. Open VSC (Visual Studio Code). Click File > Open Folder and open your Map folder you put your script in
+3. Create your input & output diffs in Chromapper and set them accordingly in the script
+4. Open your input diff and place a chroma event. This is to ensure that chromapper can add Chroma as a suggestion when you run the script later.
+5. Run the script by either pressing F5 or click Run in the top left and scroll down to Run Without Debugging. If prompted on how you want to run the script, select [node.js](https://nodejs.org/en) (If you do not have this installed be sure to do so) You should see a popup in the Debug Console saying `done`
+6. Go to the map info screen in ChroMapper and click the blue save button. This will add chroma as a suggestion to your output diff (if you already have chroma set on the output diff you don't need to worry about this)
 
 # Presets
 
@@ -42,7 +41,7 @@ These preset statements are the easiest way to effect multiple of the same objec
 
 # Settings
 - Be sure to turn "Save With Default Values" off. This can be found in General Settings and ensures that null values aren't saved with the V3.3 map version.
-- Be sure to set "Time Value Decimal Prescision" to 6. This can be found in the Experimental Settings and will make sure that Chromapper saves your map without rounding down numbers in the scripts. This is most commonly noticable with rounding down `attenuation` to a value of 0. If you want to avoid this entirely, just re-run the script on anything you copy over or modify.
+- Be sure to set "Time Value Decimal Prescision" to 6. This can be found in the Experimental Settings and will make sure that Chromapper saves your map without rounding down numbers in the scripts. This is most commonly noticable with rounding down `attenuation` to a value of 0. If you want to avoid this entirely, just re-run the script on anything you copy over or modify. This will only be noticable with scripts that have an `attenuation` value that is over 6 decimal places long
 
 ### Environment List
 
@@ -73,6 +72,9 @@ These preset statements are the easiest way to effect multiple of the same objec
 # Cyberline Environment (FitBeat)
 ![Cyberline Image](https://github.com/Phoenix-BS/BSCEL/blob/main/Environments/FitBeat%20Platform/Cyberline%20(FitBeat)/Cyberline.png)
 [Cyberline Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Environments/FitBeat%20Platform/Cyberline%20(FitBeat))
+# Hailstorm Environment (BTS)
+![Hailstorm Image](https://github.com/Phoenix-BS/BSCEL/blob/main/Environments/BTS%20Platform/Hailstorm%20(BTS)/Hailstorm.png)
+[Hailstorm Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Environments/BTS%20Platform/Hailstorm%20(BTS))
 # Illuminous Environment (Kaleidoscope)
 ![Illuminous Image](https://github.com/Phoenix-BS/BSCEL/blob/main/Environments/Kaleidoscope%20Platform/Illuminous%20(Kaleidoscope)/Illuminous.png)
 [Illuminous Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Environments/Kaleidoscope%20Platform/Illuminous%20(Kaleidoscope))
@@ -82,6 +84,9 @@ These preset statements are the easiest way to effect multiple of the same objec
 # Light Bridge Environment (Origins)
 ![Light Bridge Image](https://github.com/Phoenix-BS/BSCEL/blob/main/Environments/Origins%20Platform/LightBridge%20(Origins)/Light%20Bridge.png)
 [Light Bridge Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Environments/Origins%20Platform/LightBridge%20(Origins))
+# Lightbringer Environment (BTS)
+![Lightbringer Image](https://github.com/Phoenix-BS/BSCEL/blob/main/Environments/BTS%20Platform/Lightbringer%20(BTS)/Lightbringer.png)
+[Lightbringer Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Environments/BTS%20Platform/Lightbringer%20(BTS))
 # Mainframe Environment (Dragons)
 ![Mainframe Image](https://github.com/Phoenix-BS/BSCEL/blob/main/Environments/Dragons%20Platform/Mainframe%20(Dragons)/Mainframe.png)
 [Mainframe Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Environments/Dragons%20Platform/Mainframe%20(Dragons))
@@ -91,6 +96,9 @@ These preset statements are the easiest way to effect multiple of the same objec
 # Mystic Environment (Billie)
 ![Mystic Image](https://github.com/Phoenix-BS/BSCEL/blob/main/Environments/Billie%20Platform/Mystic%20(Billie)/Mystic.png)
 [Mystic Environment Page](https://github.com/Phoenix-BS/BSCEL/blob/main/Environments/Billie%20Platform/Mystic%20(Billie))
+# Overflow Environment (BTS)
+![Overflow Image](https://github.com/Phoenix-BS/BSCEL/blob/main/Environments/BTS%20Platform/Overflow%20(BTS)/Overflow.png)
+[Overflow Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Environments/BTS%20Platform/Overflow%20(BTS))
 # Ravine Environment (Billie)
 ![Ravine Image](https://github.com/Phoenix-BS/BSCEL/blob/main/Environments/Billie%20Platform/Ravine%20(Billie)/Ravine.png)
 [Ravine Environment Page](https://github.com/Phoenix-BS/BSCEL/blob/main/Environments/Billie%20Platform/Ravine%20(Billie))
@@ -109,6 +117,9 @@ These preset statements are the easiest way to effect multiple of the same objec
 # Superliminal Environment (Rocket)
 ![Superliminal Image](https://github.com/Phoenix-BS/BSCEL/blob/main/Environments/Rocket%20Platform/Superliminal%20(Rocket)/Superliminal.png)
 [Superliminal Environment Page](https://github.com/Phoenix-BS/BSCEL/blob/main/Environments/Rocket%20Platform/Superliminal%20(Rocket))
+# Synthwave Environment (Dragons)
+![Synthwave Image](https://github.com/Phoenix-BS/BSCEL/blob/main/Environments/Dragons%20Platform/Synthwave%20(Dragons)/Synthwave.png)
+[Synthwave Environment Page](https://github.com/Phoenix-BS/BSCEL/blob/main/Environments/Dragons%20Platform/Synthwave%20(Dragons))
 # Trails Environment (Gaga)
 ![Trails Image](https://github.com/Phoenix-BS/BSCEL/blob/main/Environments/Gaga%20Platform/Trails%20(Gaga)/Trails.png)
 [Trails Environment Page](https://github.com/Phoenix-BS/BSCEL/blob/main/Environments/Gaga%20Platform/Trails%20(Gaga))

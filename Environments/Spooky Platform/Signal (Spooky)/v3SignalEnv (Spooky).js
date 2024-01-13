@@ -23,7 +23,7 @@ let smokeAmount = 25; // Smoke count that's spread over a range
 let smokeMult = 1; // Smoke offset as a multiple between each smoke object
 let smokeScale = 2; // The scale of the first smoke (Will effect the starting point for)
 
-// Tree's will be assigned a random position value with Scale1 and Scale2 acting as a range
+// Tree's will be assigned a random position value with Position1 and Position2 acting as a range
 
 let XPosition1 = 250;
 let XPosition2 = -250;
@@ -41,7 +41,7 @@ let YScale2 = 5.5;
 let ZScale1 = 3;
 let ZScale2 = 9;
 
-// Tree's will be assigned a random rotation value with Scale1 and Scale2 acting as a range
+// Tree's will be assigned a random rotation value with Rotation1 and Rotation2 acting as a range
 
 let XRotation1 = -15;
 let XRotation2 = 15;
