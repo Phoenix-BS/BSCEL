@@ -4,6 +4,7 @@ const fs = require("fs");
 const { toNamespacedPath } = require("path");
 let map = JSON.parse(fs.readFileSync("ExpertPlusLawless.dat"));
 let fileOutput = "ExpertPlusLightshow.dat";
+map.rawEnvironment = [];
 
 ///// ^^^^^ input ^^^^^ /////
 ///// vvv workspace vvv /////

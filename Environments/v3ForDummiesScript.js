@@ -17,7 +17,7 @@
 
 // SCRIPT //
 
-// Only allows the script to run in strict mode which only allows itself to run if no variables are unused
+// Only allows the script to run in strict mode which only allows itself to run if no variables are unused //
 
 "use strict";
 
@@ -28,9 +28,13 @@ const { toNamespacedPath } = require("path");
 let map = JSON.parse(fs.readFileSync("ExpertPlusLawless.dat"));
 let fileOutput = "ExpertPlusLightshow.dat";
 
-// References Brackets, you can reference back here if you forgor //
+// References Brackets, these tie to different parts of customdata in the maps diff file //
 
 map.customData = { pointDefinitions: {}, customEvents: [], environment: [] };
+
+// clears any environment info in your input diff before running the script. delete the line if you want to disable //
+
+map.rawEnvironment = [];
 
 // Shortcuts for map data sections //
 
