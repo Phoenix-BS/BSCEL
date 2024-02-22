@@ -26,22 +26,11 @@ All scripts in this database will by default have `ExpertPlusLawless.dat` as the
 5. Run the script by either pressing F5 or click Run in the top left and scroll down to Run Without Debugging. If prompted on how you want to run the script, select [node.js](https://nodejs.org/en) (If you do not have this installed be sure to do so) You should see a popup in the Debug Console saying `done`
 6. Go to the map info screen in ChroMapper and click the blue save button. This will add chroma as a suggestion to your output diff (if you already have chroma set on the output diff you don't need to worry about this)
 
-# Presets
-
-Certain environment scripts contain options & presets you can apply to further customize the environment to your needing. All screenshots in this library contain default values and do not showcase the customize options. If customizeable options are available they can be applied by modifier statements at the top of the script.
-Here's an example of what they look like:
-
-```
-const BingusX = 69
-const BingusY = 420
-const BingusZ = 69420
-```
-
-These preset statements are the easiest way to effect multiple of the same objects in the environment at once without manually editing the code, so feel free to experiment!
-
 # Settings
 - Be sure to turn "Save With Default Values" off. This can be found in General Settings and ensures that null values aren't saved with the V3.3 map version.
 - Be sure to set "Time Value Decimal Prescision" to 6. This can be found in the Experimental Settings and will make sure that Chromapper saves your map without rounding down numbers in the scripts. This is most commonly noticable with rounding down `attenuation` to a value of 0. If you want to avoid this entirely, just re-run the script on anything you copy over or modify. This will only be noticable with scripts that have an `attenuation` value that is over 6 decimal places long
+- Check that your map diff is set to V3. To check this, open the diff and press `alt + shift + .` to get a pop-up to swap your version
+- Saving the map in Chromapper is a good way to get the map back to an understandable state if you find yourself
 
 ### Environment List
 
