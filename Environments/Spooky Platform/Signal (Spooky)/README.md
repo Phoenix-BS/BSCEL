@@ -23,4 +23,4 @@ Last Modified: 8/9/23
 
 # How To Use
 
-- Works the same as the original except with repositioned components
+- Works the same as the original except the Left & Right lasers aer now in a fixed position instead of rotating around the environment
