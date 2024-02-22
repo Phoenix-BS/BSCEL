@@ -30,7 +30,7 @@ All scripts in this database will by default have `ExpertPlusLawless.dat` as the
 - Be sure to turn "Save With Default Values" off. This can be found in General Settings and ensures that null values aren't saved with the V3.3 map version.
 - Be sure to set "Time Value Decimal Prescision" to 6. This can be found in the Experimental Settings and will make sure that Chromapper saves your map without rounding down numbers in the scripts. This is most commonly noticable with rounding down `attenuation` to a value of 0. If you want to avoid this entirely, just re-run the script on anything you copy over or modify. This will only be noticable with scripts that have an `attenuation` value that is over 6 decimal places long
 - Check that your map diff is set to V3. To check this, open the diff and press `alt + shift + .` to get a pop-up to swap your version
-- Saving the map in Chromapper is a good way to get the map back to an understandable state if you find yourself
+- Saving the map in Chromapper is a good way to get the map back to an understandable state if you find yourself with an undiagnosible error
 
 ### Environment List
 
