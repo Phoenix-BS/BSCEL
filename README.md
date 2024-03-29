@@ -1,26 +1,26 @@
 # BSCEL
-Welcome! BSCEL (Beat-Saber-Chroma-Environment-Library) Is a Database where i'll be uploading all of my chroma environment scripts for you to use and experiment with!
-
-In This library you can find the following:
-- Map Scripts (Marked as JavaScript Source Files)
-- User Shared Environments (Marked as .dat Files)
+Welcome! BSCEL (Beat-Saber-Chroma-Environment-Library) Is a Multi-purpose database of Chroma modified environments that are free for anyone to use!
 
 If you use anything from this library make sure you do the following:
 - If you use any of these listed environments in your chroma maps make sure that you credit the original makers of the environment even if you modified it yourself.
 - Do not take any form of false credit or claim that anything from this library is your own when it isn't.
 
 It's highly recommended you have some experience with JSON and other general forms of coding knowledge when browsing this library. Here are some helpful resources that you can reference if necessary:
+
+### Informational Pages
 - https://github.com/Aeroluna/Heck/wiki
 - https://bsmg.wiki/mapping/
 - https://chromapper.atlassian.net/wiki/spaces/UG/overview
+### Chromapper Plugins
+- https://github.com/MoistSac/ChroMapper-ExtendedLightIDs
+- https://github.com/Swifter1243/Enlighten
 
 This library was heavily inspired by [Lonely's Chroma Environment Library](https://github.com/LonelyCen/Chroma-Environments) and is dedicated to Lone <3
 
-If you're just here for the already setup User Shared Environment versions you can click [here](https://github.com/Phoenix-BS/BSCEL/tree/main/Environments/User%20Environments) to see the full list
-
 If you have any questions or concerns feel free to reach out to me on discord! **phoenix5_**
 
---> [Environment List](https://github.com/Phoenix-BS/BSCEL/tree/main/Environments) <--
+--> [Main Environments](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments) <--
+--> [Community Submitted Environments](https://github.com/Phoenix-BS/BSCEL/tree/main/Community%20Environments) <--
 
 ### Special Thanks
 
