@@ -2,7 +2,7 @@
 ![Internet Environment](Internet.png)
 
 **Showcase Maps:**
-- https://beatsaver.com/maps/379a2
+- COMING SOON
 
 Last Modified: 2/23/24
 
