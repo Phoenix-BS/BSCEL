@@ -10,6 +10,10 @@ If you want to submit something here for public access you can dm me on discord 
 
 Environments submitted will not be monitored or kept to the same setup methods that are used in the [Main Environments](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments). There is no garuantee that these environments are futureproof. Use at your own risk!
 
+If you're writing information on how to use your environments then here are a few notes about formatting:
+- single enters will not show unless you double space or attatch a `<br />` tag to the end of each line. If you utilize certain formatting techniques such as bullet points or numbers this will be auto-bypassed
+- you can format text using any technique listed on the GitHub [Formatting Syntax Doc](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#styling-text)
+
 ### Environment List
 
 # Believer Environment (BTS)
