@@ -14,6 +14,11 @@ It's highly recommended you have some experience with JSON and other general for
 ### Chromapper Plugins
 - https://github.com/MoistSac/ChroMapper-ExtendedLightIDs
 - https://github.com/Swifter1243/Enlighten
+### Discord Support Servers
+- https://discord.gg/rrZf3kapeh
+- https://discord.gg/QUNxWtayxs
+### Miscellanious Utilities
+- https://github.com/MadChase/ChromaPlus-Importer
 
 This library was heavily inspired by [Lonely's Chroma Environment Library](https://github.com/LonelyCen/Chroma-Environments) and is dedicated to Lone <3
 
@@ -36,6 +41,7 @@ officialMECH,
 Sp234,
 Endy,
 Pleast,
+MadChase,
 Moriik,
 nitronik.exe,
 Bullet,
