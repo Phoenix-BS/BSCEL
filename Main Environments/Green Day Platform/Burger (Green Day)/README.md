@@ -2,7 +2,7 @@
 ![Burger Environment](Burger.png)
 
 **Showcase Maps:**
-- https://beatsaver.com/maps/36a23
+- [Excited About Burger](https://beatsaver.com/maps/36a23)
 
 Last Modified: 9/14/23
 

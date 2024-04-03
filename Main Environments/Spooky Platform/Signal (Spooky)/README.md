@@ -2,11 +2,12 @@
 ![Signal Environment](Signal.png)
 
 **Showcase Maps:**
-- https://beatsaver.com/maps/34382
-- https://beatsaver.com/maps/343f8
-- https://beatsaver.com/maps/34441
-- https://beatsaver.com/maps/354e2
-- https://beatsaver.com/maps/35859
+- [tiziana](https://beatsaver.com/maps/34382)
+- [all i do is try my best](https://beatsaver.com/maps/343f8)
+- [the good the bad the olga](https://beatsaver.com/maps/34441)
+- [the prom](https://beatsaver.com/maps/354e2)
+- [oh are you bipolar one or two?](https://beatsaver.com/maps/35859)
+- [as if](https://beatsaver.com/maps/3a51b)
 
 Last Modified: 8/9/23
 

@@ -2,7 +2,7 @@
 ![Infrastructure Environment](Infrastructure.png)
 
 **Showcase Maps:**
-- https://beatsaver.com/maps/35ffb
+- [Black Magic](https://beatsaver.com/maps/35ffb)
 
 Last Modified: 8/9/23
 

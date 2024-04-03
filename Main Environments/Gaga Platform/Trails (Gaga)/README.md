@@ -2,7 +2,7 @@
 ![Trails Environment](<Trails.png>)
 
 **Showcase Maps:**
-- https://beatsaver.com/maps/37c61
+- [snow trails](https://beatsaver.com/maps/37c61)
 
 Last Modified: 12/16/23
 

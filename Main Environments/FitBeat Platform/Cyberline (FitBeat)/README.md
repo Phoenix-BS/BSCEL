@@ -2,7 +2,7 @@
 ![Cyberline Environment](Cyberline.png)
 
 **Showcase Maps:**
-- https://beatsaver.com/maps/367c1
+- [Letting Go](https://beatsaver.com/maps/367c1)
 
 Last Modified: 9/21/23
 

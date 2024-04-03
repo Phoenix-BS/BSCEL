@@ -2,8 +2,8 @@
 ![Morality Environment](Morality.png)
 
 **Showcase Maps:**
-- https://beatsaver.com/maps/359ce
-- https://beatsaver.com/maps/367d2
+- [Dead Voxel](https://beatsaver.com/maps/359ce)
+- [Roots](https://beatsaver.com/maps/367d2)
 
 Last Modified: 9/12/23
 

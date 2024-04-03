@@ -2,8 +2,8 @@
 ![Mystic Environment](Mystic.png)
 
 **Showcase Maps:**
-- https://beatsaver.com/maps/33f20
-- https://beatsaver.com/maps/3543a
+- [Nobody](https://beatsaver.com/maps/33f20)
+- [Back to the Light / Oceans of Luma](https://beatsaver.com/maps/3543a)
 
 Last Modified: 7/12/23
 

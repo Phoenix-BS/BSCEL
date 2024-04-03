@@ -2,7 +2,7 @@
 ![Spellbound Environment](Spellbound.png)
 
 **Showcase Maps:**
-- https://beatsaver.com/maps/3714c
+- [photogenic](https://beatsaver.com/maps/3714c)
 
 Last Modified: 11/10/23
 

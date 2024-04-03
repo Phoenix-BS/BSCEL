@@ -2,7 +2,7 @@
 ![Smokescreen Environment](Smokescreen.png)
 
 **Showcase Maps:**
-- UNUSED
+- [second hand smoke](https://beatsaver.com/maps/37ef8)
 
 Last Modified: 11/10/23
 
