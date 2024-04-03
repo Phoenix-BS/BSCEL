@@ -4,8 +4,6 @@
 **Showcase Maps:**
 - UNUSED
 
-Last Modified: 12/16/23
-
 # How To Use
 
 - Left / Right Lasers are fundementally the same

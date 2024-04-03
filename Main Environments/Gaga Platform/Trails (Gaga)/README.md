@@ -4,8 +4,6 @@
 **Showcase Maps:**
 - [snow trails](https://beatsaver.com/maps/37c61)
 
-Last Modified: 12/16/23
-
 # Setup
 
 Currently Chromapper does not support the Gaga environment so all the chroma light ID's are bound to the default environment!

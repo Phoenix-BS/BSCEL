@@ -4,8 +4,6 @@
 **Showcase Maps:**
 - [dead man walkin'](https://beatsaver.com/maps/33842)
 
-Last Modified: 7/8/23
-
 # How To Use
 
 - Left / Right Laser ID's [1, 3, 5, 7, 9] Will effect the lasers stemming from the pillars underneath

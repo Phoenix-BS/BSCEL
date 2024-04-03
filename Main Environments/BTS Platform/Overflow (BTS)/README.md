@@ -4,8 +4,6 @@
 **Showcase Maps:**
 - [Overflow](https://beatsaver.com/maps/38836)
 
-Last Modified: 1/1/24
-
 # How To Use
 
 - Left and Right Lasers both stem from the ground on the left and right and remain functionally the same

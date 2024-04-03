@@ -4,8 +4,6 @@
 **Showcase Maps:**
 - [EGOTRIP](https://beatsaver.com/maps/3b54e)
 
-Last Modified: 2/23/24
-
 # How To Use
 
 - Back Lasers are bound to background elements. LightID 1 will effect the 2 bridge beams on the floor, LightID 2 will effect a subtle background ambient light

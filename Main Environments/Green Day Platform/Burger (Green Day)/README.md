@@ -4,8 +4,6 @@
 **Showcase Maps:**
 - [Excited About Burger](https://beatsaver.com/maps/36a23)
 
-Last Modified: 9/14/23
-
 # How To Use
 
 - BURGER!!!!!!!!

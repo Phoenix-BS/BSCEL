@@ -4,8 +4,6 @@
 **Showcase Maps:**
 - [Letting Go](https://beatsaver.com/maps/367c1)
 
-Last Modified: 9/21/23
-
 # How To Use
 
 - Left / Right Lasers Are lined below the bridge and remain fundementally the same

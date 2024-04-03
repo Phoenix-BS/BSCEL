@@ -4,8 +4,6 @@
 **Showcase Maps:**
 - [FAR OUT](https://beatsaver.com/maps/39be5)
 
-Last Modified: 7/12/23
-
 # How To Use
 
 - Center Lights effect the big diamond shape in the center (Does not work with ID's)

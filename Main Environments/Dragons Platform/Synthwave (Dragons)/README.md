@@ -4,8 +4,6 @@
 **Showcase Maps:**
 - [Gunship](https://beatsaver.com/maps/38d9c)
 
-Last Modified: 12/21/23
-
 # How To Use
 
 - Back Lasers will effect the sphere above the tower on lightID 1 and the ambient light on lightID 2

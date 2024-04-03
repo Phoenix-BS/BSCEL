@@ -4,8 +4,6 @@
 **Showcase Maps:**
 - [Clique](https://beatsaver.com/maps/38a2a)
 
-Last Modified: 11/10/23
-
 # How To Use
 
 - Left / Right Lasers are positioned to the sides of the bridge and remain functionally the same

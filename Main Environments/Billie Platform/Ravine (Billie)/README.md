@@ -4,8 +4,6 @@
 **Showcase Maps:**
 - [hard2describe](https://beatsaver.com/maps/374f8)
 
-Last Modified: 10/27/23
-
 # How To Use
 
 - Left / Right Lasers stem out of the ground around the center and remain functionally the same

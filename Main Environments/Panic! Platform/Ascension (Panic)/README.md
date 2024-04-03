@@ -4,8 +4,6 @@
 **Showcase Maps:**
 - [✧✦lest i ascend out of your reach✦✧](https://beatsaver.com/maps/33d46)
 
-Last Modified: 7/9/23
-
 # How To Use
 
 - Left / Right Lasers Are hovering along the sides of the tunnel and stay fundementally the same

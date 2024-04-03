@@ -4,8 +4,6 @@
 **Showcase Maps:**
 - [victim](https://beatsaver.com/maps/340bf)
 
-Last Modified: 7/13/23
-
 # How To Use
 
 - Left / Right Laser ID's [1 - 18] Will effect the spinning light sticks that float around the bridge

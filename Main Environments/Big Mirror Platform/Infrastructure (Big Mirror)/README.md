@@ -4,8 +4,6 @@
 **Showcase Maps:**
 - [Black Magic](https://beatsaver.com/maps/35ffb)
 
-Last Modified: 8/9/23
-
 # How To Use
 
 - Left / Right Lasers are positioned up and to the sides of the bridge and remain functionally the same

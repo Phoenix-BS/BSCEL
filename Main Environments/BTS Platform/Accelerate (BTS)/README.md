@@ -3,7 +3,6 @@
 
 **Showcase Maps:**
 - [Accelerate](https://beatsaver.com/maps/340c2)
-Last Modified: 7/9/23
 
 # How To Use
 

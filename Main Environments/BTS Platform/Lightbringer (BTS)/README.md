@@ -4,8 +4,6 @@
 **Showcase Maps:**
 - UNUSED
 
-Last Modified: 1/6/24
-
 # How To Use
 
 - Left / Right Lasers are lined along the sides of the environment and remain functinoally the same

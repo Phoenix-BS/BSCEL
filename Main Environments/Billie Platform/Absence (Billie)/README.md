@@ -4,8 +4,6 @@
 **Showcase Maps:**
 - [in the absence of comfort](https://beatsaver.com/maps/3285e)
 
-Last Modified: 7/8/23
-
 # How To Use
 
 - Left / Right Lasers Are hovering along the sides of the track and remain functionally the same

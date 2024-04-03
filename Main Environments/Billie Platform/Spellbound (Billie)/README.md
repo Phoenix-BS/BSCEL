@@ -4,8 +4,6 @@
 **Showcase Maps:**
 - [photogenic](https://beatsaver.com/maps/3714c)
 
-Last Modified: 11/10/23
-
 # How To Use
 
 - Note that this environment has a lot of pieces randomly generated and is super customizable. It is encouraged that you play around with the const values to figure out what looks best for you

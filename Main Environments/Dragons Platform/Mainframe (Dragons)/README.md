@@ -4,8 +4,6 @@
 **Showcase Maps:**
 - [Show Me How (Defsharp Remix)](https://beatsaver.com/maps/379a2)
 
-Last Modified: 7/8/23
-
 # How To Use
 
 - Back Lasers will effect the light sticks on the ceiling of the environment and remain fundementally the same

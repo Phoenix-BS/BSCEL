@@ -3,7 +3,6 @@
 
 **Showcase Maps:**
 - [A Cookie From Space](https://beatsaver.com/maps/3b7b0)
-Last Modified: 11/10/23
 
 # How To Use
 

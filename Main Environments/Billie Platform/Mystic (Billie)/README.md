@@ -5,8 +5,6 @@
 - [Nobody](https://beatsaver.com/maps/33f20)
 - [Back to the Light / Oceans of Luma](https://beatsaver.com/maps/3543a)
 
-Last Modified: 7/12/23
-
 # How To Use
 
 - Left / Right Lasers stem out of the ground around the center and remain functionally the same

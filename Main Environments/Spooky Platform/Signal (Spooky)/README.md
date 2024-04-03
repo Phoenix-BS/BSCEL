@@ -9,8 +9,6 @@
 - [oh are you bipolar one or two?](https://beatsaver.com/maps/35859)
 - [as if](https://beatsaver.com/maps/3a51b)
 
-Last Modified: 8/9/23
-
 # How To Use
 
 - Left / Right Lasers shoot from the sky and circle around the environment when used with laser rotation events (Only about 1/3rd of the lasers are visible at a time when spinning)

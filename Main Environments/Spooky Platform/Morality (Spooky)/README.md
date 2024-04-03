@@ -5,8 +5,6 @@
 - [Dead Voxel](https://beatsaver.com/maps/359ce)
 - [Roots](https://beatsaver.com/maps/367d2)
 
-Last Modified: 9/12/23
-
 # How To Use
 
 - Left / Right Lasers Spew from inside the trees to the right across the road. With laser speed they spread in a circle formation. With no spread they all stay in the same place to form a single line.

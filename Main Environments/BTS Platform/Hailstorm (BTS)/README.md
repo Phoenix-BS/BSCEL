@@ -4,8 +4,6 @@
 **Showcase Maps:**
 - [Surface](https://beatsaver.com/maps/3858e)
 
-Last Modified: 12/26/23
-
 # How To Use
 
 - Left and Right Lasers both stem from the suspended rocks on the left and right of the player

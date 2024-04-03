@@ -4,8 +4,6 @@
 **Showcase Maps:**
 - [Indefinity](https://beatsaver.com/maps/35d1a)
 
-Last Modified: 9/21/23
-
 # How To Use
 
 - Left / Right Lasers control the pillars along the sides of the environment, ID 1 being closest, ID 7 being furthest (Does not work with laser speed events)
