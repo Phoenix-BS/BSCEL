@@ -24,8 +24,8 @@ This library was heavily inspired by [Lonely's Chroma Environment Library](https
 
 If you have any questions or concerns feel free to reach out to me on discord! **phoenix5_**
 
---> [Main Environments](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments) <--
---> [Community Submitted Environments](https://github.com/Phoenix-BS/BSCEL/tree/main/Community%20Environments) <--
+## --> [Main Environments](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments) <--
+## --> [Community Submitted Environments](https://github.com/Phoenix-BS/BSCEL/tree/main/Community%20Environments) <--
 
 ### Special Thanks
 
