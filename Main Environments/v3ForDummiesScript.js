@@ -34,7 +34,7 @@ map.customData = { pointDefinitions: {}, customEvents: [], environment: [] };
 
 // clears any environment info in your input diff before running the script. delete the line if you want to disable //
 
-map.rawEnvironment = [];
+
 
 // Shortcuts for map data sections //
 
