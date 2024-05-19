@@ -102,6 +102,10 @@ All scripts in this database will by default have `ExpertPlusLawless.dat` as the
 ![Lightbringer Image](https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/BTS%20Platform/Lightbringer%20(BTS)/Lightbringer.png)
 [Lightbringer Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/BTS%20Platform/Lightbringer%20(BTS))
 
+# Lilly Environment (Billie)
+![Lilly Image](https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Billie%20Platform/Lilly%20(Billie)/Lilly.png)
+[Lilly Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/Billie%20Platform/Lilly%20(Billie))
+
 # Mainframe Environment (Dragons)
 ![Mainframe Image](https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Dragons%20Platform/Mainframe%20(Dragons)/Mainframe.png)
 [Mainframe Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/Dragons%20Platform/Mainframe%20(Dragons))
