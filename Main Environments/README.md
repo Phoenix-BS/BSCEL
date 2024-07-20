@@ -130,8 +130,8 @@ All scripts in this database will by default have `ExpertPlusLawless.dat` as the
 ![Ravine Image](https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Billie%20Platform/Ravine%20(Billie)/Ravine.png)
 [Ravine Environment Page](https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Billie%20Platform/Ravine%20(Billie))
 
-# Screening Environment (Green%20Day)
-![Screening Image](https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Green%20Day%20Platform/Screening%20(Spooky)/Screening.png)
+# Screening Environment (Green Day)
+![Screening Image](https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Green%20Day%20Platform/Screening%20(Green%20Day)/Screening.png)
 [Screening Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/Green%20Day%20Platform/Screening%20(Green%20Day))
 
 # Signal Environment (Spooky)
