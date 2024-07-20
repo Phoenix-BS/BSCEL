@@ -28,7 +28,7 @@ All scripts in this database will by default have `ExpertPlusLawless.dat` as the
 
 # Settings
 - Be sure to turn "Save With Default Values" off. This can be found in General Settings and ensures that null values aren't saved with the V3.3 map version.
-- Be sure to set "Time Value Decimal Prescision" to 6. This can be found in the Experimental Settings and will make sure that Chromapper saves your map without rounding down numbers in the scripts. This is most commonly noticable with rounding down `attenuation` to a value of 0. If you want to avoid this entirely, just re-run the script on anything you copy over or modify. This will only be noticable with scripts that have an `attenuation` value that is over 6 decimal places long
+- Be sure to set "Time Value Decimal Prescision" to 6. This can be found in the Experimental Settings and will make sure that Chromapper saves your map without rounding down numbers in the scripts. This is most commonly noticable with rounding down `attenuation` to a value of 0. If you want to avoid this entirely, just re-run the script on anything you copy over or modify. This will only be noticable with scripts that have an `attenuation` value that is over 6 decimal places long. Please note that this setting will increase the file size of your map if you are not careful with optimization.
 - Check that your map diff is set to V3. To check this, open the diff and press `alt + shift + .` to get a pop-up to swap your version
 - Saving the map in Chromapper is a good way to get the map back to an understandable state if you find yourself with an undiagnosible error
 
@@ -73,6 +73,10 @@ All scripts in this database will by default have `ExpertPlusLawless.dat` as the
 # Cyberline Environment (FitBeat)
 ![Cyberline Image](https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/FitBeat%20Platform/Cyberline%20(FitBeat)/Cyberline.png)
 [Cyberline Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/FitBeat%20Platform/Cyberline%20(FitBeat))
+
+# Enchantment Environment (Billie)
+![Enchantment Image](https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Billie%20Platform/Enchantment%20(Billie)/Enchantment.png)
+[Enchantment Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/Billie%20Platform/Enchantment%20(Billie))
 
 # Energy Environment (Skrillex)
 ![Energy Image](https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Skrillex%20Platform/Energy%20(Skrillex)/Energy.png)
@@ -125,6 +129,10 @@ All scripts in this database will by default have `ExpertPlusLawless.dat` as the
 # Ravine Environment (Billie)
 ![Ravine Image](https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Billie%20Platform/Ravine%20(Billie)/Ravine.png)
 [Ravine Environment Page](https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Billie%20Platform/Ravine%20(Billie))
+
+# Screening Environment (Green%20Day)
+![Screening Image](https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Green%20Day%20Platform/Screening%20(Spooky)/Screening.png)
+[Screening Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/Green%20Day%20Platform/Screening%20(Green%20Day))
 
 # Signal Environment (Spooky)
 ![Signal Image](https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Spooky%20Platform/Signal%20(Spooky)/Signal.png)
