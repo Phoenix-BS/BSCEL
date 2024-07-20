@@ -28,11 +28,11 @@ If you're writing information on how to use your environments then here are a fe
 ### MadChase
 ![Moses Image](https://github.com/Phoenix-BS/BSCEL/blob/main/Community%20Environments/Moses/PIC.png)
 [Moses Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Community%20Environments/Moses)
-# Cave Environment (Billie)
+# Cave Environment (BTS)
 ### MadChase
 ![Cave Image](https://github.com/Phoenix-BS/BSCEL/blob/main/Community%20Environments/Cave/PIC.png)
 [Cave Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Community%20Environments/Cave)
-# 360 Environment (Billie)
+# 360 Environment (Rocket)
 ### MadChase
 ![360 Image](https://github.com/Phoenix-BS/BSCEL/blob/main/Community%20Environments/360/PIC.png)
 [360 Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Community%20Environments/360)
