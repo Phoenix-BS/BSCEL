@@ -43,7 +43,7 @@ All scripts in this database will by default have `ExpertPlusLawless.dat` as the
 [Abstraction Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/BTS%20Platform/Abstraction%20(BTS))
 
 # Accelerate Environment (BTS)
-![Accelerate Image](https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/BTS%20Platform/Accelerate%20(BTS)/Accelerate.png)
+<img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/BTS%20Platform/Accelerate%20(BTS)/Accelerate.png" alt="Accelerate Image" width="400" />
 [Accelerate Environment Page](https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/BTS%20Platform/Accelerate%20(BTS))
 
 # Arches Environment (KDA)
