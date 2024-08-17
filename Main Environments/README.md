@@ -34,10 +34,22 @@ All scripts in this database will by default have `ExpertPlusLawless.dat` as the
 
 ### Environment List
 
+<details><summary>Billie Environment</summary>
+<br>
+
 # Absence Environment (Billie)
 <img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Billie%20Platform/Absence%20(Billie)/Absence.png" alt="Absence Image" width="500" />
 
 [Absence Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/Billie%20Platform/Absence%20(Billie))
+
+# Enchantment Environment (Billie)
+<img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Billie%20Platform/Enchantment%20(Billie)/Enchantment.png" alt="Enchantment Image" width="500" />
+
+[Enchantment Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/Billie%20Platform/Enchantment%20(Billie))
+
+</details>
+
+
 
 # Abstraction Environment (BTS)
 <img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/BTS%20Platform/Abstraction%20(BTS)/Abstraction.png" alt="Abstraction Image" width="500" />
@@ -88,11 +100,6 @@ All scripts in this database will by default have `ExpertPlusLawless.dat` as the
 <img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Timbaland%20Platform/Cyclone%20(Timbaland)/Cyclone.png" alt="Cyclone Image" width="500" />
 
 [Cyclone Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/Timbaland%20Platform/Cyclone%20(Timbaland))
-
-# Enchantment Environment (Billie)
-<img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Billie%20Platform/Enchantment%20(Billie)/Enchantment.png" alt="Enchantment Image" width="500" />
-
-[Enchantment Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/Billie%20Platform/Enchantment%20(Billie))
 
 # Energy Environment (Skrillex)
 <img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Skrillex%20Platform/Energy%20(Skrillex)/Energy.png" alt="Energy Image" width="500" />
