@@ -34,6 +34,18 @@ All scripts in this database will by default have `ExpertPlusLawless.dat` as the
 
 ### Environment List
 
+<details><summary>Big Mirror Environment</summary>
+<br>
+
+# Infrastructure Environment (Big Mirror)
+<img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Big%20Mirror%20Platform/Infrastructure%20(Big%20Mirror)/Infrastructure.png" alt="Infrastructure Image" width="500" />
+
+[Infrastructure Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/Big%20Mirror%20Platform/Infrastructure%20(Big%20Mirror))
+
+</details>
+
+
+
 <details><summary>Billie Environment</summary>
 <br>
 
@@ -47,9 +59,37 @@ All scripts in this database will by default have `ExpertPlusLawless.dat` as the
 
 [Enchantment Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/Billie%20Platform/Enchantment%20(Billie))
 
+# Lilly Environment (Billie)
+<img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Billie%20Platform/Lilly%20(Billie)/Lilly.png" alt="Lilly Image" width="500" />
+
+[Lilly Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/Billie%20Platform/Lilly%20(Billie))
+
+# Mystic Environment (Billie)
+<img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Billie%20Platform/Mystic%20(Billie)/Mystic.png" alt="Mystic Image" width="500" />
+
+[Mystic Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/Billie%20Platform/Mystic%20(Billie))
+
+# Ravine Environment (Billie)
+<img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Billie%20Platform/Ravine%20(Billie)/Ravine.png" alt="Ravine Image" width="500" />
+
+[Ravine Environment Page](https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Billie%20Platform/Ravine%20(Billie))
+
+# Sight Environment (Billie)
+<img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Billie%20Platform/Sight%20(Billie)/Sight.png" alt="Sight Image" width="500" />
+
+[Sight Environment Page](https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Billie%20Platform/Sight%20(Billie))
+
+# Spellbound Environment (Billie)
+<img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Billie%20Platform/Spellbound%20(Billie)/Spellbound.png" alt="Spellbound Image" width="500" />
+
+[Spellbound Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/Billie%20Platform/Spellbound%20(Billie))
+
 </details>
 
 
+
+<details><summary>BTS Environment</summary>
+<br>
 
 # Abstraction Environment (BTS)
 <img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/BTS%20Platform/Abstraction%20(BTS)/Abstraction.png" alt="Abstraction Image" width="500" />
@@ -61,156 +101,226 @@ All scripts in this database will by default have `ExpertPlusLawless.dat` as the
 
 [Accelerate Environment Page](https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/BTS%20Platform/Accelerate%20(BTS))
 
-# Arches Environment (KDA)
-<img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/KDA%20Platform/Arches%20(KDA)/Arches.png" alt="Arches Image" width="500" />
-
-[Arches Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/KDA%20Platform/Arches%20(KDA))
-
-# Ascension Environment (Panic!)
-<img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Panic!%20Platform/Ascension%20(Panic)/Ascension.png" alt="Ascension Image" width="500" />
-
-[Ascension Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/Panic!%20Platform/Ascension%20(Panic))
-
-# Binary Environment (Triangle)
-<img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Triangle%20Platform/Binary%20(Triangle)/Binary.png" alt="Binary Image" width="500" />
-
-[Binary Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/Triangle%20Platform/Binary%20(Triangle))
-
-# Burger Environment (Green Day)
-<img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Green%20Day%20Platform/Burger%20(Green%20Day)/Burger.png" alt="Burger Image" width="500" />
-
-[Burger Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/Green%20Day%20Platform/Burger%20(Green%20Day))
-
-# Chalice Environment (Panic!)
-<img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Panic!%20Platform/Chalice%20(Panic)/Chalice.png" alt="Chalice Image" width="500" />
-
-[Chalice Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/Panic!%20Platform/Chalice%20(Panic))
-
 # Cookie Environment (BTS)
 <img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/BTS%20Platform/Cookie%20(BTS)/Cookie.png" alt="Cookie Image" width="500" />
 
 [Cookie Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/BTS%20Platform/Cookie%20(BTS))
-
-# Cyberline Environment (FitBeat)
-<img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/FitBeat%20Platform/Cyberline%20(FitBeat)/Cyberline.png" alt="Cyberline Image" width="500" />
-
-[Cyberline Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/FitBeat%20Platform/Cyberline%20(FitBeat))
-
-# Cyclone Environment (Timbaland)
-<img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Timbaland%20Platform/Cyclone%20(Timbaland)/Cyclone.png" alt="Cyclone Image" width="500" />
-
-[Cyclone Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/Timbaland%20Platform/Cyclone%20(Timbaland))
-
-# Energy Environment (Skrillex)
-<img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Skrillex%20Platform/Energy%20(Skrillex)/Energy.png" alt="Energy Image" width="500" />
-
-[Energy Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/Skrillex%20Platform/Energy%20(Skrillex))
-
-# Hailstorm Environment (BTS)
-<img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/BTS%20Platform/Hailstorm%20(BTS)/Hailstorm.png" alt="Hailstorm Image" width="500" />
-
-[Hailstorm Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/BTS%20Platform/Hailstorm%20(BTS))
-
-# Illuminous Environment (Kaleidoscope)
-<img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Kaleidoscope%20Platform/Illuminous%20(Kaleidoscope)/Illuminous.png" alt="Illuminous Image" width="500" />
-
-[Illuminous Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/Kaleidoscope%20Platform/Illuminous%20(Kaleidoscope))
-
-# Infrastructure Environment (Big Mirror)
-<img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Big%20Mirror%20Platform/Infrastructure%20(Big%20Mirror)/Infrastructure.png" alt="Infrastructure Image" width="500" />
-
-[Infrastructure Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/Big%20Mirror%20Platform/Infrastructure%20(Big%20Mirror))
-
-# Internet Environment (Dragons)
-<img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Dragons%20Platform/Internet%20(Dragons)/Internet.png" alt="Internet Image" width="500" />
-
-[Internet Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/Dragons%20Platform/Internet%20(Dragons))
-
-# Light Bridge Environment (Origins)
-<img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Origins%20Platform/LightBridge%20(Origins)/Light%20Bridge.png" alt="Light Bridge Image" width="500" />
-
-[Light Bridge Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/Origins%20Platform/LightBridge%20(Origins))
 
 # Lightbringer Environment (BTS)
 <img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/BTS%20Platform/Lightbringer%20(BTS)/Lightbringer.png" alt="Lightbringer Image" width="500" />
 
 [Lightbringer Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/BTS%20Platform/Lightbringer%20(BTS))
 
-# Lilly Environment (Billie)
-<img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Billie%20Platform/Lilly%20(Billie)/Lilly.png" alt="Lilly Image" width="500" />
+# Hailstorm Environment (BTS)
+<img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/BTS%20Platform/Hailstorm%20(BTS)/Hailstorm.png" alt="Hailstorm Image" width="500" />
 
-[Lilly Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/Billie%20Platform/Lilly%20(Billie))
-
-# Mainframe Environment (Dragons)
-<img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Dragons%20Platform/Mainframe%20(Dragons)/Mainframe.png" alt="Mainframe Image" width="500" />
-
-[Mainframe Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/Dragons%20Platform/Mainframe%20(Dragons))
-
-# Morality Environment (Spooky)
-<img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Spooky%20Platform/Morality%20(Spooky)/Morality.png" alt="Morality Image" width="500" />
-
-[Morality Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/Spooky%20Platform/Morality%20(Spooky))
-
-# Mystic Environment (Billie)
-<img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Billie%20Platform/Mystic%20(Billie)/Mystic.png" alt="Mystic Image" width="500" />
-
-[Mystic Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/Billie%20Platform/Mystic%20(Billie))
+[Hailstorm Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/BTS%20Platform/Hailstorm%20(BTS))
 
 # Overflow Environment (BTS)
 <img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/BTS%20Platform/Overflow%20(BTS)/Overflow.png" alt="Overflow Image" width="500" />
 
 [Overflow Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/BTS%20Platform/Overflow%20(BTS))
 
-# Ravine Environment (Billie)
-<img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Billie%20Platform/Ravine%20(Billie)/Ravine.png" alt="Ravine Image" width="500" />
-
-[Ravine Environment Page](https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Billie%20Platform/Ravine%20(Billie))
-
-# Screening Environment (Green Day)
-<img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Green%20Day%20Platform/Screening%20(Green%20Day)/Screening.png" alt="Screening Image" width="500" />
-
-[Screening Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/Green%20Day%20Platform/Screening%20(Green%20Day))
-
-# Signal Environment (Spooky)
-<img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Spooky%20Platform/Signal%20(Spooky)/Signal.png" alt="Signal Image" width="500" />
-
-[Signal Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/Spooky%20Platform/Signal%20(Spooky))
-
-# Sight Environment (Billie)
-<img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Billie%20Platform/Sight%20(Billie)/Sight.png" alt="Sight Image" width="500" />
-
-[Sight Environment Page](https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Billie%20Platform/Sight%20(Billie))
-
 # Smokescreen Environment (BTS)
 <img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/BTS%20Platform/Smokescreen%20(BTS)/Smokescreen.png" alt="Smokescreen Image" width="500" />
 
 [Smokescreen Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/BTS%20Platform/Smokescreen%20(BTS))
 
-# Spellbound Environment (Billie)
-<img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Billie%20Platform/Spellbound%20(Billie)/Spellbound.png" alt="Spellbound Image" width="500" />
+</details>
 
-[Spellbound Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/Billie%20Platform/Spellbound%20(Billie))
 
-# Superliminal Environment (Rocket)
-<img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Rocket%20Platform/Superliminal%20(Rocket)/Superliminal.png" alt="Superliminal Image" width="500" />
 
-[Superliminal Environment Page](https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Rocket%20Platform/Superliminal%20(Rocket))
+<details><summary>Dragons Environment</summary>
+<br>
+
+# Internet Environment (Dragons)
+<img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Dragons%20Platform/Internet%20(Dragons)/Internet.png" alt="Internet Image" width="500" />
+
+[Internet Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/Dragons%20Platform/Internet%20(Dragons))
+
+# Mainframe Environment (Dragons)
+<img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Dragons%20Platform/Mainframe%20(Dragons)/Mainframe.png" alt="Mainframe Image" width="500" />
+
+[Mainframe Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/Dragons%20Platform/Mainframe%20(Dragons))
 
 # Synthwave Environment (Dragons)
 <img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Dragons%20Platform/Synthwave%20(Dragons)/Synthwave.png" alt="Synthwave Image" width="500" />
 
 [Synthwave Environment Page](https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Dragons%20Platform/Synthwave%20(Dragons))
 
+</details>
+
+
+
+<details><summary>FitBeat Environment</summary>
+<br>
+
+# Cyberline Environment (FitBeat)
+<img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/FitBeat%20Platform/Cyberline%20(FitBeat)/Cyberline.png" alt="Cyberline Image" width="500" />
+
+[Cyberline Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/FitBeat%20Platform/Cyberline%20(FitBeat))
+
+</details>
+
+
+
+<details><summary>Gaga Environment</summary>
+<br>
+
 # Trails Environment (Gaga)
 <img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Gaga%20Platform/Trails%20(Gaga)/Trails.png" alt="Trails Image" width="500" />
 
 [Trails Environment Page](https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Gaga%20Platform/Trails%20(Gaga))
+
+</details>
+
+
+
+<details><summary>Green Day Environment</summary>
+<br>
+
+# Burger Environment (Green Day)
+<img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Green%20Day%20Platform/Burger%20(Green%20Day)/Burger.png" alt="Burger Image" width="500" />
+
+[Burger Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/Green%20Day%20Platform/Burger%20(Green%20Day))
+
+# Screening Environment (Green Day)
+<img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Green%20Day%20Platform/Screening%20(Green%20Day)/Screening.png" alt="Screening Image" width="500" />
+
+[Screening Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/Green%20Day%20Platform/Screening%20(Green%20Day))
+
+</details>
+
+
+
+<details><summary>Kaleidoscope Environment</summary>
+<br>
+
+# Illuminous Environment (Kaleidoscope)
+<img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Kaleidoscope%20Platform/Illuminous%20(Kaleidoscope)/Illuminous.png" alt="Illuminous Image" width="500" />
+
+[Illuminous Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/Kaleidoscope%20Platform/Illuminous%20(Kaleidoscope))
+
+</details>
+
+
+
+<details><summary>KDA Environment</summary>
+<br>
+
+# Arches Environment (KDA)
+<img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/KDA%20Platform/Arches%20(KDA)/Arches.png" alt="Arches Image" width="500" />
+
+[Arches Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/KDA%20Platform/Arches%20(KDA))
+
+</details>
+
+
+
+
+<details><summary>Linkin Park Environment</summary>
+<br>
 
 # Tunnel Environment (Linkin Park)
 <img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Linkin%20Park%20Platform/Tunnel%20(LinkinPark)/Tunnel.png" alt="Tunnel Image" width="500" />
 
 [Tunnel Environment Page](https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Linkin%20Park%20Platform/Tunnel%20(LinkinPark))
 
+</details>
+
+
+
+<details><summary>Origins Environment</summary>
+<br>
+
+# Light Bridge Environment (Origins)
+<img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Origins%20Platform/LightBridge%20(Origins)/Light%20Bridge.png" alt="Light Bridge Image" width="500" />
+
+[Light Bridge Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/Origins%20Platform/LightBridge%20(Origins))
+
+</details>
+
+
+
+<details><summary>Panic! Environment</summary>
+<br>
+
+# Ascension Environment (Panic!)
+<img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Panic!%20Platform/Ascension%20(Panic)/Ascension.png" alt="Ascension Image" width="500" />
+
+[Ascension Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/Panic!%20Platform/Ascension%20(Panic))
+
+# Chalice Environment (Panic!)
+<img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Panic!%20Platform/Chalice%20(Panic)/Chalice.png" alt="Chalice Image" width="500" />
+
+[Chalice Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/Panic!%20Platform/Chalice%20(Panic))
+
+</details>
+
+
+
+<details><summary>Rocket Environment</summary>
+<br>
+
+# Superliminal Environment (Rocket)
+<img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Rocket%20Platform/Superliminal%20(Rocket)/Superliminal.png" alt="Superliminal Image" width="500" />
+
+[Superliminal Environment Page](https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Rocket%20Platform/Superliminal%20(Rocket))
+
+</details>
+
+
+
+<details><summary>Skrillex Environment</summary>
+<br>
+
+# Energy Environment (Skrillex)
+<img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Skrillex%20Platform/Energy%20(Skrillex)/Energy.png" alt="Energy Image" width="500" />
+
+[Energy Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/Skrillex%20Platform/Energy%20(Skrillex))
+
+</details>
+
+
+
+<details><summary>Spooky Environment</summary>
+<br>
+
+# Morality Environment (Spooky)
+<img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Spooky%20Platform/Morality%20(Spooky)/Morality.png" alt="Morality Image" width="500" />
+
+[Morality Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/Spooky%20Platform/Morality%20(Spooky))
+
+# Signal Environment (Spooky)
+<img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Spooky%20Platform/Signal%20(Spooky)/Signal.png" alt="Signal Image" width="500" />
+
+[Signal Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/Spooky%20Platform/Signal%20(Spooky))
+
+</details>
+
+
+
+<details><summary>Timbaland Environment</summary>
+<br>
+
+# Cyclone Environment (Timbaland)
+<img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Timbaland%20Platform/Cyclone%20(Timbaland)/Cyclone.png" alt="Cyclone Image" width="500" />
+
+[Cyclone Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/Timbaland%20Platform/Cyclone%20(Timbaland))
+
+</details>
+
+
+
+<details><summary>Triangle Environment</summary>
+<br>
+
+# Binary Environment (Triangle)
+<img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Triangle%20Platform/Binary%20(Triangle)/Binary.png" alt="Binary Image" width="500" />
+
+[Binary Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/Triangle%20Platform/Binary%20(Triangle))
+
+</details>
 
 # Workshop
 

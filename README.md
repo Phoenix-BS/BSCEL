@@ -1,9 +1,13 @@
 # BSCEL
 Welcome! BSCEL (Beat-Saber-Chroma-Environment-Library) Is a Multi-purpose database of Chroma modified environments that are free for anyone to use!
 
+<br>
+
 If you use anything from this library make sure you do the following:
 - If you use any of these listed environments in your chroma maps make sure that you credit the original makers of the environment even if you modified it yourself.
 - Do not take any form of false credit or claim that anything from this library is your own when it isn't.
+
+<br>
 
 It's highly recommended you have some experience with JSON and other general forms of coding knowledge when browsing this library. Here are some helpful resources that you can reference if necessary:
 
@@ -24,8 +28,16 @@ This library was heavily inspired by [Lonely's Chroma Environment Library](https
 
 If you have any questions or concerns feel free to reach out to me on discord! **phoenix5_**
 
+<br>
+
 ## --> [Main Environments](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments) <--
 ## --> [Community Submitted Environments](https://github.com/Phoenix-BS/BSCEL/tree/main/Community%20Environments) <--
+
+<br>
+
+[Support What I Do!](https://ko-fi.com/phoenixbs)
+
+<br>
 
 ### Special Thanks
 
