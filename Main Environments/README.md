@@ -336,7 +336,7 @@ All scripts in this database will by default have `ExpertPlusLawless.dat` as the
 [Cyclone Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/Timbaland%20Platform/Cyclone%20(Timbaland))
 
 # Envelop Environment (Timbaland)
-<img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Timbaland%20Platform/Cyclone%20(Timbaland)/Envelop.png" alt="Envelop Image" width="500" />
+<img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Timbaland%20Platform/Envelop%20(Timbaland)/Envelop.png" alt="Envelop Image" width="500" />
 
 [Envelop Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/Timbaland%20Platform/Envelop%20(Timbaland))
 
