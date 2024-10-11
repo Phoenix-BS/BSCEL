@@ -6,6 +6,7 @@ Welcome! BSCEL (Beat-Saber-Chroma-Environment-Library) Is a Multi-purpose databa
 If you use anything from this library make sure you do the following:
 - If you use any of these listed environments in your chroma maps make sure that you credit the original makers of the environment even if you modified it yourself.
 - Do not take any form of false credit or claim that anything from this library is your own when it isn't.
+- Respect my privacy in my creatinos. If an environment isn't located in this database but is made by me, you can ask me for permission to use it but chances are I want it exclusive to certain projects and maps.
 
 <br>
 
@@ -31,6 +32,9 @@ If you have any questions or concerns feel free to reach out to me on discord! *
 <br>
 
 ## --> [Main Environments](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments) <--
+
+<br>
+
 ## --> [Community Submitted Environments](https://github.com/Phoenix-BS/BSCEL/tree/main/Community%20Environments) <--
 
 <br>
@@ -39,32 +43,4 @@ If you have any questions or concerns feel free to reach out to me on discord! *
 
 <br>
 
-### Special Thanks
-
-People who helped / inspired / motivated me in any way (In no particular order)
-
-* Zyxi,
-* nasafrasa,
-* Swifter,
-* Pixelguy,
-* Jamman,
-* Kansas,
-* officialMECH,
-* Sp234,
-* Endy,
-* Pleast,
-* MadChase,
-* Moriik,
-* nitronik.exe,
-* Bullet,
-* Timeweaver,
-* AllPoland,
-* AkaBaka,
-* shonshyn,
-* Reddek,
-* GojiCrafter,
-* Fatalution,
-* ben208,
-* Lonely,
-* Undeciever,
-* SmokeyBacon
+ty to anyone who uses anything in this library, you're amazing <3

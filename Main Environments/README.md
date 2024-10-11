@@ -84,6 +84,16 @@ All scripts in this database will by default have `ExpertPlusLawless.dat` as the
 
 [Spellbound Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/Billie%20Platform/Spellbound%20(Billie))
 
+# Sylva Environment (Billie)
+<img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Billie%20Platform/Sylva%20(Billie)/Sylva.png" alt="Sylva Image" width="500" />
+
+[Sylva Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/Billie%20Platform/Sylva%20(Billie))
+
+# Time Environment (Billie)
+<img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Billie%20Platform/Time%20(Billie)/Time.png" alt="Time Image" width="500" />
+
+[Time Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/Billie%20Platform/Time%20(Billie))
+
 </details>
 
 
@@ -230,6 +240,18 @@ All scripts in this database will by default have `ExpertPlusLawless.dat` as the
 
 
 
+<details><summary>Monstercat Environment</summary>
+<br>
+
+# Light Bridge Environment (Origins)
+<img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Monstercat%20Platform/Portal%20(Monstercat)/Portal.png" alt="Portal Image" width="500" />
+
+[Portal Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/Monstercat%20Platform/Portal%20(Monstercat))
+
+</details>
+
+
+
 <details><summary>Origins Environment</summary>
 <br>
 
@@ -286,6 +308,11 @@ All scripts in this database will by default have `ExpertPlusLawless.dat` as the
 <details><summary>Spooky Environment</summary>
 <br>
 
+# Castle Environment (Spooky)
+<img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Spooky%20Platform/Castle%20(Spooky)/Castle.png" alt="Castle Image" width="500" />
+
+[Castle Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/Spooky%20Platform/Castle%20(Spooky))
+
 # Morality Environment (Spooky)
 <img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Spooky%20Platform/Morality%20(Spooky)/Morality.png" alt="Morality Image" width="500" />
 
@@ -307,6 +334,11 @@ All scripts in this database will by default have `ExpertPlusLawless.dat` as the
 <img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Timbaland%20Platform/Cyclone%20(Timbaland)/Cyclone.png" alt="Cyclone Image" width="500" />
 
 [Cyclone Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/Timbaland%20Platform/Cyclone%20(Timbaland))
+
+# Envelop Environment (Timbaland)
+<img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Timbaland%20Platform/Cyclone%20(Timbaland)/Envelop.png" alt="Envelop Image" width="500" />
+
+[Envelop Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/Timbaland%20Platform/Envelop%20(Timbaland))
 
 </details>
 
