@@ -243,7 +243,7 @@ All scripts in this database will by default have `ExpertPlusLawless.dat` as the
 <details><summary>Monstercat Environment</summary>
 <br>
 
-# Light Bridge Environment (Origins)
+# Portal Environment (Monstercat)
 <img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Monstercat%20Platform/Portal%20(Monstercat)/Portal.png" alt="Portal Image" width="500" />
 
 [Portal Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/Monstercat%20Platform/Portal%20(Monstercat))
