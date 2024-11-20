@@ -49,11 +49,6 @@ All scripts in this database will by default have `ExpertPlusLawless.dat` as the
 <details><summary>Billie Environment</summary>
 <br>
 
-# Absence Environment (Billie)
-<img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Billie%20Platform/Absence%20(Billie)/Absence.png" alt="Absence Image" width="500" />
-
-[Absence Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/Billie%20Platform/Absence%20(Billie))
-
 # Enchantment Environment (Billie)
 <img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Billie%20Platform/Enchantment%20(Billie)/Enchantment.png" alt="Enchantment Image" width="500" />
 
@@ -69,11 +64,6 @@ All scripts in this database will by default have `ExpertPlusLawless.dat` as the
 
 [Mystic Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/Billie%20Platform/Mystic%20(Billie))
 
-# Ravine Environment (Billie)
-<img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Billie%20Platform/Ravine%20(Billie)/Ravine.png" alt="Ravine Image" width="500" />
-
-[Ravine Environment Page](https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Billie%20Platform/Ravine%20(Billie))
-
 # Sight Environment (Billie)
 <img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Billie%20Platform/Sight%20(Billie)/Sight.png" alt="Sight Image" width="500" />
 
@@ -83,11 +73,6 @@ All scripts in this database will by default have `ExpertPlusLawless.dat` as the
 <img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Billie%20Platform/Spellbound%20(Billie)/Spellbound.png" alt="Spellbound Image" width="500" />
 
 [Spellbound Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/Billie%20Platform/Spellbound%20(Billie))
-
-# Sylva Environment (Billie)
-<img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Billie%20Platform/Sylva%20(Billie)/Sylva.png" alt="Sylva Image" width="500" />
-
-[Sylva Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/Billie%20Platform/Sylva%20(Billie))
 
 # Time Environment (Billie)
 <img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Billie%20Platform/Time%20(Billie)/Time.png" alt="Time Image" width="500" />
@@ -223,18 +208,10 @@ All scripts in this database will by default have `ExpertPlusLawless.dat` as the
 
 [Arches Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/KDA%20Platform/Arches%20(KDA))
 
-</details>
+# Strand Environment (KDA)
+<img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/KDA%20Platform/Strand%20(KDA)/Strand.png" alt="Strand Image" width="500" />
 
-
-
-
-<details><summary>Linkin Park Environment</summary>
-<br>
-
-# Tunnel Environment (Linkin Park)
-<img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Linkin%20Park%20Platform/Tunnel%20(LinkinPark)/Tunnel.png" alt="Tunnel Image" width="500" />
-
-[Tunnel Environment Page](https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Linkin%20Park%20Platform/Tunnel%20(LinkinPark))
+[Strand Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/KDA%20Platform/Strand%20(KDA))
 
 </details>
 
@@ -260,17 +237,17 @@ All scripts in this database will by default have `ExpertPlusLawless.dat` as the
 
 [Light Bridge Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/Origins%20Platform/LightBridge%20(Origins))
 
+# Cable Environment (Origins)
+<img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Origins%20Platform/Cable%20(Origins)/Cable.png" alt="Cable Image" width="500" />
+
+[Cable Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/Origins%20Platform/Cable%20(Origins))
+
 </details>
 
 
 
 <details><summary>Panic! Environment</summary>
 <br>
-
-# Ascension Environment (Panic!)
-<img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Panic!%20Platform/Ascension%20(Panic)/Ascension.png" alt="Ascension Image" width="500" />
-
-[Ascension Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/Panic!%20Platform/Ascension%20(Panic))
 
 # Chalice Environment (Panic!)
 <img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Panic!%20Platform/Chalice%20(Panic)/Chalice.png" alt="Chalice Image" width="500" />
@@ -351,6 +328,38 @@ All scripts in this database will by default have `ExpertPlusLawless.dat` as the
 <img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Triangle%20Platform/Binary%20(Triangle)/Binary.png" alt="Binary Image" width="500" />
 
 [Binary Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/Triangle%20Platform/Binary%20(Triangle))
+
+</details>
+
+<br>
+
+<details><summary>Legacy Scripts</summary>
+<br>
+
+# Note:
+Environments in this bracket are made with messy and outdated code and are more prone to breaking in the future. Use at your own risk!
+
+<br>
+
+# Absence Environment (Billie)
+<img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Billie%20Platform/Absence%20(Billie)/Absence.png" alt="Absence Image" width="500" />
+
+[Absence Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/Billie%20Platform/Absence%20(Billie))
+
+# Ascension Environment (Panic!)
+<img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Panic!%20Platform/Ascension%20(Panic)/Ascension.png" alt="Ascension Image" width="500" />
+
+[Ascension Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/Panic!%20Platform/Ascension%20(Panic))
+
+# Ravine Environment (Billie)
+<img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Billie%20Platform/Ravine%20(Billie)/Ravine.png" alt="Ravine Image" width="500" />
+
+[Ravine Environment Page](https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Billie%20Platform/Ravine%20(Billie))
+
+# Tunnel Environment (Linkin Park)
+<img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Linkin%20Park%20Platform/Tunnel%20(LinkinPark)/Tunnel.png" alt="Tunnel Image" width="500" />
+
+[Tunnel Environment Page](https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Linkin%20Park%20Platform/Tunnel%20(LinkinPark))
 
 </details>
 
