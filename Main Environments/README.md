@@ -266,6 +266,11 @@ All scripts in this database will by default have `ExpertPlusLawless.dat` as the
 
 [Superliminal Environment Page](https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Rocket%20Platform/Superliminal%20(Rocket))
 
+# Weave Environment (Rocket)
+<img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Rocket%20Platform/Weave%20(Rocket)/Weave.png" alt="Weave Image" width="500" />
+
+[Weave Environment Page](https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Rocket%20Platform/Weave%20(Rocket))
+
 </details>
 
 
