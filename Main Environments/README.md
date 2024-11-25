@@ -327,7 +327,7 @@ All scripts in this database will by default have `ExpertPlusLawless.dat` as the
 
 [Simulation Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/Timbaland%20Platform/Simulation%20(Timbaland))
 
-</details>
+</details> 
 
 
 
