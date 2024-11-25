@@ -323,7 +323,7 @@ All scripts in this database will by default have `ExpertPlusLawless.dat` as the
 [Envelop Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/Timbaland%20Platform/Envelop%20(Timbaland))
 
 # Simulation Environment (Timbaland)
-<img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Timbaland%20Platform/Envelop%20(Timbaland)/Simulation.png" alt="Simulation Image" width="500" />
+<img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Timbaland%20Platform/Simulation%20(Timbaland)/Simulation.png" alt="Simulation Image" width="500" />
 
 [Simulation Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/Timbaland%20Platform/Simulation%20(Timbaland))
 
