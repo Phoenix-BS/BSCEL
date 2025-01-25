@@ -229,6 +229,18 @@ All scripts in this database will by default have `ExpertPlusLawless.dat` as the
 
 
 
+<details><summary>Nice Environment</summary>
+<br>
+
+# Club Environment (Nice)
+<img src="https://github.com/Phoenix-BS/BSCEL/blob/main/Main%20Environments/Nice%20Platform/Club%20(Nice)/Club.png" alt="Club Image" width="500" />
+
+[Club Environment Page](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments/Nice%20Platform/Club%20(Nice))
+
+</details>
+
+
+
 <details><summary>Origins Environment</summary>
 <br>
 
