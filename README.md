@@ -6,7 +6,7 @@ Welcome! BSCEL (Beat-Saber-Chroma-Environment-Library) Is a Multi-purpose databa
 If you use anything from this library make sure you do the following:
 - If you use any of these listed environments in your chroma maps make sure that you credit the original makers of the environment even if you modified it yourself.
 - Do not take any form of false credit or claim that anything from this library is your own when it isn't.
-- Respect my privacy in my creatinos. If an environment isn't located in this database but is made by me, you can ask me for permission to use it but chances are I want it exclusive to certain projects and maps.
+- Environments that are made by me but are not listed in this database are not off limits but permission of usage should be run by me first.
 
 <br>
 
@@ -25,6 +25,12 @@ It's highly recommended you have some experience with JSON and other general for
 ### Miscellanious Utilities
 - https://github.com/MadChase/ChromaPlus-Importer
 
+<br>
+
+If you are photo epileptic or sensitive to flashing lights it's recommended you browse with caution.
+
+<br>
+
 This library was heavily inspired by [Lonely's Chroma Environment Library](https://github.com/LonelyCen/Chroma-Environments) and is dedicated to Lone <3
 
 If you have any questions or concerns feel free to reach out to me on discord! **phoenix5_**
@@ -32,10 +38,6 @@ If you have any questions or concerns feel free to reach out to me on discord! *
 <br>
 
 ## --> [Main Environments](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments) <--
-
-<br>
-
-## --> [Community Submitted Environments](https://github.com/Phoenix-BS/BSCEL/tree/main/Community%20Environments) <--
 
 <br>
 
