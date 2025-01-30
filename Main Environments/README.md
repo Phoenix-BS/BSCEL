@@ -19,18 +19,21 @@ All scripts in this database will by default have `ExpertPlusLawless.dat` as the
 
 ### To Run the scripts, follow the steps listed below:
 
-1. Download the script and put it in the map folder that you want to modify
-2. Open VSC (Visual Studio Code). Click File > Open Folder and open your Map folder you put your script in
-3. Create your input & output diffs in Chromapper and set them accordingly in the script
-4. Open your input diff and place a chroma event. This is to ensure that chromapper can add Chroma as a suggestion when you run the script later.
+1. Navigate the library and find an environment that you want to mess with. Click on the `.js` script to download the script to your computer.
+2. Open VSC (Visual Studio Code). Click File > Open Folder and open the map folder you want to use the script with. either move or copy + paste the script you downloaded to the inside of your map folder. You should see it pop up on the VSC side bar.
+3. Create your input & output diffs in Chromapper. Set these accordingly at the top of the script (see the section above on setting input / output diffs).
+4. Open your input diff and place a chroma event. This is to ensure that chromapper can add Chroma as a suggestion when you run the script later. It's a good idea to have events on each event type with different colors so you can see what's bound to what.
 5. Run the script by either pressing F5 or click Run in the top left and scroll down to Run Without Debugging. If prompted on how you want to run the script, select [node.js](https://nodejs.org/en) (If you do not have this installed be sure to do so) You should see a popup in the Debug Console saying `done`
 6. Go to the map info screen in ChroMapper and click the blue save button. This will add chroma as a suggestion to your output diff (if you already have chroma set on the output diff you don't need to worry about this)
 
 # Settings
 - Be sure to turn "Save With Default Values" off. This can be found in General Settings and ensures that null values aren't saved with the V3.3 map version.
 - Be sure to set "Time Value Decimal Prescision" to 6. This can be found in the Experimental Settings and will make sure that Chromapper saves your map without rounding down numbers in the scripts. This is most commonly noticable with rounding down `attenuation` to a value of 0. If you want to avoid this entirely, just re-run the script on anything you copy over or modify. This will only be noticable with scripts that have an `attenuation` value that is over 6 decimal places long. Please note that this setting will increase the file size of your map if you are not careful with optimization.
-- Check that your map diff is set to V3. To check this, open the diff and press `alt + shift + .` to get a pop-up to swap your version
-- Saving the map in Chromapper is a good way to get the map back to an understandable state if you find yourself with an undiagnosible error
+
+# Troubleshooting
+- The scripts located in this library only work with maps that are in the V3 format. To check that your map diff is set to V3, open the diff and press `alt + shift + .` to get a pop-up to swap your version
+- Does your map have the necsessary mod suggestions / requirements? If not, jump back to step 6 listed above. You can also alternatively modify these parameters in the maps `info.dat` file if you know how to do so.
+- Do the lights of the environment in game look over-saturated and bright? This could be because Chromapper saved over the attenuation value of the environment. This is what controls the density of the fog in game and it's commonplace to see values such as `0.000001`. Since these are low decimal points chromapper will save over this to just `0` which removes the fog entirely (This is the purpose of setting "Time Value Decimal Prescision" in Settings). To fix this, you can either re-run the script to reapply the `attenuation` value or you can search for `attenuation` in the `difficulty.dat` file and insert the correct value.
 
 ### Environment List
 
