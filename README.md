@@ -41,6 +41,10 @@ If you have any questions or concerns feel free to reach out to me on discord! *
 
 <br>
 
+The environments page containing those made by MadChase (Previously under the Moniker "Community Environments") has been moved to his own [Environment Library](https://github.com/MadChase/ChaseEnvs). Show them some love!
+
+<br>
+
 [Support What I Do!](https://ko-fi.com/phoenixbs)
 
 <br>
