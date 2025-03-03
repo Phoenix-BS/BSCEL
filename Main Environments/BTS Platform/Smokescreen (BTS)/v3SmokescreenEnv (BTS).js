@@ -5,7 +5,6 @@ const { toNamespacedPath } = require("path");
 let map = JSON.parse(fs.readFileSync("ExpertPlusLawless.dat"));
 let fileOutput = "ExpertPlusLightshow.dat";
 
-
 ///// ^^^^^ input ^^^^^ /////
 ///// vvv workspace vvv /////
 
@@ -395,7 +394,7 @@ map.customData.environment = [
     scale: [2, 10, 0.25]
   },
   {
-    id: "4\\]SideLaser$",
+    id: "0\\]SideLaser$",
     lookupMethod: "Regex",
     position: [LaserBloomOffset * 2, -7.5, -50],
     rotation: [90, 0, 0],

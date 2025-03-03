@@ -1304,7 +1304,7 @@
             ]
         },
         {
-            "id": "\\[44]\\SideLaser$",
+            "id": "\\[40]\\SideLaser$",
             "lookupMethod": "Regex",
             "scale": [
                 200,
