@@ -33,15 +33,9 @@ If you are photo epileptic or sensitive to flashing lights it's recommended you 
 
 This library was heavily inspired by [Lonely's Chroma Environment Library](https://github.com/LonelyCen/Chroma-Environments) and is dedicated to Lone <3
 
-If you have any questions or concerns feel free to reach out to me on discord! **phoenix5_**
-
 <br>
 
 ## --> [Main Environments](https://github.com/Phoenix-BS/BSCEL/tree/main/Main%20Environments) <--
-
-<br>
-
-The environments page containing those made by MadChase (Previously under the Moniker "Community Environments") has been moved to his own [Environment Library](https://github.com/MadChase/ChaseEnvs). Show them some love!
 
 <br>
 
@@ -49,4 +43,4 @@ The environments page containing those made by MadChase (Previously under the Mo
 
 <br>
 
-ty to anyone who uses anything in this library, you're amazing <3
+this library is no longer being activly maintained. ty for everything <3
