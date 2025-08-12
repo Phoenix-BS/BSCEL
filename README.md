@@ -44,3 +44,4 @@ This library was heavily inspired by [Lonely's Chroma Environment Library](https
 <br>
 
 this library is no longer being activly maintained. ty for everything <3
+need support? contact rategyro on discord
